@@ -101,7 +101,7 @@ Product discovery, new product development, MVP definition, product delivery, we
 ## Languages
 
 - Czech — native
-- English — advanced
+- English — B2/C1
 
 ## Education and certification
 

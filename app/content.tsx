@@ -306,7 +306,7 @@ export const ui = {
     ],
     groups: [
       ["Oblasti", "Product discovery · New product development · MVP definition · Product delivery · Wealth management · Open banking · Payments · Digital identity"],
-      ["Jazyky", "Čeština — rodilý mluvčí · Angličtina — pokročilá"],
+      ["Jazyky", "Čeština — rodilý mluvčí · Angličtina — B2/C1"],
       ["Vzdělání", "Informační management, Univerzita Hradec Králové · PSPO I, Scrum.org"],
     ],
     contactLabel: "Kontakt",
@@ -351,7 +351,7 @@ export const ui = {
     ],
     groups: [
       ["Areas", "Product discovery · New product development · MVP definition · Product delivery · Wealth management · Open banking · Payments · Digital identity"],
-      ["Languages", "Czech — native · English — advanced"],
+      ["Languages", "Czech — native · English — B2/C1"],
       ["Education", "Information Management, University of Hradec Králové · PSPO I, Scrum.org"],
     ],
     contactLabel: "Contact",

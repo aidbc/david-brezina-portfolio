@@ -297,7 +297,7 @@ V posledních letech se zaměřuji hlavně na fintech a wealth management. Vedle
 ### Jazyky
 
 - Čeština, rodilý mluvčí
-- Angličtina, pokročilá
+- Angličtina, B2/C1
 
 ### Nástroje
 
@@ -581,7 +581,7 @@ In recent years, I have focused mainly on fintech and wealth management. Alongsi
 ### Languages
 
 - Czech, native
-- English, advanced
+- English, B2/C1
 
 ### Tools
 

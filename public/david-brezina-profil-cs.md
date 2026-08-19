@@ -101,7 +101,7 @@ Product discovery, new product development, MVP definition, product delivery, we
 ## Jazyky
 
 - Čeština — rodilý mluvčí
-- Angličtina — pokročilá
+- Angličtina — B2/C1
 
 ## Vzdělání a certifikace
 
