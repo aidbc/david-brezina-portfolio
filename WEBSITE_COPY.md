@@ -203,6 +203,66 @@ Detail projektu
 
 https://www.shoptetpay.com/
 
+### Projekt 5: Fairo
+
+**Období**
+
+2020–2021 · přibližně jeden rok
+
+**Krátký popis**
+
+Stabilizace early-stage mobilní finanční aplikace pro živnostníky a rozvoj klíčových funkcí pro účetnictví a daně.
+
+**Moje role**
+
+Product Owner
+
+**Co jsem dělal**
+
+Vedl jsem jeden ze tří vývojových týmů a odpovídal za oblast accounting, bookkeeping a tax reporting. Pomohl jsem stabilizovat vývoj po příchodu nového týmu, prioritizoval opravy a vedl dodání biometrického ověření a vylepšení daňového reportingu.
+
+**Výsledek**
+
+Stabilizovali jsme práci nového vývojového týmu a posunuli klíčové části produktu, mimo jiné biometrické ověření a daňový reporting.
+
+**Štítky**
+
+Fintech · Stabilisation · Delivery
+
+**Odkaz**
+
+Detail projektu
+
+### Projekt 6: Digitální dílna
+
+**Období**
+
+2019 · přibližně čtyři měsíce
+
+**Krátký popis**
+
+Vybudování digitální agentury, která pomáhala živnostníkům a malým firmám se vstupem do online prostředí.
+
+**Moje role**
+
+Project CEO
+
+**Co jsem dělal**
+
+Odpovídal jsem za vznik projektu od produktové vize po spuštění: P&L, sestavení týmu, produktovou strategii, rozsah MVP, právní entitu, marketing a dodání webu i aplikace pro objednávání služeb.
+
+**Výsledek**
+
+Během přibližně čtyř měsíců jsme postavili agenturu od nuly, spustili nabídku služeb i objednávkovou aplikaci a splnili první cíle po uvedení na trh.
+
+**Štítky**
+
+0→1 · Venture building · Launch
+
+**Odkaz**
+
+Detail projektu
+
 ## Zkušenosti
 
 ### Nadpis
@@ -247,7 +307,7 @@ Související projekt: Shoptet Pay
 
 ### Creative Dock
 
-**Product Owner / Project Lead**  
+**Product Owner / Project CEO**
 září 2019 – listopad 2021 · freelance · Praha
 
 Ve Fairo jsem jako Product Owner vedl produktový tým zaměřený na fakturaci, účetnictví a daně pro živnostníky. Později jsem vedl celý projekt digitální agentury pro malé firmy, který vznikal ve spolupráci s KB a Visa.
@@ -536,6 +596,58 @@ Payments · Open banking · Launch
 
 https://www.shoptetpay.com/
 
+### Project 5: Fairo
+
+**Period**
+
+2020–2021 · approximately one year
+
+**Short description**
+
+Stabilising an early-stage mobile finance app for freelancers and developing core accounting and tax features.
+
+**My role**
+
+Product Owner
+
+**What I did**
+
+I led one of three development teams and owned accounting, bookkeeping and tax reporting. I helped stabilise delivery after a new engineering team joined, prioritised fixes and led the delivery of biometric authentication and tax-reporting improvements.
+
+**Outcome**
+
+We stabilised the new development team's work and advanced key parts of the product, including biometric authentication and tax reporting.
+
+**Tags**
+
+Fintech · Stabilisation · Delivery
+
+### Project 6: Digitální dílna
+
+**Period**
+
+2019 · approximately four months
+
+**Short description**
+
+Building a digital agency that helped freelancers and small businesses take their first steps online.
+
+**My role**
+
+Project CEO
+
+**What I did**
+
+I was responsible for taking the project from product vision to launch: P&L, team setup, product strategy, MVP scope, legal entity, marketing, and delivery of the website and service-ordering application.
+
+**Outcome**
+
+In approximately four months, we built the agency from scratch, launched its service offering and ordering application, and met the initial post-launch goals.
+
+**Tags**
+
+0→1 · Venture building · Launch
+
 ## Experience
 
 ### Vacuumlabs
@@ -576,7 +688,7 @@ Related project: Shoptet Pay
 
 ### Creative Dock
 
-**Product Owner / Project Lead**  
+**Product Owner / Project CEO**
 September 2019 – November 2021 · freelance · Prague
 
 At Fairo, I worked as Product Owner for a team focused on invoicing, bookkeeping and taxation for freelancers. I later led a digital agency project for small businesses, created with KB and Visa.

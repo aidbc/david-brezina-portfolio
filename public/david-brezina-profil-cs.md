@@ -59,6 +59,26 @@ Detail: `/projekty/stealth-trading-app.md`
 
 Detail: `/projekty/shoptet-pay.md`
 
+### Fairo
+
+- **Role:** Product Owner
+- **Období:** 2020–2021, přibližně jeden rok
+- **Zadání:** Stabilizovat early-stage mobilní finanční aplikaci pro živnostníky a pokračovat v rozvoji klíčových funkcí.
+- **Moje práce:** Produktové vedení týmu pro accounting, bookkeeping a tax reporting, stabilizace vývoje, prioritizace oprav, biometrické ověření a rozvoj daňového reportingu.
+- **Výsledek:** Stabilizovaná práce nového vývojového týmu a posun klíčových částí produktu včetně biometrického ověření a daňového reportingu.
+
+Detail: `/projekty/fairo.md`
+
+### Digitální dílna
+
+- **Role:** Project CEO
+- **Období:** 2019, přibližně čtyři měsíce
+- **Zadání:** Vybudovat digitální agenturu pro živnostníky a malé firmy od prvního návrhu po spuštění.
+- **Moje práce:** P&L, sestavení týmu, produktová strategie, rozsah MVP, právní entita, marketing, web a aplikace pro objednávání služeb.
+- **Výsledek:** Agentura, nabídka služeb a objednávková aplikace spuštěné během přibližně čtyř měsíců; splnění prvních cílů po uvedení na trh.
+
+Detail: `/projekty/digitalni-dilna.md`
+
 ## Zkušenosti
 
 ### Vacuumlabs — Senior Product Manager / Product Lead
@@ -79,7 +99,7 @@ Produktový vývoj open-banking platformy. Dodali jsme novou klientskou administ
 
 Rozvoj Shoptet Pay pro e-shopy v CZ, SK a HU. Odpovědnost za product discovery, backlog a vývoj open-banking funkcí včetně automatického párování plateb s objednávkami.
 
-### Creative Dock — Product Owner / Project Lead
+### Creative Dock — Product Owner / Project CEO
 
 **září 2019–listopad 2021 · freelance · Praha**
 

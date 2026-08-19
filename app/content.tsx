@@ -133,6 +133,63 @@ export const projects: Record<Locale, Project[]> = {
         "Shoptet Pay nebyl pouze další způsob platby. Nejdůležitější bylo spojit více služeb do jednoho produktu, který obchodník spravuje přímo v prostředí svého e-shopu.",
       publicUrl: "https://www.shoptetpay.com/",
     },
+    {
+      slug: "fairo",
+      number: "05",
+      title: "Fairo",
+      period: "2020–2021 · přibližně jeden rok",
+      type: "Fintech · Small business",
+      role: "Product Owner",
+      summary:
+        "Stabilizace early-stage mobilní finanční aplikace pro živnostníky a rozvoj klíčových funkcí pro účetnictví a daně.",
+      contribution:
+        "Do Fairo jsem nastoupil jako Product Owner jednoho ze tří vývojových týmů v období krátce po spuštění produktu. Odpovídal jsem za tým zaměřený na accounting, bookkeeping a tax reporting. Mým úkolem bylo stabilizovat vývoj po příchodu nového týmu, zlepšit spolehlivost aplikace a dodat důležité funkce pro další rozvoj produktu.",
+      outcome:
+        "Stabilizovali jsme práci nového vývojového týmu a posunuli klíčové části produktu, mimo jiné biometrické ověření a daňový reporting.",
+      tags: ["Fintech", "Stabilisation", "Delivery"],
+      context:
+        "Fairo byl ambiciózní fintech startup vzniklý ve spolupráci Creative Dock a Raiffeisen Bank International. Mobilní aplikace pomáhala živnostníkům s každodenními financemi, fakturací, účetnictvím a daňovými povinnostmi. Prvním trhem byla Ukrajina a následovala expanze do Rumunska.",
+      challenge:
+        "Produkt byl v early-stage fázi krátce po spuštění. Bylo potřeba stabilizovat aplikaci i způsob vývoje, zapojit nový tým a současně pokračovat v dodávání funkcí důležitých pro uživatele i další expanzi.",
+      actions: [
+        "Převzal jsem produktové vedení týmu pro accounting, bookkeeping a tax reporting.",
+        "Pomohl jsem stabilizovat vývoj po příchodu nového vývojového týmu.",
+        "Prioritizoval jsem opravy a produktové změny potřebné pro spolehlivější fungování aplikace.",
+        "Vedl jsem dodání biometrického ověření a dalších nezbytných funkcí.",
+        "Rozvíjel jsem tax reporting včetně podpory přípravy daňového přiznání.",
+      ],
+      reflection:
+        "U early-stage produktu není product management jen o nových funkcích. Nejdříve je často potřeba stabilizovat produkt, tým i způsob rozhodování, aby mohl další rozvoj dávat smysl.",
+    },
+    {
+      slug: "digitalni-dilna",
+      number: "06",
+      title: "Digitální dílna",
+      period: "2019 · přibližně čtyři měsíce",
+      type: "Venture building · Small business",
+      role: "Project CEO",
+      summary:
+        "Vybudování digitální agentury, která pomáhala živnostníkům a malým firmám se vstupem do online prostředí.",
+      contribution:
+        "Jako Project CEO jsem nesl odpovědnost za vznik projektu od produktové vize po spuštění. Řídil jsem P&L, sestavení týmu, produktovou strategii a rozsah MVP a koordinoval marketing, copywriting, právní oblast i vytvoření právní entity. Součástí bylo také dodání webu a aplikace pro objednávání služeb.",
+      outcome:
+        "Během přibližně čtyř měsíců jsme postavili agenturu od nuly, spustili nabídku služeb i objednávkovou aplikaci a splnili první cíle po uvedení na trh.",
+      tags: ["0→1", "Venture building", "Launch"],
+      context:
+        "Digitální dílna vznikla ve spolupráci Creative Dock, Komerční banky a Visa. Cílem bylo pomoci živnostníkům a malým firmám udělat první praktické kroky v online světě prostřednictvím dostupných digitálních služeb.",
+      challenge:
+        "Nešlo pouze o návrh webu nebo aplikace. V krátkém čase bylo potřeba vytvořit celý fungující podnik: nabídku služeb, ekonomický model, tým, právní zázemí, marketing, proces objednání i způsob samotného doručení služeb.",
+      actions: [
+        "Převedl jsem produktovou vizi do strategie, rozsahu MVP a konkrétního plánu spuštění.",
+        "Odpovídal jsem za P&L projektu a scoping interního i externího týmu.",
+        "Koordinoval jsem marketing, copywriting, právníky a další partnery potřebné pro vznik agentury.",
+        "Vedl jsem založení právní entity a nastavení základního provozního modelu.",
+        "Řídil jsem realizaci webových stránek a aplikace pro objednávání služeb.",
+        "Dovedl jsem projekt od prvního návrhu ke spuštění během přibližně čtyř měsíců.",
+      ],
+      reflection:
+        "Projekt ukázal, že u venture buildingu je digitální produkt pouze jednou částí výsledku. Stejně důležité je sladit ekonomiku, provoz, právní rámec, marketing a způsob doručení služby.",
+    },
   ],
   en: [
     {
@@ -248,6 +305,63 @@ export const projects: Record<Locale, Project[]> = {
         "Shoptet Pay was more than another payment method. The key was bringing several services into one product that merchants could manage directly within their e-shop environment.",
       publicUrl: "https://www.shoptetpay.com/",
     },
+    {
+      slug: "fairo",
+      number: "05",
+      title: "Fairo",
+      period: "2020–2021 · approximately one year",
+      type: "Fintech · Small business",
+      role: "Product Owner",
+      summary:
+        "Stabilising an early-stage mobile finance app for freelancers and developing core accounting and tax features.",
+      contribution:
+        "I joined Fairo as Product Owner for one of three development teams shortly after the product launched. I owned the team focused on accounting, bookkeeping and tax reporting. My role was to stabilise delivery after a new engineering team joined, improve the application's reliability and deliver the capabilities needed for further product development.",
+      outcome:
+        "We stabilised the new development team's work and advanced key parts of the product, including biometric authentication and tax reporting.",
+      tags: ["Fintech", "Stabilisation", "Delivery"],
+      context:
+        "Fairo was an ambitious fintech startup created by Creative Dock in partnership with Raiffeisen Bank International. Its mobile app helped freelancers manage everyday finances, invoicing, bookkeeping and tax obligations. Ukraine was the first market, followed by expansion into Romania.",
+      challenge:
+        "The product was in an early stage shortly after launch. We needed to stabilise both the application and the delivery process, onboard a new engineering team and continue shipping capabilities important to users and further expansion.",
+      actions: [
+        "I took product ownership of the accounting, bookkeeping and tax-reporting team.",
+        "I helped stabilise delivery after a new engineering team joined the project.",
+        "I prioritised fixes and product changes needed to improve the application's reliability.",
+        "I led the delivery of biometric authentication and other essential capabilities.",
+        "I developed tax reporting, including support for preparing tax returns.",
+      ],
+      reflection:
+        "Product management in an early-stage product is not only about new features. The product, team and decision-making process often need to be stabilised first so that further development can create value.",
+    },
+    {
+      slug: "digitalni-dilna",
+      number: "06",
+      title: "Digitální dílna",
+      period: "2019 · approximately four months",
+      type: "Venture building · Small business",
+      role: "Project CEO",
+      summary:
+        "Building a digital agency that helped freelancers and small businesses take their first steps online.",
+      contribution:
+        "As Project CEO, I was responsible for taking the initiative from product vision to launch. I owned the P&L, team setup, product strategy and MVP scope, and coordinated marketing, copywriting, legal work and the creation of a legal entity. The work also included delivering the website and an application for ordering services.",
+      outcome:
+        "In approximately four months, we built the agency from scratch, launched its service offering and ordering application, and met the initial post-launch goals.",
+      tags: ["0→1", "Venture building", "Launch"],
+      context:
+        "Digitální dílna was created by Creative Dock in partnership with Komerční banka and Visa. Its purpose was to help freelancers and small businesses take practical first steps online through accessible digital services.",
+      challenge:
+        "This was not just a website or application project. In a short period, we had to create an operating business: the service proposition, economic model, team, legal setup, marketing, ordering journey and the process for delivering the services themselves.",
+      actions: [
+        "I translated the product vision into a strategy, MVP scope and actionable launch plan.",
+        "I owned the project P&L and scoped the internal and external team.",
+        "I coordinated marketing, copywriting, legal work and the other partners needed to establish the agency.",
+        "I led the creation of the legal entity and the initial operating model.",
+        "I directed the delivery of the website and service-ordering application.",
+        "I took the project from initial concept to launch in approximately four months.",
+      ],
+      reflection:
+        "The project showed that in venture building, the digital product is only one part of the outcome. The economics, operations, legal framework, marketing and service delivery model are equally important.",
+    },
   ],
 };
 
@@ -282,10 +396,11 @@ export const experience = {
     },
     {
       company: "Creative Dock",
-      role: "Product Owner / Project Lead",
+      role: "Product Owner / Project CEO",
       period: "září 2019 – listopad 2021",
       meta: "freelance · Praha",
       text: "Ve Fairo jsem vedl tým pro fakturaci, účetnictví a daně živnostníků. Později jsem od nuly vedl projekt digitální agentury pro malé firmy.",
+      links: ["fairo", "digitalni-dilna"],
     },
     {
       company: "Česká spořitelna",
@@ -325,10 +440,11 @@ export const experience = {
     },
     {
       company: "Creative Dock",
-      role: "Product Owner / Project Lead",
+      role: "Product Owner / Project CEO",
       period: "September 2019 – November 2021",
       meta: "freelance · Prague",
       text: "At Fairo, I led a team focused on invoicing, bookkeeping and taxation for freelancers. I later led a digital-agency project for small businesses from scratch.",
+      links: ["fairo", "digitalni-dilna"],
     },
     {
       company: "Česká spořitelna",
