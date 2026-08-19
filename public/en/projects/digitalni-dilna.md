@@ -12,7 +12,7 @@ language: en
 - **Brief:** Build a digital agency for freelancers and small businesses from initial concept to launch.
 - **Role:** Project CEO
 - **Ownership:** P&L, team, product strategy, MVP, legal entity, marketing, website and ordering application.
-- **Outcome:** The agency, service offering and ordering application launched in approximately four months, meeting the initial post-launch goals.
+- **Outcome:** The agency, service offering and ordering application launched in approximately four months; we then secured our first client projects.
 
 ## Context and challenge
 
@@ -35,7 +35,7 @@ As Project CEO, I was responsible for taking the initiative from product vision 
 
 ## Outcome
 
-In approximately four months, we built the agency from scratch, launched its service offering and ordering application, and met the initial post-launch goals.
+In approximately four months, we built the agency from scratch, launched its service offering and ordering application, and secured our first client projects.
 
 ## Reflection
 

@@ -75,7 +75,7 @@ Detail: `/en/projects/fairo.md`
 - **Period:** 2019, approximately four months
 - **Brief:** Build a digital agency for freelancers and small businesses from initial concept to launch.
 - **My work:** P&L, team setup, product strategy, MVP scope, legal entity, marketing, website and service-ordering application.
-- **Outcome:** The agency, service offering and ordering application launched in approximately four months, meeting the initial post-launch goals.
+- **Outcome:** The agency, service offering and ordering application launched in approximately four months; we then secured our first client projects.
 
 Detail: `/en/projects/digitalni-dilna.md`
 

@@ -75,7 +75,7 @@ Detail: `/projekty/fairo.md`
 - **Období:** 2019, přibližně čtyři měsíce
 - **Zadání:** Vybudovat digitální agenturu pro živnostníky a malé firmy od prvního návrhu po spuštění.
 - **Moje práce:** P&L, sestavení týmu, produktová strategie, rozsah MVP, právní entita, marketing, web a aplikace pro objednávání služeb.
-- **Výsledek:** Agentura, nabídka služeb a objednávková aplikace spuštěné během přibližně čtyř měsíců; splnění prvních cílů po uvedení na trh.
+- **Výsledek:** Agentura, nabídka služeb a objednávková aplikace spuštěné během přibližně čtyř měsíců; po spuštění jsme získali první zakázky.
 
 Detail: `/projekty/digitalni-dilna.md`
 

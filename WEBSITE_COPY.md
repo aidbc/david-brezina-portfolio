@@ -253,7 +253,7 @@ Odpovídal jsem za vznik projektu od produktové vize po spuštění: P&L, sesta
 
 **Výsledek**
 
-Během přibližně čtyř měsíců jsme postavili agenturu od nuly, spustili nabídku služeb i objednávkovou aplikaci a splnili první cíle po uvedení na trh.
+Během přibližně čtyř měsíců jsme postavili agenturu od nuly, spustili nabídku služeb i objednávkovou aplikaci a získali první zakázky.
 
 **Štítky**
 
@@ -642,7 +642,7 @@ I was responsible for taking the project from product vision to launch: P&L, tea
 
 **Outcome**
 
-In approximately four months, we built the agency from scratch, launched its service offering and ordering application, and met the initial post-launch goals.
+In approximately four months, we built the agency from scratch, launched its service offering and ordering application, and secured our first client projects.
 
 **Tags**
 

@@ -12,7 +12,7 @@ language: cs
 - **Zadání:** Vybudovat digitální agenturu pro živnostníky a malé firmy od prvního návrhu po spuštění.
 - **Role:** Project CEO
 - **Ownership:** P&L, tým, produktová strategie, MVP, právní entita, marketing, web a objednávková aplikace.
-- **Výsledek:** Agentura, nabídka služeb a objednávková aplikace spuštěné během přibližně čtyř měsíců; splnění prvních cílů po uvedení na trh.
+- **Výsledek:** Agentura, nabídka služeb a objednávková aplikace spuštěné během přibližně čtyř měsíců; po spuštění jsme získali první zakázky.
 
 ## Kontext a výzva
 
@@ -35,7 +35,7 @@ Jako Project CEO jsem nesl odpovědnost za vznik projektu od produktové vize po
 
 ## Výsledek
 
-Během přibližně čtyř měsíců jsme postavili agenturu od nuly, spustili nabídku služeb i objednávkovou aplikaci a splnili první cíle po uvedení na trh.
+Během přibližně čtyř měsíců jsme postavili agenturu od nuly, spustili nabídku služeb i objednávkovou aplikaci a získali první zakázky.
 
 ## Reflexe
 

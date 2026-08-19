@@ -173,7 +173,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "Jako Project CEO jsem nesl odpovědnost za vznik projektu od produktové vize po spuštění. Řídil jsem P&L, sestavení týmu, produktovou strategii a rozsah MVP a koordinoval marketing, copywriting, právní oblast i vytvoření právní entity. Součástí bylo také dodání webu a aplikace pro objednávání služeb.",
       outcome:
-        "Během přibližně čtyř měsíců jsme postavili agenturu od nuly, spustili nabídku služeb i objednávkovou aplikaci a splnili první cíle po uvedení na trh.",
+        "Během přibližně čtyř měsíců jsme postavili agenturu od nuly, spustili nabídku služeb i objednávkovou aplikaci a získali první zakázky.",
       tags: ["0→1", "Venture building", "Launch"],
       context:
         "Digitální dílna vznikla ve spolupráci Creative Dock, Komerční banky a Visa. Cílem bylo pomoci živnostníkům a malým firmám udělat první praktické kroky v online světě prostřednictvím dostupných digitálních služeb.",
@@ -345,7 +345,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "As Project CEO, I was responsible for taking the initiative from product vision to launch. I owned the P&L, team setup, product strategy and MVP scope, and coordinated marketing, copywriting, legal work and the creation of a legal entity. The work also included delivering the website and an application for ordering services.",
       outcome:
-        "In approximately four months, we built the agency from scratch, launched its service offering and ordering application, and met the initial post-launch goals.",
+        "In approximately four months, we built the agency from scratch, launched its service offering and ordering application, and secured our first client projects.",
       tags: ["0→1", "Venture building", "Launch"],
       context:
         "Digitální dílna was created by Creative Dock in partnership with Komerční banka and Visa. Its purpose was to help freelancers and small businesses take practical first steps online through accessible digital services.",
