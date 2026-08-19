@@ -80,7 +80,6 @@ export default function Home() {
         </div>
 
         <div className="portrait-wrap" aria-label="Portrét Davida Březiny">
-          <div className="portrait-orbit" aria-hidden="true">0→1&nbsp;&nbsp;PRODUCT&nbsp;&nbsp;BUILDER&nbsp;&nbsp;</div>
           <div className="portrait-frame">
             <Image
               src="/david-brezina.png"
@@ -169,11 +168,11 @@ export default function Home() {
           <div className="component-panel palette-panel">
             <p className="panel-label">01 / Barvy</p>
             <div className="swatches">
-              <div className="swatch navy"><span>Navy</span><small>#11253D</small></div>
-              <div className="swatch paper"><span>Paper</span><small>#F4F0E8</small></div>
-              <div className="swatch oxblood"><span>Oxblood</span><small>#8D2636</small></div>
-              <div className="swatch forest"><span>Forest</span><small>#174F3A</small></div>
-              <div className="swatch ochre"><span>Ochre</span><small>#D5A62E</small></div>
+              <div className="swatch navy"><span>Navy</span><small>#122033</small></div>
+              <div className="swatch paper"><span>Ivory</span><small>#F6F5F2</small></div>
+              <div className="swatch oxblood"><span>Burgundy</span><small>#753341</small></div>
+              <div className="swatch forest"><span>Forest</span><small>#2F4A40</small></div>
+              <div className="swatch ochre"><span>Brass</span><small>#B39455</small></div>
             </div>
           </div>
 
