@@ -13,9 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "David Březina — Product Lead",
+  title: {
+    default: "David Březina — Product Lead",
+    template: "%s",
+  },
   description:
-    "Portfolio Product Leada zaměřeného na vývoj nových digitálních produktů od discovery po launch.",
+    "Nové digitální produkty od discovery a definice MVP po delivery a spuštění.",
+  authors: [{ name: "David Březina" }],
+  creator: "David Březina",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
@@ -29,9 +34,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="cs">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}
       </body>
     </html>
