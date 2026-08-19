@@ -200,8 +200,8 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
           <div className="contact-bottom">
             <p>{copy.contactText}</p>
             <div className="contact-actions">
-              <a className="button button-light" href="mailto:brezina.david@gmail.com">
-                {copy.write} <Arrow />
+              <a className="contact-email" href="mailto:brezina.david@gmail.com">
+                brezina.david@gmail.com
               </a>
               <a className="contact-link" href="tel:+420603424391">
                 {copy.call}: +420 603 424 391

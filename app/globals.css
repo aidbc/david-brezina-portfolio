@@ -198,6 +198,8 @@ h1, h2, h3 { text-wrap: balance; }
 .contact-bottom { margin-top: 3.7rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,.2); display: flex; justify-content: space-between; align-items: center; gap: 2rem; }
 .contact-bottom > p { max-width: 31rem; margin: 0; color: #bdc6ce; }
 .contact-actions { display: flex; align-items: center; gap: 1.5rem; }
+.contact-email { color: white; font-size: .875rem; font-weight: 650; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.45); padding-bottom: .3rem; }
+.contact-email:hover, .contact-email:focus-visible { border-color: white; }
 .contact-link { color: #dce1e5; font-size: .75rem; }
 .site-footer { min-height: 7rem; display: grid; grid-template-columns: 1fr auto auto auto; gap: 2rem; align-items: center; color: var(--color-text-secondary); font-size: .625rem; letter-spacing: .08em; text-transform: uppercase; }
 
