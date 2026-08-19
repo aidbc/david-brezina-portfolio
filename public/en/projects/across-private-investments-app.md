@@ -1,11 +1,11 @@
 ---
-title: Across Private Investments App
+title: Across Wealth Mobile Investment App
 role: Product Owner
 period: 2026-02/2026-07
 language: en
 ---
 
-# Across Private Investments App
+# Across Wealth Mobile Investment App
 
 ## At a glance
 

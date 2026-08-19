@@ -19,7 +19,7 @@ I lead discovery, help teams find the right MVP, and bring business, design and 
 
 ## Selected projects
 
-### Across Private Investments App
+### Across Wealth Mobile Investment App
 
 - **Role:** Product Owner
 - **Period:** February–July 2026
@@ -43,9 +43,9 @@ Detail: `/en/projects/wealth-management-product-discovery.md`
 
 - **Role:** Product Lead / Product Owner
 - **Period:** July 2024–January 2025
-- **Brief:** Test a mobile investment app built around AI recommendations and social trading.
-- **My work:** Market research, interviews, competitor analysis, personas, story mapping, AI feature design and prototype preparation.
-- **Outcome:** A four-week discovery validated the core concepts, followed by an actionable development plan and a working prototype.
+- **Brief:** Create an AI-powered mobile investment app for stocks and ETFs with social-trading features.
+- **My work:** Four-week discovery, definition of the value proposition and MVP, followed by leading development of the first version as Product Lead and Product Owner.
+- **Outcome:** Validated product concepts and a first version developed over the following six months.
 
 Detail: `/en/projects/stealth-trading-app.md`
 

@@ -1,11 +1,11 @@
 ---
-title: Across Private Investments App
+title: Mobilní investiční aplikace Across Wealth
 role: Product Owner
 period: 2026-02/2026-07
 language: cs
 ---
 
-# Across Private Investments App
+# Mobilní investiční aplikace Across Wealth
 
 ## Stručně
 

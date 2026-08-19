@@ -11,6 +11,12 @@ export function ProjectPage({ project, locale }: { project: Project; locale: Loc
   const markdownUrl = isCs
     ? `/projekty/${project.slug}.md`
     : `/en/projects/${project.slug}.md`;
+  const localeProjects = projects[locale];
+  const projectIndex = localeProjects.findIndex((entry) => entry.slug === project.slug);
+  const nextProject = localeProjects[(projectIndex + 1) % localeProjects.length];
+  const nextProjectUrl = isCs
+    ? `/projekty/${nextProject.slug}`
+    : `/en/projects/${nextProject.slug}`;
 
   return (
     <main id="top">
@@ -94,10 +100,15 @@ export function ProjectPage({ project, locale }: { project: Project; locale: Loc
 
       <section className="next-project">
         <div className="container next-project-inner">
-          <p>{isCs ? "Další krok" : "Next step"}</p>
-          <h2>{isCs ? "Prohlédnout další projekty" : "Explore more projects"}</h2>
-          <a className="button button-light" href={`${home}#${isCs ? "projekty" : "projects"}`}>
-            {isCs ? "Zpět na portfolio" : "Back to portfolio"} <Arrow />
+          <p className="next-project-label">{isCs ? "Další projekt" : "Next project"}</p>
+          <h2>
+            <a className="next-project-link" href={nextProjectUrl}>
+              {nextProject.title} <span aria-hidden="true">→</span>
+            </a>
+          </h2>
+          <p className="next-project-summary">{nextProject.summary}</p>
+          <a className="next-project-back" href={`${home}#${isCs ? "projekty" : "projects"}`}>
+            ← {isCs ? "Zpět na přehled projektů" : "Back to all projects"}
           </a>
         </div>
       </section>

@@ -10,23 +10,23 @@ confidential: true
 
 ## At a glance
 
-- **Brief:** Test a new investment app with AI recommendations and social trading.
+- **Brief:** Create an AI-powered mobile investment app for stocks and ETFs with social-trading features.
 - **Role:** Product Lead / Product Owner
-- **Ownership:** Research, discovery, MVP, AI features and prototype preparation.
-- **Outcome:** Four-week discovery, an actionable development plan and a working prototype.
+- **Ownership:** Discovery, value proposition, MVP, AI features and leadership of the first-version development.
+- **Outcome:** Four-week discovery and a first version developed over the following six months.
 
 ## Context and challenge
 
-The project started with a broad vision and no clear MVP. We had to learn quickly which user problems mattered and where AI could add value rather than complexity.
+The project started with a broad vision and no clear MVP. The goal was to create an AI-powered mobile app for investing in stocks and ETFs that meaningfully combined investment recommendations, contextual insights and social-trading features.
 
 ## My role
 
-I led market research, interviews, competitor analysis and personas. I used story mapping to turn findings into an MVP. I designed AI investment recommendations, a ChatGPT API integration and prompt approaches, then led prototype preparation during the first delivery phase.
+The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the application's value proposition, target users and MVP scope. I used story mapping to shape the first version and designed AI investment recommendations and contextual insights, including a ChatGPT API integration. Over the following six months, I worked as Product Lead and Product Owner, prioritising scope and coordinating development with design and engineering.
 
 ## Outcome
 
-We completed discovery in four weeks and validated the core concepts. The outputs became an actionable development plan, followed by a working prototype.
+In four weeks, we validated the core product concepts and created an actionable plan. Over the following six months, we developed the first version of the application.
 
 ## Reflection
 
-The four-week limit kept the discovery practical. Every output had to support a product decision or the next development step.
+The four-week limit kept the discovery practical. A clear value proposition and MVP scope then gave the team a solid foundation for developing the first version.

@@ -80,7 +80,7 @@ Vybrané projekty
 
 Na projektech mě zajímá hlavně cesta od nejasného zadání ke konkrétnímu produktu. Tady jsou tři příklady.
 
-### Projekt 1: Across Private Investments App
+### Projekt 1: Mobilní investiční aplikace Across Wealth
 
 **Období**
 
@@ -152,7 +152,7 @@ Detail projektu
 
 **Krátký popis**
 
-Discovery nové mobilní investiční aplikace postavené na AI doporučeních a social tradingu.
+Discovery a vývoj AI-powered mobilní investiční aplikace pro akcie a ETF s prvky social tradingu.
 
 **Moje role**
 
@@ -160,11 +160,11 @@ Product Lead, později Product Owner
 
 **Co jsem dělal**
 
-Během čtyř týdnů jsem vedl průzkum trhu, rozhovory s uživateli, analýzu konkurence, tvorbu person a story mapping. V první fázi vývoje jsem jako Product Owner rozpracoval prioritní funkce a vedl přípravu prototypu. Navrhoval jsem také AI investiční doporučení, integraci ChatGPT API a práci s prompty pro investiční scénáře.
+Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovalo přibližně půl roku vývoje první verze aplikace, během něhož jsem působil jako Product Lead a Product Owner.
 
 **Výsledek**
 
-Discovery jsme dokončili za čtyři týdny a ověřili hlavní produktové koncepty. Výstupy se následně převedly do konkrétního plánu vývoje a v první fázi vznikl funkční prototyp.
+Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího přibližně půlročního vývoje jsme vytvořili první verzi aplikace.
 
 **Štítky**
 
@@ -191,7 +191,7 @@ Uvnitř Vacuumlabs jsem se věnoval využití AI v produktových a delivery tým
 
 Související projekty:
 
-- Across Private Investments App
+- Mobilní investiční aplikace Across Wealth
 - Wealth Management Product Discovery
 - Kreditní karta pro britskou credit union
 - B2B portál pro poskytovatele úvěrů
@@ -390,7 +390,7 @@ I have over 10 years of experience, mainly across fintech, banking and wealth ma
 
 The part I enjoy most is turning an unclear brief into a product a team can build. Here are three examples.
 
-### Project 1: Across Private Investments App
+### Project 1: Across Wealth Mobile Investment App
 
 **Period**
 
@@ -454,7 +454,7 @@ July 2024 – January 2025
 
 **Short description**
 
-Discovery for a new mobile investment application built around AI recommendations and social trading.
+Discovery and development of an AI-powered mobile investment app for stocks and ETFs with social-trading features.
 
 **My role**
 
@@ -462,11 +462,11 @@ Product Lead, later Product Owner
 
 **What I did**
 
-Over four weeks, I led market research, user interviews, competitor analysis, personas and story mapping. During the first development phase, I worked as Product Owner, developed the priority features in more detail and led the preparation of a prototype. I also designed AI investment recommendations, a ChatGPT API integration and prompt approaches for investment scenarios.
+The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by roughly six months of development of the first version, where I worked as Product Lead and Product Owner.
 
 **Outcome**
 
-We completed the discovery in four weeks and validated the core product concepts. The outputs were turned into an actionable development plan, followed by a working prototype during the first delivery phase.
+In four weeks, we validated the core product concepts and created an actionable plan. Over the following six months, we developed the first version of the application.
 
 **Tags**
 
@@ -485,7 +485,7 @@ Internally, I worked on practical uses of AI for product and delivery teams.
 
 Related projects:
 
-- Across Private Investments App
+- Across Wealth Mobile Investment App
 - Wealth Management Product Discovery
 - Credit card for a UK credit union
 - B2B lending portal

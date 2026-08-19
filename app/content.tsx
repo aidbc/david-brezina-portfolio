@@ -23,7 +23,7 @@ export const projects: Record<Locale, Project[]> = {
     {
       slug: "across-private-investments-app",
       number: "01",
-      title: "Across Private Investments App",
+      title: "Mobilní investiční aplikace Across Wealth",
       period: "únor – červenec 2026",
       type: "Wealth management · Mobile",
       role: "Product Owner",
@@ -83,31 +83,32 @@ export const projects: Record<Locale, Project[]> = {
       type: "Investments · Applied AI",
       role: "Product Lead / Product Owner",
       summary:
-        "Discovery nové mobilní investiční aplikace postavené na AI doporučeních a social tradingu.",
+        "Discovery a vývoj AI-powered mobilní investiční aplikace pro akcie a ETF s prvky social tradingu.",
       contribution:
-        "Během čtyř týdnů jsem vedl výzkum trhu, rozhovory s uživateli, analýzu konkurence, tvorbu person a story mapping. Potom jsem převzal roli Product Ownera.",
+        "Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovalo přibližně půl roku vývoje první verze aplikace, během něhož jsem působil jako Product Lead a Product Owner.",
       outcome:
-        "Ověřili jsme hlavní produktové koncepty, připravili konkrétní plán vývoje a v první delivery fázi vytvořili funkční prototyp.",
-      tags: ["Research", "AI", "Prototype"],
+        "Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího přibližně půlročního vývoje jsme vytvořili první verzi aplikace.",
+      tags: ["Discovery", "AI", "Delivery"],
       context:
-        "Cílem bylo ověřit, zda může nová investiční aplikace smysluplně spojit AI insighty, investiční doporučení a prvky social tradingu.",
+        "Cílem bylo vytvořit AI-powered mobilní aplikaci pro investování do akcií a ETF, která smysluplně propojí investiční doporučení, kontextové insighty a prvky social tradingu.",
       challenge:
         "Projekt začínal širokou vizí bez jasného MVP. Bylo potřeba rychle zjistit, které problémy uživatelé skutečně řeší a kde může AI přinést užitek místo další složitosti.",
       actions: [
         "Vedl jsem market research, rozhovory, analýzu konkurence a tvorbu person.",
+        "Společně s týmem jsem definoval value proposition celé aplikace a její AI-driven přístup.",
         "Pomocí story mappingu jsem převedl zjištění do návrhu MVP.",
-        "Navrhoval jsem AI investiční doporučení, integraci ChatGPT API a práci s prompty.",
-        "V první fázi delivery jsem rozpracoval prioritní funkce a vedl přípravu prototypu.",
+        "Navrhoval jsem AI investiční doporučení a kontextové insighty, včetně integrace ChatGPT API.",
+        "Jako Product Lead a Product Owner jsem prioritizoval rozsah první verze a koordinoval její vývoj s designéry a vývojovým týmem.",
       ],
       reflection:
-        "Čtyřtýdenní limit pomohl držet discovery praktické. Každý výstup musel přímo podpořit rozhodnutí o produktu nebo navazující vývoj.",
+        "Čtyřtýdenní limit pomohl držet discovery praktické. Jasná value proposition a rozsah MVP pak daly týmu pevný základ pro navazující vývoj první verze.",
     },
   ],
   en: [
     {
       slug: "across-private-investments-app",
       number: "01",
-      title: "Across Private Investments App",
+      title: "Across Wealth Mobile Investment App",
       period: "February – July 2026",
       type: "Wealth management · Mobile",
       role: "Product Owner",
@@ -167,24 +168,25 @@ export const projects: Record<Locale, Project[]> = {
       type: "Investments · Applied AI",
       role: "Product Lead / Product Owner",
       summary:
-        "Discovery for a new mobile investment app built around AI recommendations and social trading.",
+        "Discovery and development of an AI-powered mobile investment app for stocks and ETFs with social-trading features.",
       contribution:
-        "Over four weeks, I led market research, user interviews, competitor analysis, personas and story mapping. I then moved into the Product Owner role.",
+        "The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by roughly six months of development of the first version, where I worked as Product Lead and Product Owner.",
       outcome:
-        "We validated the core concepts, created an actionable development plan and delivered a working prototype during the first delivery phase.",
-      tags: ["Research", "AI", "Prototype"],
+        "In four weeks, we validated the core product concepts and created an actionable plan. Over the following six months, we developed the first version of the application.",
+      tags: ["Discovery", "AI", "Delivery"],
       context:
-        "The goal was to test whether a new investment application could usefully combine AI insights, investment recommendations and social-trading features.",
+        "The goal was to create an AI-powered mobile app for investing in stocks and ETFs that meaningfully combined investment recommendations, contextual insights and social-trading features.",
       challenge:
         "The project started with a broad vision and no clear MVP. We had to learn quickly which user problems mattered and where AI could add value rather than complexity.",
       actions: [
         "I led market research, interviews, competitor analysis and persona development.",
+        "Together with the team, I defined the value proposition for the whole application and its AI-driven approach.",
         "I used story mapping to turn the findings into an MVP proposal.",
-        "I designed AI investment recommendations, a ChatGPT API integration and prompt approaches.",
-        "During the first delivery phase, I developed priority features and led prototype preparation.",
+        "I designed AI investment recommendations and contextual insights, including a ChatGPT API integration.",
+        "As Product Lead and Product Owner, I prioritised the scope of the first version and coordinated its development with design and engineering.",
       ],
       reflection:
-        "The four-week limit kept the discovery practical. Every output had to support a product decision or the next development step.",
+        "The four-week limit kept the discovery practical. A clear value proposition and MVP scope then gave the team a solid foundation for developing the first version.",
     },
   ],
 };

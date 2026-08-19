@@ -19,7 +19,7 @@ Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a v�
 
 ## Vybrané projekty
 
-### Across Private Investments App
+### Mobilní investiční aplikace Across Wealth
 
 - **Role:** Product Owner
 - **Období:** únor–červenec 2026
@@ -43,9 +43,9 @@ Detail: `/projekty/wealth-management-product-discovery.md`
 
 - **Role:** Product Lead / Product Owner
 - **Období:** červenec 2024–leden 2025
-- **Zadání:** Ověřit mobilní investiční aplikaci postavenou na AI doporučeních a social tradingu.
-- **Moje práce:** Market research, rozhovory, konkurence, persony, story mapping, návrh AI funkcí a vedení přípravy prototypu.
-- **Výsledek:** Čtyřtýdenní discovery ověřila hlavní koncepty; následoval konkrétní plán vývoje a funkční prototyp.
+- **Zadání:** Vytvořit AI-powered mobilní investiční aplikaci pro akcie a ETF s prvky social tradingu.
+- **Moje práce:** Čtyřtýdenní discovery, definice value proposition a MVP a následné vedení vývoje první verze jako Product Lead a Product Owner.
+- **Výsledek:** Ověřené produktové koncepty a první verze aplikace vytvořená během navazujícího přibližně půlročního vývoje.
 
 Detail: `/projekty/stealth-trading-app.md`
 

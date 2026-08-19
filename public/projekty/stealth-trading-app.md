@@ -10,23 +10,23 @@ confidential: true
 
 ## Stručně
 
-- **Zadání:** Ověřit novou investiční aplikaci s AI doporučeními a social tradingem.
+- **Zadání:** Vytvořit AI-powered mobilní investiční aplikaci pro akcie a ETF s prvky social tradingu.
 - **Role:** Product Lead / Product Owner
-- **Ownership:** Research, discovery, MVP, AI funkce a příprava prototypu.
-- **Výsledek:** Čtyřtýdenní discovery, konkrétní plán vývoje a funkční prototyp.
+- **Ownership:** Discovery, value proposition, MVP, AI funkce a vedení vývoje první verze.
+- **Výsledek:** Čtyřtýdenní discovery a první verze vytvořená během navazujícího přibližně půlročního vývoje.
 
 ## Kontext a výzva
 
-Projekt začínal širokou vizí bez jasného MVP. Bylo potřeba rychle zjistit, které problémy uživatelé skutečně řeší a kde může AI přinést užitek místo další složitosti.
+Projekt začínal širokou vizí bez jasného MVP. Cílem bylo vytvořit AI-powered mobilní aplikaci pro investování do akcií a ETF, která smysluplně propojí investiční doporučení, kontextové insighty a prvky social tradingu.
 
 ## Moje role
 
-Vedl jsem market research, rozhovory, analýzu konkurence a tvorbu person. Pomocí story mappingu jsem převedl zjištění do MVP. Navrhoval jsem AI investiční doporučení, integraci ChatGPT API a práci s prompty. V první delivery fázi jsem vedl přípravu prototypu.
+Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition aplikace, její cílové uživatele a rozsah MVP. Pomocí story mappingu jsem převedl zjištění do návrhu první verze a navrhoval AI investiční doporučení a kontextové insighty, včetně integrace ChatGPT API. Během navazujícího přibližně půlročního vývoje jsem jako Product Lead a Product Owner prioritizoval rozsah a koordinoval práci designérů a vývojového týmu.
 
 ## Výsledek
 
-Discovery jsme dokončili za čtyři týdny a ověřili hlavní produktové koncepty. Výstupy se převedly do plánu vývoje a v první fázi vznikl funkční prototyp.
+Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího přibližně půlročního vývoje jsme vytvořili první verzi aplikace.
 
 ## Reflexe
 
-Čtyřtýdenní limit pomohl držet discovery praktické. Každý výstup musel přímo podpořit rozhodnutí o produktu nebo navazující vývoj.
+Čtyřtýdenní limit pomohl držet discovery praktické. Jasná value proposition a rozsah MVP pak daly týmu pevný základ pro navazující vývoj první verze.
