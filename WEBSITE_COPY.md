@@ -67,18 +67,13 @@ Mám přes 10 let zkušeností, především z fintechu, bankovnictví a wealth 
 
 - 10+ let v digitálních produktech
 - Od discovery k launchi
-- Fintech a wealth management
-- Praha, práce v CZ/SK/EU
+- Fintech: banking, payments a investing
 
 ## Vybrané projekty
 
 ### Nadpis
 
-Vybrané projekty
-
-### Úvod
-
-Na projektech mě zajímá hlavně cesta od nejasného zadání ke konkrétnímu produktu. Tady jsou čtyři příklady.
+Produkty, na kterých jsem pracoval.
 
 ### Projekt 1: Mobilní investiční aplikace Across Wealth
 
@@ -246,7 +241,7 @@ Dodali jsme novou administraci pro klienty včetně migrace a podpořili vstup n
 **Product Manager, Shoptet Pay**  
 listopad 2021 – prosinec 2022 · freelance · Praha
 
-Podílel jsem se na spuštění a rozvoji Shoptet Pay. Jako Product Owner vývojového týmu jsem vedl discovery, user research a návrh open-banking funkcí pro automatické párování plateb s objednávkami.
+Rozvoj Shoptet Pay pro e-shopy v CZ, SK a HU. Odpovědnost za product discovery, backlog a vývoj open-banking funkcí včetně automatického párování plateb s objednávkami.
 
 Související projekt: Shoptet Pay
 
@@ -417,14 +412,13 @@ I have over 10 years of experience, mainly across fintech, banking and wealth ma
 
 - 10+ years in digital products
 - From discovery to launch
-- Fintech and wealth management
-- Prague, experience across CZ/SK/EU
+- Fintech: banking, payments and investing
 
 ## Selected projects
 
-### Introduction
+### Heading
 
-The part I enjoy most is turning an unclear brief into a product a team can build. Here are four examples.
+Products I've worked on.
 
 ### Project 1: Across Wealth Mobile Investment App
 
@@ -572,7 +566,7 @@ We delivered a new client administration portal, including migration, and suppor
 **Product Manager, Shoptet Pay**  
 November 2021 – December 2022 · freelance · Prague
 
-I contributed to the launch and development of Shoptet Pay. As Product Owner for the development team, I led discovery, user research and the design of open-banking features for automated payment-to-order matching.
+Development of Shoptet Pay for online stores in CZ, SK and HU. Responsible for product discovery, the backlog and open-banking features, including automated payment-to-order matching.
 
 Related project: Shoptet Pay
 

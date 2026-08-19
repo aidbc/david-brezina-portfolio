@@ -77,7 +77,7 @@ Produktový vývoj open-banking platformy. Dodali jsme novou klientskou administ
 
 **listopad 2021–prosinec 2022 · Praha**
 
-Rozvoj platebního řešení pro e-shopy v CZ, SK a HU. Vedl jsem integraci open bankingu pro automatické párování plateb s objednávkami.
+Rozvoj Shoptet Pay pro e-shopy v CZ, SK a HU. Odpovědnost za product discovery, backlog a vývoj open-banking funkcí včetně automatického párování plateb s objednávkami.
 
 ### Creative Dock — Product Owner / Project Lead
 

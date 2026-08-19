@@ -90,7 +90,6 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
             <p className="section-kicker">{copy.projectsLabel}</p>
             <h2>{copy.projectsTitle}</h2>
           </div>
-          <p>{copy.projectsIntro}</p>
         </div>
         <div className="project-list">
           {localizedProjects.map((project) => (

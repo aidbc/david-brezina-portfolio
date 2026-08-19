@@ -77,7 +77,7 @@ Product development for an open-banking platform. We delivered a new client admi
 
 **November 2021–December 2022 · Prague**
 
-A payment solution for online stores in CZ, SK and HU. I led the open-banking integration used to match payments with orders.
+Development of Shoptet Pay for online stores in CZ, SK and HU. Responsible for product discovery, the backlog and open-banking features, including automated payment-to-order matching.
 
 ### Creative Dock — Product Owner / Project Lead
 
