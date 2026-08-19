@@ -30,7 +30,7 @@ export const projects: Record<Locale, Project[]> = {
       summary:
         "Rozšíření původně webové investiční platformy o nativní aplikaci pro iOS a Android.",
       contribution:
-        "Vedl jsem discovery a delivery mobilní aplikace. Definoval jsem MVP, klíčové flows a user stories, vlastnil backlog a slaďoval byznys, design a vývoj.",
+        "Vedl jsem discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem MVP, klíčové flows a user stories, vlastnil backlog a slaďoval byznys, design a vývoj.",
       outcome:
         "Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play. Vznikl také základ pro nový investiční pilíř Across Crowd.",
       tags: ["MVP", "Mobile", "Launch"],
@@ -41,6 +41,7 @@ export const projects: Record<Locale, Project[]> = {
       actions: [
         "Definoval jsem rozsah MVP a hlavní mobilní user flows.",
         "Převedl jsem produktový směr do user stories a průběžně spravoval backlog.",
+        "Koordinoval jsem také navazující rozšíření funkcionality webové platformy.",
         "Slaďoval jsem rozhodnutí mezi byznysem, designem a engineeringem.",
         "Hlídal jsem scope a návaznosti na regulatorní a technické požadavky.",
       ],
@@ -88,7 +89,7 @@ export const projects: Record<Locale, Project[]> = {
         "Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovaly čtyři měsíce vývoje první verze aplikace, během nichž jsem působil jako Product Lead a Product Owner.",
       outcome:
         "Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího čtyřměsíčního vývoje jsme vytvořili první verzi aplikace.",
-      tags: ["Discovery", "AI", "Delivery"],
+      tags: ["0→1", "Discovery", "AI"],
       context:
         "Cílem bylo pro trh na Blízkém východě vytvořit AI-powered mobilní aplikaci pro investování do akcií a ETF, která smysluplně propojí investiční doporučení, kontextové insighty a prvky social tradingu.",
       challenge:
@@ -202,7 +203,7 @@ export const projects: Record<Locale, Project[]> = {
       summary:
         "Extending a web-only investment platform into native iOS and Android applications.",
       contribution:
-        "I led discovery and delivery for the mobile app. I defined the MVP, key flows and user stories, owned the backlog, and aligned business, design and engineering.",
+        "I led discovery and delivery for the mobile app and related enhancements to the web platform. I defined the MVP, key flows and user stories, owned the backlog, and aligned business, design and engineering.",
       outcome:
         "We shipped on schedule and received approval from both Apple and Google. The work also became a foundation for the new Across Crowd investment pillar.",
       tags: ["MVP", "Mobile", "Launch"],
@@ -213,6 +214,7 @@ export const projects: Record<Locale, Project[]> = {
       actions: [
         "I defined the MVP and the core mobile user flows.",
         "I translated the product direction into user stories and managed the backlog.",
+        "I also coordinated related enhancements to the web platform.",
         "I aligned decisions across business, design and engineering.",
         "I managed scope and dependencies related to regulatory and technical requirements.",
       ],
@@ -260,7 +262,7 @@ export const projects: Record<Locale, Project[]> = {
         "The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by four months of development of the first version, where I worked as Product Lead and Product Owner.",
       outcome:
         "In four weeks, we validated the core product concepts and created an actionable plan. Over the following four months, we developed the first version of the application.",
-      tags: ["Discovery", "AI", "Delivery"],
+      tags: ["0→1", "Discovery", "AI"],
       context:
         "The goal was to create an AI-powered mobile app for the Middle Eastern market that meaningfully combined stock and ETF investing, investment recommendations, contextual insights and social-trading features.",
       challenge:

@@ -91,7 +91,7 @@ Product Owner
 
 **Co jsem dělal**
 
-Vedl jsem product discovery a delivery mobilní aplikace. Definoval jsem MVP, klíčové user flows a user stories, vlastnil backlog a průběžně slaďoval byznys, design a vývoj.
+Vedl jsem product discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem MVP, klíčové user flows a user stories, vlastnil backlog a průběžně slaďoval byznys, design a vývoj.
 
 **Výsledek**
 
@@ -163,7 +163,7 @@ Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konk
 
 **Štítky**
 
-Investments · Discovery · AI
+0→1 · Discovery · AI
 
 **Odkaz**
 
@@ -500,7 +500,7 @@ Product Owner
 
 **What I did**
 
-I led product discovery and delivery for the mobile application. I defined the MVP, key user flows and user stories, owned the backlog, and aligned business, design and engineering throughout delivery.
+I led product discovery and delivery for the mobile application and related enhancements to the web platform. I defined the MVP, key user flows and user stories, owned the backlog, and aligned business, design and engineering throughout delivery.
 
 **Outcome**
 
@@ -564,7 +564,7 @@ In four weeks, we validated the core product concepts and created an actionable 
 
 **Tags**
 
-Investments · Discovery · AI
+0→1 · Discovery · AI
 
 ### Project 4: Shoptet Pay
 
