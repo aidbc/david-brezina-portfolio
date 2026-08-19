@@ -104,11 +104,8 @@ a { color: inherit; text-decoration: none; }
 .button-quiet:hover, .button-outline:hover { border-color: var(--navy); }
 
 .portrait-wrap { position: relative; justify-self: center; width: min(100%, 390px); }
-.portrait-frame { position: relative; aspect-ratio: .8; overflow: hidden; border-radius: var(--radius); background: #d9d7d1; border: 1px solid var(--line-strong); }
-.portrait-frame::after { content: ""; position: absolute; inset: 0; box-shadow: inset 0 0 0 1px rgba(17,37,61,.18); }
+.portrait-frame { position: relative; aspect-ratio: .8; overflow: hidden; }
 .portrait-frame img { width: 100%; height: 100%; object-fit: cover; object-position: center 32%; transform: scale(1.02); filter: saturate(.66) contrast(1.05); }
-.availability { position: absolute; left: 18px; bottom: -18px; background: var(--white); border: 1px solid var(--line); padding: 11px 15px; font-size: 10px; font-weight: 700; box-shadow: none; text-transform: uppercase; letter-spacing: .06em; }
-.availability i { display: inline-block; width: 7px; height: 7px; margin-right: 8px; border-radius: 50%; background: var(--forest); }
 .hero-note { grid-column: 1 / -1; align-self: end; display: flex; align-items: baseline; gap: 14px; margin-top: 36px; }
 .hero-note span { color: var(--navy); font-family: var(--display); font-size: 40px; line-height: 1; }
 .hero-note p { margin: 0; max-width: 330px; font-size: 12px; color: var(--muted); }
@@ -211,7 +208,6 @@ input::placeholder, textarea::placeholder { color: #90979c; }
   .hero-lede { font-size: 17px; }
   .hero-actions .button { width: 100%; }
   .portrait-wrap { width: 84%; }
-  .availability { left: 14px; bottom: -16px; }
   .statement, .work, .components, .process, .contact { padding-block: 82px; }
   .statement-copy { font-size: 35px; }
   .section-heading { margin-bottom: 48px; }

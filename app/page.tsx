@@ -86,7 +86,6 @@ export default function Home() {
               priority
             />
           </div>
-          <div className="availability"><i /> Dostupný pro nové výzvy</div>
         </div>
 
         <aside className="hero-note">
