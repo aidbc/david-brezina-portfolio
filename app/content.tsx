@@ -476,7 +476,7 @@ export const ui = {
     projectsTitle: <>Produkty, na kterých jsem pracoval.</>,
     projectLink: "Detail projektu",
     experienceLabel: "Zkušenosti",
-    experienceTitle: <>Startup, scale-up<br />i velká <em>banka.</em></>,
+    experienceTitle: <>Kde jsem pracoval<br />a za co odpovídal.</>,
     processLabel: "Jak pracuji",
     processTitle: <>Od prvního nápadu<br />k fungujícímu produktu.</>,
     process: [
@@ -520,7 +520,7 @@ export const ui = {
     projectsTitle: <>Products I&apos;ve worked on.</>,
     projectLink: "View case study",
     experienceLabel: "Experience",
-    experienceTitle: <>Startup, scale-up<br />and a large <em>bank.</em></>,
+    experienceTitle: <>Where I&apos;ve worked<br />and what I owned.</>,
     processLabel: "How I work",
     processTitle: <>From the first idea<br />to a working product.</>,
     process: [

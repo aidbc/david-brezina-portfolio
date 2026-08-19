@@ -267,7 +267,7 @@ Detail projektu
 
 ### Nadpis
 
-Zkušenosti
+Kde jsem pracoval a za co odpovídal.
 
 ### Vacuumlabs
 
@@ -649,6 +649,10 @@ In approximately four months, we built the agency from scratch, launched its ser
 0→1 · Venture building · Launch
 
 ## Experience
+
+### Heading
+
+Where I've worked and what I owned.
 
 ### Vacuumlabs
 
