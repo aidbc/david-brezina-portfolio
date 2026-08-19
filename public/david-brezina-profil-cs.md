@@ -139,11 +139,23 @@ Vedle fintechu a wealth managementu mě zajímají také produkty v oblastech lo
 
 Rodina, sport, investování, knihy, cestování a historie.
 
-## Vzdělání a certifikace
+## Nástroje
 
-- Informační management, Univerzita Hradec Králové
-- Erasmus, Universidad Politécnica de Madrid
-- Professional Scrum Product Owner I, Scrum.org
+Jira, Miro, Slack, Figma, Confluence, Mixpanel a Hotjar.
+
+## AI stack
+
+Claude Code, Codex, Lovable, GitHub, Linear a n8n.
+
+## Vzdělání
+
+- Univerzita Hradec Králové — magisterské studium, Informační management (2004–2010)
+- Universidad Politécnica de Madrid — Erasmus, Informační management (2009)
+
+## Certifikace
+
+- PRINCE2 Practitioner
+- Professional Scrum Product Owner I, Scrum.org (2022)
 
 ## Kontakt
 

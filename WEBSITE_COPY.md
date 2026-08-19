@@ -392,13 +392,21 @@ V posledních letech se zaměřuji hlavně na fintech a wealth management. Zají
 
 ### Nástroje
 
-Jira, Confluence, Figma, Miro, GitHub, n8n, Metabase, Mixpanel, Hotjar a LLM nástroje.
+Jira, Miro, Slack, Figma, Confluence, Mixpanel a Hotjar.
 
-### Vzdělání a certifikace
+### AI stack
 
-- Univerzita Hradec Králové, Informační management
-- Universidad Politécnica de Madrid, Erasmus
-- Professional Scrum Product Owner I, Scrum.org
+Claude Code, Codex, Lovable, GitHub, Linear a n8n.
+
+### Vzdělání
+
+- Univerzita Hradec Králové — magisterské studium, Informační management (2004–2010)
+- Universidad Politécnica de Madrid — Erasmus, Informační management (2009)
+
+### Certifikace
+
+- PRINCE2 Practitioner
+- Professional Scrum Product Owner I, Scrum.org (2022)
 
 ### Mimo práci
 
@@ -767,16 +775,20 @@ In recent years, I have focused mainly on fintech and wealth management. I am al
 
 ### Tools
 
-Jira, Confluence, Figma, Miro, GitHub, Metabase, Mixpanel, Hotjar
+Jira, Miro, Slack, Figma, Confluence, Mixpanel and Hotjar.
 
 ### AI Stack
-Claude Code, Codex, Github, Lovable, Linear
+Claude Code, Codex, Lovable, GitHub, Linear and n8n.
 
-### Education and certification
+### Education
 
-- University of Hradec Králové, Information Management
-- Universidad Politécnica de Madrid, Erasmus
-- Professional Scrum Product Owner I, Scrum.org
+- University of Hradec Králové — Master’s degree, Information Management (2004–2010)
+- Universidad Politécnica de Madrid — Erasmus, Information Management (2009)
+
+### Certifications
+
+- PRINCE2 Practitioner
+- Professional Scrum Product Owner I, Scrum.org (2022)
 
 ### Outside work
 

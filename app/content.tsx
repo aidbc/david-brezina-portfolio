@@ -494,7 +494,10 @@ export const ui = {
     groups: [
       ["Oblasti", "Product discovery · New product development · MVP definition · Product delivery · Wealth management · Open banking · Payments · Digital identity"],
       ["Jazyky", "Čeština — rodilý mluvčí · Angličtina — B2/C1"],
-      ["Vzdělání", "Informační management, Univerzita Hradec Králové · PSPO I, Scrum.org"],
+      ["Vzdělání", "Univerzita Hradec Králové — magisterské studium, Informační management (2004–2010) · Universidad Politécnica de Madrid — Erasmus, Informační management (2009)"],
+      ["Certifikace", "PRINCE2 Practitioner · PSPO I, Scrum.org (2022)"],
+      ["Nástroje", "Jira · Miro · Slack · Figma · Confluence · Mixpanel · Hotjar"],
+      ["AI stack", "Claude Code · Codex · Lovable · GitHub · Linear · n8n"],
       ["Mimo práci", "Rodina · Sport · Investování · Knihy · Cestování · Historie"],
     ],
     contactLabel: "Kontakt",
@@ -538,7 +541,10 @@ export const ui = {
     groups: [
       ["Areas", "Product discovery · New product development · MVP definition · Product delivery · Wealth management · Open banking · Payments · Digital identity"],
       ["Languages", "Czech — native · English — B2/C1"],
-      ["Education", "Information Management, University of Hradec Králové · PSPO I, Scrum.org"],
+      ["Education", "University of Hradec Králové — Master’s degree, Information Management (2004–2010) · Universidad Politécnica de Madrid — Erasmus, Information Management (2009)"],
+      ["Certifications", "PRINCE2 Practitioner · PSPO I, Scrum.org (2022)"],
+      ["Tools", "Jira · Miro · Slack · Figma · Confluence · Mixpanel · Hotjar"],
+      ["AI stack", "Claude Code · Codex · Lovable · GitHub · Linear · n8n"],
       ["Outside work", "Family · Sport · Investing · Books · Travel · History"],
     ],
     contactLabel: "Contact",

@@ -139,11 +139,23 @@ Beyond fintech and wealth management, I am also interested in products across lo
 
 Family, sport, investing, books, travel and history.
 
-## Education and certification
+## Tools
 
-- Information Management, University of Hradec Králové
-- Erasmus, Universidad Politécnica de Madrid
-- Professional Scrum Product Owner I, Scrum.org
+Jira, Miro, Slack, Figma, Confluence, Mixpanel and Hotjar.
+
+## AI stack
+
+Claude Code, Codex, Lovable, GitHub, Linear and n8n.
+
+## Education
+
+- University of Hradec Králové — Master’s degree, Information Management (2004–2010)
+- Universidad Politécnica de Madrid — Erasmus, Information Management (2009)
+
+## Certifications
+
+- PRINCE2 Practitioner
+- Professional Scrum Product Owner I, Scrum.org (2022)
 
 ## Contact
 
