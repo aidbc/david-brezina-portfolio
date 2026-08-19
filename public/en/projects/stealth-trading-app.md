@@ -1,23 +1,23 @@
 ---
-title: Stealth Trading App
+title: AI-Powered Investment App
 role: Product Lead / Product Owner
 period: 2024-07/2025-01
 language: en
 confidential: true
 ---
 
-# Stealth Trading App
+# AI-Powered Investment App
 
 ## At a glance
 
-- **Brief:** Create an AI-powered mobile investment app for stocks and ETFs with social-trading features.
+- **Brief:** Create an AI-powered mobile investment app for the Middle Eastern market, focused on stocks, ETFs and social trading.
 - **Role:** Product Lead / Product Owner
 - **Ownership:** Discovery, value proposition, MVP, AI features and leadership of the first-version development.
 - **Outcome:** Four-week discovery and a first version developed over the following four months.
 
 ## Context and challenge
 
-The project started with a broad vision and no clear MVP. The goal was to create an AI-powered mobile app for investing in stocks and ETFs that meaningfully combined investment recommendations, contextual insights and social-trading features.
+The project started with a broad vision and no clear MVP. The goal was to create an AI-powered mobile app for the Middle Eastern market that meaningfully combined stock and ETF investing, investment recommendations, contextual insights and social-trading features.
 
 ## My role
 

@@ -1,23 +1,23 @@
 ---
-title: Stealth Trading App
+title: AI-Powered Investment App
 role: Product Lead / Product Owner
 period: 2024-07/2025-01
 language: cs
 confidential: true
 ---
 
-# Stealth Trading App
+# AI-Powered Investment App
 
 ## Stručně
 
-- **Zadání:** Vytvořit AI-powered mobilní investiční aplikaci pro akcie a ETF s prvky social tradingu.
+- **Zadání:** Vytvořit pro trh na Blízkém východě AI-powered mobilní investiční aplikaci zaměřenou na akcie, ETF a social trading.
 - **Role:** Product Lead / Product Owner
 - **Ownership:** Discovery, value proposition, MVP, AI funkce a vedení vývoje první verze.
 - **Výsledek:** Čtyřtýdenní discovery a první verze vytvořená během navazujícího čtyřměsíčního vývoje.
 
 ## Kontext a výzva
 
-Projekt začínal širokou vizí bez jasného MVP. Cílem bylo vytvořit AI-powered mobilní aplikaci pro investování do akcií a ETF, která smysluplně propojí investiční doporučení, kontextové insighty a prvky social tradingu.
+Projekt začínal širokou vizí bez jasného MVP. Cílem bylo pro trh na Blízkém východě vytvořit AI-powered mobilní aplikaci pro investování do akcií a ETF, která smysluplně propojí investiční doporučení, kontextové insighty a prvky social tradingu.
 
 ## Moje role
 

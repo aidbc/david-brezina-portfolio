@@ -139,7 +139,7 @@ Wealth management · Discovery · MVP
 
 Detail projektu
 
-### Projekt 3: Stealth Trading App
+### Projekt 3: AI-Powered Investment App
 
 **Období**
 
@@ -147,7 +147,7 @@ Detail projektu
 
 **Krátký popis**
 
-Discovery a vývoj AI-powered mobilní investiční aplikace pro akcie a ETF s prvky social tradingu.
+Discovery a vývoj AI-powered mobilní investiční aplikace pro trh na Blízkém východě, zaměřené na akcie, ETF a social trading.
 
 **Moje role**
 
@@ -224,7 +224,7 @@ Související projekty:
 - Wealth Management Product Discovery
 - Kreditní karta pro britskou credit union
 - B2B portál pro poskytovatele úvěrů
-- Stealth Trading App
+- AI-Powered Investment App
 - Product management coaching ve Slovenské spořitelně
 
 ### Finbricks
@@ -476,7 +476,7 @@ The work produced a user story map, roadmap and clickable high-fidelity prototyp
 
 Wealth management · Discovery · MVP
 
-### Project 3: Stealth Trading App
+### Project 3: AI-Powered Investment App
 
 **Period**
 
@@ -484,7 +484,7 @@ July 2024 – January 2025
 
 **Short description**
 
-Discovery and development of an AI-powered mobile investment app for stocks and ETFs with social-trading features.
+Discovery and development of an AI-powered mobile investment app for the Middle Eastern market, focused on stocks, ETFs and social trading.
 
 **My role**
 
@@ -549,7 +549,7 @@ Related projects:
 - Wealth Management Product Discovery
 - Credit card for a UK credit union
 - B2B lending portal
-- Stealth Trading App
+- AI-Powered Investment App
 - Product management coaching at Slovenská sporiteľňa
 
 ### Finbricks

@@ -78,19 +78,19 @@ export const projects: Record<Locale, Project[]> = {
     {
       slug: "stealth-trading-app",
       number: "03",
-      title: "Stealth Trading App",
+      title: "AI-Powered Investment App",
       period: "červenec 2024 – leden 2025",
-      type: "Investments · Applied AI",
+      type: "Investments · Applied AI · Middle East",
       role: "Product Lead / Product Owner",
       summary:
-        "Discovery a vývoj AI-powered mobilní investiční aplikace pro akcie a ETF s prvky social tradingu.",
+        "Discovery a vývoj AI-powered mobilní investiční aplikace pro trh na Blízkém východě, zaměřené na akcie, ETF a social trading.",
       contribution:
         "Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovaly čtyři měsíce vývoje první verze aplikace, během nichž jsem působil jako Product Lead a Product Owner.",
       outcome:
         "Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího čtyřměsíčního vývoje jsme vytvořili první verzi aplikace.",
       tags: ["Discovery", "AI", "Delivery"],
       context:
-        "Cílem bylo vytvořit AI-powered mobilní aplikaci pro investování do akcií a ETF, která smysluplně propojí investiční doporučení, kontextové insighty a prvky social tradingu.",
+        "Cílem bylo pro trh na Blízkém východě vytvořit AI-powered mobilní aplikaci pro investování do akcií a ETF, která smysluplně propojí investiční doporučení, kontextové insighty a prvky social tradingu.",
       challenge:
         "Projekt začínal širokou vizí bez jasného MVP. Bylo potřeba rychle zjistit, které problémy uživatelé skutečně řeší a kde může AI přinést užitek místo další složitosti.",
       actions: [
@@ -193,19 +193,19 @@ export const projects: Record<Locale, Project[]> = {
     {
       slug: "stealth-trading-app",
       number: "03",
-      title: "Stealth Trading App",
+      title: "AI-Powered Investment App",
       period: "July 2024 – January 2025",
-      type: "Investments · Applied AI",
+      type: "Investments · Applied AI · Middle East",
       role: "Product Lead / Product Owner",
       summary:
-        "Discovery and development of an AI-powered mobile investment app for stocks and ETFs with social-trading features.",
+        "Discovery and development of an AI-powered mobile investment app for the Middle Eastern market, focused on stocks, ETFs and social trading.",
       contribution:
         "The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by four months of development of the first version, where I worked as Product Lead and Product Owner.",
       outcome:
         "In four weeks, we validated the core product concepts and created an actionable plan. Over the following four months, we developed the first version of the application.",
       tags: ["Discovery", "AI", "Delivery"],
       context:
-        "The goal was to create an AI-powered mobile app for investing in stocks and ETFs that meaningfully combined investment recommendations, contextual insights and social-trading features.",
+        "The goal was to create an AI-powered mobile app for the Middle Eastern market that meaningfully combined stock and ETF investing, investment recommendations, contextual insights and social-trading features.",
       challenge:
         "The project started with a broad vision and no clear MVP. We had to learn quickly which user problems mattered and where AI could add value rather than complexity.",
       actions: [

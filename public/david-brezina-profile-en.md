@@ -39,11 +39,11 @@ Detail: `/en/projects/across-private-investments-app.md`
 
 Detail: `/en/projects/wealth-management-product-discovery.md`
 
-### Stealth Trading App
+### AI-Powered Investment App
 
 - **Role:** Product Lead / Product Owner
 - **Period:** July 2024–January 2025
-- **Brief:** Create an AI-powered mobile investment app for stocks and ETFs with social-trading features.
+- **Brief:** Create an AI-powered mobile investment app for the Middle Eastern market, focused on stocks, ETFs and social trading.
 - **My work:** Four-week discovery, definition of the value proposition and MVP, followed by leading development of the first version as Product Lead and Product Owner.
 - **Outcome:** Validated product concepts and a first version developed over the following four months.
 
