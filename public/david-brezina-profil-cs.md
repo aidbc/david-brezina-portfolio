@@ -108,10 +108,16 @@ Digitální transformace banky, migrace 1,8 milionu klientů na George, rozvoj a
 
 Product discovery, new product development, MVP definition, product delivery, wealth management, open banking, platby, digitální identita a AI workflow pro produktové týmy.
 
+Vedle fintechu a wealth managementu mě zajímají také produkty v oblastech longevity, sportu a AI-driven inovací.
+
 ## Jazyky
 
 - Čeština — rodilý mluvčí
 - Angličtina — B2/C1
+
+## Mimo práci
+
+Rodina, sport, investování, knihy, cestování a historie.
 
 ## Vzdělání a certifikace
 

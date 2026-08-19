@@ -312,7 +312,7 @@ O mně
 
 Jsem Product Lead s více než 10 lety zkušeností s digitálními produkty. Pracoval jsem ve startupech, technologických firmách i velké bance. Nejvíc mi vyhovují situace, kdy ještě není všechno rozhodnuté a produkt potřebuje dostat jasný tvar.
 
-V posledních letech se zaměřuji hlavně na fintech a wealth management. Vedle klientských projektů zkoumám, kde může AI produktovým týmům skutečně ušetřit práci a kde naopak přidává jen další vrstvu složitosti.
+V posledních letech se zaměřuji hlavně na fintech a wealth management. Zajímají mě ale i produkty v oblastech longevity, sportu a AI-driven inovací. Vedle klientských projektů zkoumám, kde může AI produktovým týmům skutečně ušetřit práci a kde naopak přidává jen další vrstvu složitosti.
 
 ### Oblasti
 
@@ -339,6 +339,10 @@ Jira, Confluence, Figma, Miro, GitHub, n8n, Metabase, Mixpanel, Hotjar a LLM ná
 - Univerzita Hradec Králové, Informační management
 - Universidad Politécnica de Madrid, Erasmus
 - Professional Scrum Product Owner I, Scrum.org
+
+### Mimo práci
+
+Rodina, sport, investování, knihy, cestování a historie.
 
 ## Kontakt
 
@@ -627,7 +631,7 @@ Launch is not the end of the project. Feedback and data show what is worth devel
 
 I am a Product Lead with more than 10 years of experience in digital products. I have worked in startups, technology companies and a large bank. I am at my best when the answer is not yet obvious and a product needs a clear shape.
 
-In recent years, I have focused mainly on fintech and wealth management. Alongside client work, I explore where AI genuinely saves product teams time and where it simply adds another layer of complexity.
+In recent years, I have focused mainly on fintech and wealth management. I am also interested in products across longevity, sport and AI-driven innovation. Alongside client work, I explore where AI genuinely saves product teams time and where it simply adds another layer of complexity.
 
 ### Areas
 
@@ -657,6 +661,10 @@ Claude Code, Codex, Github, Lovable, Linear
 - University of Hradec Králové, Information Management
 - Universidad Politécnica de Madrid, Erasmus
 - Professional Scrum Product Owner I, Scrum.org
+
+### Outside work
+
+Family, sport, investing, books, travel and history.
 
 ## Contact
 

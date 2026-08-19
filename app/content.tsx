@@ -371,12 +371,13 @@ export const ui = {
     aboutTitle: <>Nejvíc mě baví projekty,<br />kde odpověď ještě <em>není jasná.</em></>,
     aboutText: [
       "Jsem Product Lead s více než 10 lety zkušeností. Pracoval jsem ve startupech, technologických firmách i velké bance. Nejlépe se cítím v situacích, kdy produkt potřebuje dostat jasný tvar.",
-      "V posledních letech se zaměřuji hlavně na fintech a wealth management. Vedle klientských projektů zkoumám, kde může AI produktovým týmům skutečně ušetřit práci a kde naopak přidává jen další složitost.",
+      "V posledních letech se zaměřuji hlavně na fintech a wealth management. Zajímají mě ale i produkty v oblastech longevity, sportu a AI-driven inovací. Vedle klientských projektů zkoumám, kde může AI produktovým týmům skutečně ušetřit práci a kde naopak přidává jen další složitost.",
     ],
     groups: [
       ["Oblasti", "Product discovery · New product development · MVP definition · Product delivery · Wealth management · Open banking · Payments · Digital identity"],
       ["Jazyky", "Čeština — rodilý mluvčí · Angličtina — B2/C1"],
       ["Vzdělání", "Informační management, Univerzita Hradec Králové · PSPO I, Scrum.org"],
+      ["Mimo práci", "Rodina · Sport · Investování · Knihy · Cestování · Historie"],
     ],
     contactLabel: "Kontakt",
     contactTitle: <>Pojďme probrat,<br />co potřebujete <em>rozjet.</em></>,
@@ -414,12 +415,13 @@ export const ui = {
     aboutTitle: <>I do my best work<br />when the answer <em>isn't obvious yet.</em></>,
     aboutText: [
       "I am a Product Lead with more than 10 years of experience. I have worked in startups, technology companies and a large bank. I am at my best when a product still needs a clear shape.",
-      "In recent years, I have focused mainly on fintech and wealth management. Alongside client work, I explore where AI genuinely saves product teams time and where it simply adds complexity.",
+      "In recent years, I have focused mainly on fintech and wealth management. I am also interested in products across longevity, sport and AI-driven innovation. Alongside client work, I explore where AI genuinely saves product teams time and where it simply adds complexity.",
     ],
     groups: [
       ["Areas", "Product discovery · New product development · MVP definition · Product delivery · Wealth management · Open banking · Payments · Digital identity"],
       ["Languages", "Czech — native · English — B2/C1"],
       ["Education", "Information Management, University of Hradec Králové · PSPO I, Scrum.org"],
+      ["Outside work", "Family · Sport · Investing · Books · Travel · History"],
     ],
     contactLabel: "Contact",
     contactTitle: <>Let's talk about<br />what you need <em>to build.</em></>,

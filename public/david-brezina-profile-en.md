@@ -108,10 +108,16 @@ The bank's digital transformation, migration of 1.8 million clients to George, d
 
 Product discovery, new product development, MVP definition, product delivery, wealth management, open banking, payments, digital identity and AI workflows for product teams.
 
+Beyond fintech and wealth management, I am also interested in products across longevity, sport and AI-driven innovation.
+
 ## Languages
 
 - Czech — native
 - English — B2/C1
+
+## Outside work
+
+Family, sport, investing, books, travel and history.
 
 ## Education and certification
 
