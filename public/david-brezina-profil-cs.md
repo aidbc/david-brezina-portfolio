@@ -45,7 +45,7 @@ Detail: `/projekty/wealth-management-product-discovery.md`
 - **Období:** červenec 2024–leden 2025
 - **Zadání:** Vytvořit AI-powered mobilní investiční aplikaci pro akcie a ETF s prvky social tradingu.
 - **Moje práce:** Čtyřtýdenní discovery, definice value proposition a MVP a následné vedení vývoje první verze jako Product Lead a Product Owner.
-- **Výsledek:** Ověřené produktové koncepty a první verze aplikace vytvořená během navazujícího přibližně půlročního vývoje.
+- **Výsledek:** Ověřené produktové koncepty a první verze aplikace vytvořená během navazujícího čtyřměsíčního vývoje.
 
 Detail: `/projekty/stealth-trading-app.md`
 

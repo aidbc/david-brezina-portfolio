@@ -45,7 +45,7 @@ Detail: `/en/projects/wealth-management-product-discovery.md`
 - **Period:** July 2024–January 2025
 - **Brief:** Create an AI-powered mobile investment app for stocks and ETFs with social-trading features.
 - **My work:** Four-week discovery, definition of the value proposition and MVP, followed by leading development of the first version as Product Lead and Product Owner.
-- **Outcome:** Validated product concepts and a first version developed over the following six months.
+- **Outcome:** Validated product concepts and a first version developed over the following four months.
 
 Detail: `/en/projects/stealth-trading-app.md`
 

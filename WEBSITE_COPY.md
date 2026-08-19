@@ -155,11 +155,11 @@ Product Lead, později Product Owner
 
 **Co jsem dělal**
 
-Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovalo přibližně půl roku vývoje první verze aplikace, během něhož jsem působil jako Product Lead a Product Owner.
+Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovaly čtyři měsíce vývoje první verze aplikace, během nichž jsem působil jako Product Lead a Product Owner.
 
 **Výsledek**
 
-Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího přibližně půlročního vývoje jsme vytvořili první verzi aplikace.
+Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího čtyřměsíčního vývoje jsme vytvořili první verzi aplikace.
 
 **Štítky**
 
@@ -492,11 +492,11 @@ Product Lead, later Product Owner
 
 **What I did**
 
-The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by roughly six months of development of the first version, where I worked as Product Lead and Product Owner.
+The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by four months of development of the first version, where I worked as Product Lead and Product Owner.
 
 **Outcome**
 
-In four weeks, we validated the core product concepts and created an actionable plan. Over the following six months, we developed the first version of the application.
+In four weeks, we validated the core product concepts and created an actionable plan. Over the following four months, we developed the first version of the application.
 
 **Tags**
 

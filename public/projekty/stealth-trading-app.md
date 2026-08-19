@@ -13,7 +13,7 @@ confidential: true
 - **Zadání:** Vytvořit AI-powered mobilní investiční aplikaci pro akcie a ETF s prvky social tradingu.
 - **Role:** Product Lead / Product Owner
 - **Ownership:** Discovery, value proposition, MVP, AI funkce a vedení vývoje první verze.
-- **Výsledek:** Čtyřtýdenní discovery a první verze vytvořená během navazujícího přibližně půlročního vývoje.
+- **Výsledek:** Čtyřtýdenní discovery a první verze vytvořená během navazujícího čtyřměsíčního vývoje.
 
 ## Kontext a výzva
 
@@ -21,11 +21,11 @@ Projekt začínal širokou vizí bez jasného MVP. Cílem bylo vytvořit AI-powe
 
 ## Moje role
 
-Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition aplikace, její cílové uživatele a rozsah MVP. Pomocí story mappingu jsem převedl zjištění do návrhu první verze a navrhoval AI investiční doporučení a kontextové insighty, včetně integrace ChatGPT API. Během navazujícího přibližně půlročního vývoje jsem jako Product Lead a Product Owner prioritizoval rozsah a koordinoval práci designérů a vývojového týmu.
+Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition aplikace, její cílové uživatele a rozsah MVP. Pomocí story mappingu jsem převedl zjištění do návrhu první verze a navrhoval AI investiční doporučení a kontextové insighty, včetně integrace ChatGPT API. Během navazujícího čtyřměsíčního vývoje jsem jako Product Lead a Product Owner prioritizoval rozsah a koordinoval práci designérů a vývojového týmu.
 
 ## Výsledek
 
-Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího přibližně půlročního vývoje jsme vytvořili první verzi aplikace.
+Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího čtyřměsíčního vývoje jsme vytvořili první verzi aplikace.
 
 ## Reflexe
 
