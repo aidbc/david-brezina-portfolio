@@ -87,7 +87,7 @@ At Fairo, I led a team focused on invoicing, bookkeeping and taxation for freela
 
 ### Česká spořitelna — Product & CX Specialist / Product Owner / Senior Business Analyst
 
-**October 2016–September 2019 · Prague**
+**October 2016–September 2019 · permanent employment · Prague**
 
 The bank's digital transformation, migration of 1.8 million clients to George, development of the George Key digital identity app, and launch of online travel insurance.
 

@@ -257,12 +257,12 @@ U mobilní banky jsme dodali například biometrické podepisování, chat, noti
 ### Česká spořitelna
 
 **Product & CX Specialist**  
-leden 2019 – září 2019 · Praha
+leden 2019 – září 2019 · HPP · Praha
 
 Vedl jsem delivery plně online cestovního pojištění v George Marketplace.
 
 **Product Owner / Senior Business Analyst**  
-říjen 2016 – prosinec 2018 · Praha
+říjen 2016 – prosinec 2018 · HPP · Praha
 
 Pracoval jsem na digitální transformaci banky a přechodu 1,8 milionu klientů na nové internetové a mobilní bankovnictví. Jako Product Owner aplikace George klíč jsem koordinoval architekturu, UX, bezpečnost, risk a compliance, legal, IT provoz i byznysové vlastníky.
 
@@ -586,12 +586,12 @@ For the mobile bank, we delivered biometric signing, in-app chat, a notification
 ### Česká spořitelna
 
 **Product & CX Specialist**  
-January 2019 – September 2019 · Prague
+January 2019 – September 2019 · permanent employment · Prague
 
 I led the delivery of fully online travel insurance in George Marketplace.
 
 **Product Owner / Senior Business Analyst**  
-October 2016 – December 2018 · Prague
+October 2016 – December 2018 · permanent employment · Prague
 
 I worked on the bank's digital transformation and the migration of 1.8 million clients to new online and mobile banking. As Product Owner for George Key, I coordinated architecture, UX, security, risk and compliance, legal, IT operations and business owners.
 

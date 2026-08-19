@@ -87,7 +87,7 @@ Ve Fairo jsem vedl tým pro fakturaci, účetnictví a daně živnostníků. Poz
 
 ### Česká spořitelna — Product & CX Specialist / Product Owner / Senior Business Analyst
 
-**říjen 2016–září 2019 · Praha**
+**říjen 2016–září 2019 · HPP · Praha**
 
 Digitální transformace banky, migrace 1,8 milionu klientů na George, rozvoj aplikace George klíč a spuštění online cestovního pojištění.
 
