@@ -134,7 +134,7 @@ h1, h2, h3 { text-wrap: balance; }
 .section-heading { margin-bottom: 4.5rem; display: grid; grid-template-columns: 1.55fr .75fr; gap: 4rem; align-items: end; }
 .section-heading h2, .experience-intro h2, .process-intro h2, .about-heading h2 { font-size: clamp(3.125rem, 6vw, 4.875rem); }
 .section-heading > p { max-width: 27rem; margin: 0 0 .35rem; color: var(--color-text-secondary); font-size: .9375rem; }
-.project-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.project-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
 .project-card {
   min-height: 31rem;
   padding: 1.75rem;

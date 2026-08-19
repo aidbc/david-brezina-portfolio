@@ -49,6 +49,16 @@ Detail: `/projekty/wealth-management-product-discovery.md`
 
 Detail: `/projekty/stealth-trading-app.md`
 
+### Shoptet Pay
+
+- **Role:** Product Manager / Product Owner
+- **Období:** listopad 2021–prosinec 2022
+- **Zadání:** Spustit a rozvíjet platební služby integrované přímo do administrace Shoptetu.
+- **Moje práce:** Discovery, user research, backlog, open banking a spolupráce s designem a vývojem.
+- **Výsledek:** Spuštění online platební brány a rozšíření Shoptet Pay o služby pro jednodušší správu plateb a párování objednávek.
+
+Detail: `/projekty/shoptet-pay.md`
+
 ## Zkušenosti
 
 ### Vacuumlabs — Senior Product Manager / Product Lead

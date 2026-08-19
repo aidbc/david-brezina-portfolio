@@ -78,7 +78,7 @@ Vybrané projekty
 
 ### Úvod
 
-Na projektech mě zajímá hlavně cesta od nejasného zadání ke konkrétnímu produktu. Tady jsou tři příklady.
+Na projektech mě zajímá hlavně cesta od nejasného zadání ke konkrétnímu produktu. Tady jsou čtyři příklady.
 
 ### Projekt 1: Mobilní investiční aplikace Across Wealth
 
@@ -174,6 +174,40 @@ Investments · Discovery · AI
 
 Detail projektu
 
+### Projekt 4: Shoptet Pay
+
+**Období**
+
+listopad 2021 – prosinec 2022
+
+**Krátký popis**
+
+Spuštění a rozvoj platebních služeb integrovaných přímo do administrace Shoptetu — od online platební brány po open-banking řešení.
+
+**Moje role**
+
+Product Manager / Product Owner
+
+**Co jsem dělal**
+
+Jako Product Manager jsem se podílel na spuštění a dalším rozvoji Shoptet Pay. Současně jsem působil jako Product Owner vývojového týmu: vedl jsem discovery a uživatelský výzkum, spolupracoval s designéry a vývojáři a převáděl zjištění do priorit a backlogu. Společně se Shoptet Pay Leadem jsem se také podílel na RFP a výběru poskytovatele open-banking služeb.
+
+**Výsledek**
+
+Během mého působení jsme spustili online platební bránu a rozšířili Shoptet Pay o další platební služby, které e-shopařům zjednodušily správu plateb a párování objednávek.
+
+**Štítky**
+
+Payments · Open banking · Launch
+
+**Odkaz**
+
+Detail projektu
+
+**Veřejný odkaz**
+
+https://www.shoptetpay.com/
+
 ## Zkušenosti
 
 ### Nadpis
@@ -212,7 +246,9 @@ Dodali jsme novou administraci pro klienty včetně migrace a podpořili vstup n
 **Product Manager, Shoptet Pay**  
 listopad 2021 – prosinec 2022 · freelance · Praha
 
-Podílel jsem se na budování Shoptet Pay pro největší e-commerce platformu v regionu CEE. Vedl jsem integraci open bankingu pro automatické párování plateb s objednávkami a pomohl nastavit způsob práce produktového týmu.
+Podílel jsem se na spuštění a rozvoji Shoptet Pay. Jako Product Owner vývojového týmu jsem vedl discovery, user research a návrh open-banking funkcí pro automatické párování plateb s objednávkami.
+
+Související projekt: Shoptet Pay
 
 ### Creative Dock
 
@@ -388,7 +424,7 @@ I have over 10 years of experience, mainly across fintech, banking and wealth ma
 
 ### Introduction
 
-The part I enjoy most is turning an unclear brief into a product a team can build. Here are three examples.
+The part I enjoy most is turning an unclear brief into a product a team can build. Here are four examples.
 
 ### Project 1: Across Wealth Mobile Investment App
 
@@ -472,6 +508,36 @@ In four weeks, we validated the core product concepts and created an actionable 
 
 Investments · Discovery · AI
 
+### Project 4: Shoptet Pay
+
+**Period**
+
+November 2021 – December 2022
+
+**Short description**
+
+Launching and developing payment services built directly into Shoptet's merchant administration — from an online payment gateway to open-banking solutions.
+
+**My role**
+
+Product Manager / Product Owner
+
+**What I did**
+
+As Product Manager, I contributed to the launch and further development of Shoptet Pay. I also worked as Product Owner for the development team: leading discovery and user research, working with design and engineering, and translating findings into priorities and backlog items. Together with the Shoptet Pay Lead, I also contributed to the RFP and selection of an open-banking provider.
+
+**Outcome**
+
+During my tenure, we launched the online payment gateway and expanded Shoptet Pay with additional payment services that simplified payment management and order matching for merchants.
+
+**Tags**
+
+Payments · Open banking · Launch
+
+**Public link**
+
+https://www.shoptetpay.com/
+
 ## Experience
 
 ### Vacuumlabs
@@ -506,7 +572,9 @@ We delivered a new client administration portal, including migration, and suppor
 **Product Manager, Shoptet Pay**  
 November 2021 – December 2022 · freelance · Prague
 
-I helped build Shoptet Pay for the largest e-commerce platform in Central and Eastern Europe. I led the open banking integration used to match payments with orders and helped establish the product team's way of working.
+I contributed to the launch and development of Shoptet Pay. As Product Owner for the development team, I led discovery, user research and the design of open-banking features for automated payment-to-order matching.
+
+Related project: Shoptet Pay
 
 ### Creative Dock
 

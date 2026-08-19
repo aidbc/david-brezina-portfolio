@@ -103,6 +103,36 @@ export const projects: Record<Locale, Project[]> = {
       reflection:
         "Čtyřtýdenní limit pomohl držet discovery praktické. Jasná value proposition a rozsah MVP pak daly týmu pevný základ pro navazující vývoj první verze.",
     },
+    {
+      slug: "shoptet-pay",
+      number: "04",
+      title: "Shoptet Pay",
+      period: "listopad 2021 – prosinec 2022",
+      type: "Payments · Open banking",
+      role: "Product Manager / Product Owner",
+      summary:
+        "Spuštění a rozvoj platebních služeb integrovaných přímo do administrace Shoptetu — od online platební brány po open-banking řešení.",
+      contribution:
+        "Jako Product Manager jsem se podílel na spuštění a dalším rozvoji Shoptet Pay. Současně jsem působil jako Product Owner vývojového týmu: vedl jsem discovery a uživatelský výzkum, spolupracoval s designéry a vývojáři a převáděl zjištění do priorit a backlogu. Společně se Shoptet Pay Leadem jsem se také podílel na RFP a výběru poskytovatele open-banking služeb.",
+      outcome:
+        "Během mého působení jsme spustili online platební bránu a rozšířili Shoptet Pay o další platební služby, které e-shopařům zjednodušily správu plateb a párování objednávek.",
+      tags: ["Payments", "Open banking", "Launch"],
+      context:
+        "Shoptet chtěl nabídnout obchodníkům vlastní ekosystém platebních služeb přímo v administraci e-shopu. Produkt postupně spojil online platební bránu, open-banking služby, automatické párování plateb a další způsoby placení.",
+      challenge:
+        "Bylo potřeba propojit několik poskytovatelů a platebních metod do jednoho srozumitelného produktu pro e-shopaře i jejich zákazníky a současně jej začlenit do existující administrace Shoptetu.",
+      actions: [
+        "Vedl jsem návrh a vývoj služby Propojení s bankou pro automatické párování příchozích plateb s objednávkami.",
+        "Podílel jsem se na vývoji Shoptet tlačítek pro pohodlnou platbu přes internetové bankovnictví.",
+        "Podílel jsem se na spuštění online platební brány s poskytovatelem Adyen a na následné podpoře jejího provozu.",
+        "Rozšiřoval jsem platební část administrace Shoptetu pro e-shopaře.",
+        "Podílel jsem se na počátečním konceptu platebních terminálů.",
+        "Pomáhal jsem zavést systematičtější product discovery a agilní způsob vývoje.",
+      ],
+      reflection:
+        "Shoptet Pay nebyl pouze další způsob platby. Nejdůležitější bylo spojit více služeb do jednoho produktu, který obchodník spravuje přímo v prostředí svého e-shopu.",
+      publicUrl: "https://www.shoptetpay.com/",
+    },
   ],
   en: [
     {
@@ -188,6 +218,36 @@ export const projects: Record<Locale, Project[]> = {
       reflection:
         "The four-week limit kept the discovery practical. A clear value proposition and MVP scope then gave the team a solid foundation for developing the first version.",
     },
+    {
+      slug: "shoptet-pay",
+      number: "04",
+      title: "Shoptet Pay",
+      period: "November 2021 – December 2022",
+      type: "Payments · Open banking",
+      role: "Product Manager / Product Owner",
+      summary:
+        "Launching and developing payment services built directly into Shoptet's merchant administration — from an online payment gateway to open-banking solutions.",
+      contribution:
+        "As Product Manager, I contributed to the launch and further development of Shoptet Pay. I also worked as Product Owner for the development team: leading discovery and user research, working with design and engineering, and translating findings into priorities and backlog items. Together with the Shoptet Pay Lead, I also contributed to the RFP and selection of an open-banking provider.",
+      outcome:
+        "During my tenure, we launched the online payment gateway and expanded Shoptet Pay with additional payment services that simplified payment management and order matching for merchants.",
+      tags: ["Payments", "Open banking", "Launch"],
+      context:
+        "Shoptet wanted to give merchants its own ecosystem of payment services directly within the e-shop administration. The product brought together an online payment gateway, open-banking services, automated payment matching and additional payment methods.",
+      challenge:
+        "We needed to combine several providers and payment methods into one clear product for merchants and their customers, while integrating it into Shoptet's existing administration.",
+      actions: [
+        "I led the design and development of Bank Connection, using open banking to match incoming payments with orders automatically.",
+        "I contributed to Shoptet Buttons, enabling convenient payments through online banking.",
+        "I contributed to the launch and operational support of the online payment gateway with Adyen.",
+        "I extended the payment section of Shoptet's merchant administration.",
+        "I contributed to the initial concept for payment terminals.",
+        "I helped establish a more systematic product-discovery and agile-development approach.",
+      ],
+      reflection:
+        "Shoptet Pay was more than another payment method. The key was bringing several services into one product that merchants could manage directly within their e-shop environment.",
+      publicUrl: "https://www.shoptetpay.com/",
+    },
   ],
 };
 
@@ -199,7 +259,11 @@ export const experience = {
       period: "listopad 2023 – 31. srpna 2026",
       meta: "freelance · Praha",
       text: "Klientské projekty ve fintechu a wealth managementu, od discovery po delivery. Jako Product Lead pro Wealth Management jsem se podílel také na strategii, pre-sales a práci s klienty.",
-      links: projects.cs.map((project) => project.slug),
+      links: [
+        "across-private-investments-app",
+        "wealth-management-product-discovery",
+        "stealth-trading-app",
+      ],
     },
     {
       company: "Finbricks",
@@ -214,6 +278,7 @@ export const experience = {
       period: "listopad 2021 – prosinec 2022",
       meta: "contract · Praha",
       text: "Rozvoj platebního řešení pro e-shopy v CZ, SK a HU. Vedl jsem integraci open bankingu pro automatické párování plateb s objednávkami.",
+      links: ["shoptet-pay"],
     },
     {
       company: "Creative Dock",
@@ -237,7 +302,11 @@ export const experience = {
       period: "November 2023 – 31 August 2026",
       meta: "freelance · Prague",
       text: "Client projects across fintech and wealth management, from discovery through delivery. As Wealth Management Product Lead, I also supported strategy, pre-sales and client work.",
-      links: projects.en.map((project) => project.slug),
+      links: [
+        "across-private-investments-app",
+        "wealth-management-product-discovery",
+        "stealth-trading-app",
+      ],
     },
     {
       company: "Finbricks",
@@ -252,6 +321,7 @@ export const experience = {
       period: "November 2021 – December 2022",
       meta: "contract · Prague",
       text: "A payment solution for online stores in CZ, SK and HU. I led the open-banking integration used to match payments with orders.",
+      links: ["shoptet-pay"],
     },
     {
       company: "Creative Dock",
@@ -286,7 +356,7 @@ export const ui = {
     ],
     projectsLabel: "Vybrané projekty",
     projectsTitle: <>Od nejasného zadání<br />ke konkrétnímu <em>výsledku.</em></>,
-    projectsIntro: "Tři příklady práce, ve které jsem pomohl dát novému produktu směr, rozsah a cestu k realizaci.",
+    projectsIntro: "Čtyři příklady práce, ve které jsem pomohl dát novému produktu směr, rozsah a cestu k realizaci.",
     projectLink: "Detail projektu",
     experienceLabel: "Zkušenosti",
     experienceTitle: <>Startup, scale-up<br />i velká <em>banka.</em></>,
@@ -330,7 +400,7 @@ export const ui = {
     ],
     projectsLabel: "Selected projects",
     projectsTitle: <>From an unclear brief<br />to a concrete <em>outcome.</em></>,
-    projectsIntro: "Three examples where I helped give a new product direction, scope and a path to delivery.",
+    projectsIntro: "Four examples where I helped give a new product direction, scope and a path to delivery.",
     projectLink: "View case study",
     experienceLabel: "Experience",
     experienceTitle: <>Startup, scale-up<br />and a large <em>bank.</em></>,
