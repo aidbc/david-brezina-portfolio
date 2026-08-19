@@ -10,7 +10,6 @@ const projects = [
     description:
       "Od prvotní hypotézy přes definici MVP až k produktu, který zpřístupňuje investování nové generaci klientů.",
     tags: ["Discovery", "MVP", "Launch"],
-    tone: "red",
   },
   {
     number: "02",
@@ -19,7 +18,6 @@ const projects = [
     description:
       "Překlad komplexních tržních dat do srozumitelných, kontextových insightů přímo v investiční aplikaci.",
     tags: ["AI", "Product strategy", "Mobile"],
-    tone: "green",
   },
   {
     number: "03",
@@ -28,7 +26,6 @@ const projects = [
     description:
       "Nový mobilní bankovní zážitek navržený kolem skutečného pracovního dne freelancerů a malých podnikatelů.",
     tags: ["Research", "Service design", "Delivery"],
-    tone: "mustard",
   },
 ];
 
@@ -119,7 +116,7 @@ export default function Home() {
 
         <div className="project-list">
           {projects.map((project) => (
-            <article className={`project-card ${project.tone}`} key={project.number}>
+            <article className="project-card" key={project.number}>
               <div className="project-topline">
                 <span>{project.number}</span>
                 <span>{project.type}</span>
