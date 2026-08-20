@@ -34,7 +34,6 @@ Samostatná sekce „Co přináším“ není potřeba. Stejné věci mají být
 - Projekty
 - Kontakt
 - EN
-- Stáhnout profil (.md)
 
 ## Úvod
 
@@ -423,7 +422,6 @@ Jsem otevřený spolupráci na IČO i pracovnímu poměru. Záleží na projektu
 - brezina.david@gmail.com
 - +420 603 424 391
 - https://www.linkedin.com/in/davidbrezina/
-- Stáhnout profil (.md)
 
 ### Poznámka k Markdownu
 
@@ -447,7 +445,6 @@ Obsah naposledy aktualizován 19. srpna 2026.
 - Projects
 - Contact
 - CZ
-- Download profile (.md)
 
 ## Introduction
 
@@ -801,7 +798,6 @@ I am open to both freelance contracts and permanent employment, depending on the
 - brezina.david@gmail.com
 - +420 603 424 391
 - https://www.linkedin.com/in/davidbrezina/
-- Download profile (.md)
 
 ### Markdown note
 

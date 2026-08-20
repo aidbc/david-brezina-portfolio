@@ -27,8 +27,6 @@ Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a v�
 - **Moje práce:** Discovery, definice MVP a flows, user stories, backlog, sladění byznysu, designu a vývoje a související rozšíření webové platformy.
 - **Výsledek:** Aplikace byla v plánovaném termínu schválena Applem i Googlem.
 
-Detail: `/projekty/across-private-investments-app.md`
-
 ### Wealth Management Product Discovery
 
 - **Role:** Product Lead / Product Manager
@@ -36,8 +34,6 @@ Detail: `/projekty/across-private-investments-app.md`
 - **Zadání:** Navrhnout novou wealth-management část existující fintech aplikace bez zbytečného zvýšení složitosti.
 - **Moje práce:** Definice MVP, user flows, požadavky, backlog a sladění byznysu, designu a vývoje.
 - **Výsledek:** Discovery sjednotila tým na podobě produktu a rozsahu první verze. Klient tak mohl rozhodnout o dalším vývoji na základě konkrétního MVP, prototypu a roadmapy.
-
-Detail: `/projekty/wealth-management-product-discovery.md`
 
 ### AI-Powered Investment App
 
@@ -47,8 +43,6 @@ Detail: `/projekty/wealth-management-product-discovery.md`
 - **Moje práce:** Čtyřtýdenní discovery, definice value proposition a MVP a následné vedení vývoje první verze jako Product Lead.
 - **Výsledek:** Ověřené produktové koncepty a první verze aplikace vytvořená během navazujícího čtyřměsíčního vývoje.
 
-Detail: `/projekty/stealth-trading-app.md`
-
 ### Shoptet Pay
 
 - **Role:** Product Manager / Product Owner
@@ -56,8 +50,6 @@ Detail: `/projekty/stealth-trading-app.md`
 - **Zadání:** Spustit a rozvíjet platební služby integrované přímo do administrace Shoptetu.
 - **Moje práce:** Discovery, user research, backlog, open banking a spolupráce s designem a vývojem.
 - **Výsledek:** Spuštění online platební brány a rozšíření Shoptet Pay o služby pro jednodušší správu plateb a párování objednávek.
-
-Detail: `/projekty/shoptet-pay.md`
 
 ### Fairo
 
@@ -67,8 +59,6 @@ Detail: `/projekty/shoptet-pay.md`
 - **Moje práce:** Produktové vedení týmu pro accounting, bookkeeping a tax reporting, stabilizace vývoje, prioritizace oprav, biometrické ověření a rozvoj daňového reportingu.
 - **Výsledek:** Stabilizovaná práce nového vývojového týmu a posun klíčových částí produktu včetně biometrického ověření a daňového reportingu.
 
-Detail: `/projekty/fairo.md`
-
 ### Digitální dílna
 
 - **Role:** Project CEO
@@ -76,8 +66,6 @@ Detail: `/projekty/fairo.md`
 - **Zadání:** Vybudovat digitální agenturu pro živnostníky a malé firmy od prvního návrhu po spuštění.
 - **Moje práce:** P&L, sestavení týmu, produktová strategie, rozsah MVP, právní entita, marketing, web a aplikace pro objednávání služeb.
 - **Výsledek:** Agentura, nabídka služeb a objednávková aplikace spuštěné během přibližně čtyř měsíců; po spuštění jsme získali první zakázky.
-
-Detail: `/projekty/digitalni-dilna.md`
 
 ## Zkušenosti
 

@@ -214,7 +214,6 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
       <footer className="site-footer container">
         <span>© 2026 David Březina</span>
         <a href="https://www.linkedin.com/in/davidbrezina/" target="_blank" rel="noreferrer">LinkedIn <Arrow /></a>
-        <a href={profileFile} download>{copy.download}</a>
         <a href="#top">{copy.backTop} ↑</a>
       </footer>
     </main>

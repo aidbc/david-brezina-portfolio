@@ -27,8 +27,6 @@ I lead discovery, help teams find the right MVP, and bring business, design and 
 - **My work:** Discovery, MVP and flow definition, user stories, backlog, alignment across business, design and engineering, and related enhancements to the web platform.
 - **Outcome:** The app shipped on schedule and received approval from Apple and Google.
 
-Detail: `/en/projects/across-private-investments-app.md`
-
 ### Wealth Management Product Discovery
 
 - **Role:** Product Lead / Product Manager
@@ -36,8 +34,6 @@ Detail: `/en/projects/across-private-investments-app.md`
 - **Brief:** Define a new wealth-management section within an existing fintech app without creating unnecessary complexity.
 - **My work:** MVP definition, flows, requirements, backlog, and alignment across business, design and engineering.
 - **Outcome:** The discovery aligned the team on the product direction and first-release scope. The client could then decide on further development based on a concrete MVP, prototype and roadmap.
-
-Detail: `/en/projects/wealth-management-product-discovery.md`
 
 ### AI-Powered Investment App
 
@@ -47,8 +43,6 @@ Detail: `/en/projects/wealth-management-product-discovery.md`
 - **My work:** Four-week discovery, definition of the value proposition and MVP, followed by leading development of the first version as Product Lead.
 - **Outcome:** Validated product concepts and a first version developed over the following four months.
 
-Detail: `/en/projects/stealth-trading-app.md`
-
 ### Shoptet Pay
 
 - **Role:** Product Manager / Product Owner
@@ -56,8 +50,6 @@ Detail: `/en/projects/stealth-trading-app.md`
 - **Brief:** Launch and develop payment services built directly into Shoptet's merchant administration.
 - **My work:** Discovery, user research, backlog, open banking, and collaboration with design and engineering.
 - **Outcome:** Launch of the online payment gateway and expansion of Shoptet Pay with services that simplified payment management and order matching.
-
-Detail: `/en/projects/shoptet-pay.md`
 
 ### Fairo
 
@@ -67,8 +59,6 @@ Detail: `/en/projects/shoptet-pay.md`
 - **My work:** Product ownership for accounting, bookkeeping and tax reporting, delivery stabilisation, prioritisation of fixes, biometric authentication and tax-reporting development.
 - **Outcome:** A stabilised new development team and progress in key parts of the product, including biometric authentication and tax reporting.
 
-Detail: `/en/projects/fairo.md`
-
 ### Digitální dílna
 
 - **Role:** Project CEO
@@ -76,8 +66,6 @@ Detail: `/en/projects/fairo.md`
 - **Brief:** Build a digital agency for freelancers and small businesses from initial concept to launch.
 - **My work:** P&L, team setup, product strategy, MVP scope, legal entity, marketing, website and service-ordering application.
 - **Outcome:** The agency, service offering and ordering application launched in approximately four months; we then secured our first client projects.
-
-Detail: `/en/projects/digitalni-dilna.md`
 
 ## Experience
 

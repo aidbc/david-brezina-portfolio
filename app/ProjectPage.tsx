@@ -8,9 +8,6 @@ export function ProjectPage({ project, locale }: { project: Project; locale: Loc
   const otherLocale = isCs ? "en" : "cs";
   const otherProject = projects[otherLocale].find((entry) => entry.slug === project.slug);
   const otherUrl = isCs ? `/en/projects/${project.slug}` : `/projekty/${project.slug}`;
-  const markdownUrl = isCs
-    ? `/projekty/${project.slug}.md`
-    : `/en/projects/${project.slug}.md`;
   const localeProjects = projects[locale];
   const projectIndex = localeProjects.findIndex((entry) => entry.slug === project.slug);
   const nextProject = localeProjects[(projectIndex + 1) % localeProjects.length];
@@ -36,9 +33,6 @@ export function ProjectPage({ project, locale }: { project: Project; locale: Loc
             <span aria-hidden="true">/</span>
             {isCs ? <a href={otherProject ? otherUrl : "/en/"}>EN</a> : <strong aria-current="page">EN</strong>}
           </span>
-          <a className="header-cta" href={markdownUrl} download>
-            {isCs ? "Stáhnout .md" : "Download .md"} <span aria-hidden="true">↓</span>
-          </a>
         </div>
       </header>
 
