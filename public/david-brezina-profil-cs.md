@@ -19,13 +19,13 @@ Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a v�
 
 ## Vybrané projekty
 
-### Mobilní investiční aplikace Across Wealth
+### Mobilní investiční aplikace
 
 - **Role:** Product Owner
 - **Období:** únor–červenec 2026
 - **Zadání:** Rozšířit původně webovou investiční platformu o nativní aplikaci pro iOS a Android.
 - **Moje práce:** Discovery, definice MVP a flows, user stories, backlog, sladění byznysu, designu a vývoje a související rozšíření webové platformy.
-- **Výsledek:** Aplikace byla v plánovaném termínu schválena Applem i Googlem. Vznikl také základ pro nový pilíř Across Crowd.
+- **Výsledek:** Aplikace byla v plánovaném termínu schválena Applem i Googlem.
 
 Detail: `/projekty/across-private-investments-app.md`
 

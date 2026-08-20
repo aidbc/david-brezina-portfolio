@@ -1,18 +1,18 @@
 ---
-title: Mobilní investiční aplikace Across Wealth
+title: Mobilní investiční aplikace
 role: Product Owner
 period: 2026-02/2026-07
 language: cs
 ---
 
-# Mobilní investiční aplikace Across Wealth
+# Mobilní investiční aplikace
 
 ## Stručně
 
 - **Zadání:** Rozšířit webovou investiční platformu o nativní aplikaci pro iOS a Android.
 - **Role:** Product Owner
 - **Ownership:** Discovery, MVP, user flows, user stories, backlog a sladění delivery.
-- **Výsledek:** Aplikace byla v plánovaném termínu schválena Applem a Googlem; vznikl také základ pro Across Crowd.
+- **Výsledek:** Aplikace byla v plánovaném termínu schválena Applem a Googlem.
 
 ## Kontext
 
@@ -28,7 +28,7 @@ Vedl jsem discovery a delivery mobilní aplikace i související rozšíření w
 
 ## Výsledek
 
-Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play. Vznikl také základ pro nový investiční pilíř Across Crowd.
+Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play.
 
 ## Reflexe
 

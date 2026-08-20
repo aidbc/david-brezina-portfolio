@@ -23,7 +23,7 @@ export const projects: Record<Locale, Project[]> = {
     {
       slug: "across-private-investments-app",
       number: "01",
-      title: "Mobilní investiční aplikace Across Wealth",
+      title: "Mobilní investiční aplikace",
       period: "únor – červenec 2026",
       type: "Wealth management · Mobile",
       role: "Product Owner",
@@ -32,7 +32,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "Vedl jsem discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem MVP, klíčové flows a user stories, vlastnil backlog a slaďoval byznys, design a vývoj.",
       outcome:
-        "Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play. Vznikl také základ pro nový investiční pilíř Across Crowd.",
+        "Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play.",
       tags: ["MVP", "Mobile", "Launch"],
       context:
         "Across měl fungující webovou investiční platformu a chtěl ji rozšířit o plnohodnotný mobilní produkt pro začínající a mass-affluent investory.",
@@ -196,7 +196,7 @@ export const projects: Record<Locale, Project[]> = {
     {
       slug: "across-private-investments-app",
       number: "01",
-      title: "Across Wealth Mobile Investment App",
+      title: "Mobile Investment App",
       period: "February – July 2026",
       type: "Wealth management · Mobile",
       role: "Product Owner",
@@ -205,7 +205,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "I led discovery and delivery for the mobile app and related enhancements to the web platform. I defined the MVP, key flows and user stories, owned the backlog, and aligned business, design and engineering.",
       outcome:
-        "We shipped on schedule and received approval from both Apple and Google. The work also became a foundation for the new Across Crowd investment pillar.",
+        "We shipped on schedule and received approval from both Apple and Google.",
       tags: ["MVP", "Mobile", "Launch"],
       context:
         "Across had an established web investment platform and wanted to extend it into a full mobile product for first-time and mass-affluent investors.",

@@ -1,18 +1,18 @@
 ---
-title: Across Wealth Mobile Investment App
+title: Mobile Investment App
 role: Product Owner
 period: 2026-02/2026-07
 language: en
 ---
 
-# Across Wealth Mobile Investment App
+# Mobile Investment App
 
 ## At a glance
 
 - **Brief:** Extend a web investment platform into native iOS and Android applications.
 - **Role:** Product Owner
 - **Ownership:** Discovery, MVP, user flows, user stories, backlog and delivery alignment.
-- **Outcome:** The app shipped on schedule and received Apple and Google approval; the work also became a foundation for Across Crowd.
+- **Outcome:** The app shipped on schedule and received Apple and Google approval.
 
 ## Context and challenge
 
@@ -24,7 +24,7 @@ I led discovery and delivery for the mobile app and related enhancements to the 
 
 ## Outcome
 
-We shipped on schedule and received approval from Apple and Google. The work also became a foundation for the new Across Crowd investment pillar.
+We shipped on schedule and received approval from Apple and Google.
 
 ## Reflection
 

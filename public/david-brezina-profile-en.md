@@ -19,13 +19,13 @@ I lead discovery, help teams find the right MVP, and bring business, design and 
 
 ## Selected projects
 
-### Across Wealth Mobile Investment App
+### Mobile Investment App
 
 - **Role:** Product Owner
 - **Period:** February–July 2026
 - **Brief:** Extend a web-only investment platform into native iOS and Android applications.
 - **My work:** Discovery, MVP and flow definition, user stories, backlog, alignment across business, design and engineering, and related enhancements to the web platform.
-- **Outcome:** The app shipped on schedule and received approval from Apple and Google. The work also became a foundation for Across Crowd.
+- **Outcome:** The app shipped on schedule and received approval from Apple and Google.
 
 Detail: `/en/projects/across-private-investments-app.md`
 

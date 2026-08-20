@@ -75,7 +75,7 @@ Mám přes 10 let zkušeností, především z fintechu, bankovnictví a wealth 
 
 Produkty, na kterých jsem pracoval.
 
-### Projekt 1: Mobilní investiční aplikace Across Wealth
+### Projekt 1: Mobilní investiční aplikace
 
 **Období**
 
@@ -95,7 +95,7 @@ Vedl jsem product discovery a delivery mobilní aplikace i související rozší
 
 **Výsledek**
 
-Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play. Složitou oblast investic, custody a compliance jsme převedli do mobilního prostředí navazujícího na existující web. Vznikl tím také základ pro nový investiční pilíř Across Crowd.
+Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play. Složitou oblast investic, custody a compliance jsme převedli do mobilního prostředí navazujícího na existující web.
 
 **Štítky**
 
@@ -280,7 +280,7 @@ Uvnitř Vacuumlabs jsem se věnoval využití AI v produktových a delivery tým
 
 Související projekty:
 
-- Mobilní investiční aplikace Across Wealth
+- Mobilní investiční aplikace
 - Wealth Management Product Discovery
 - Kreditní karta pro britskou credit union
 - B2B portál pro poskytovatele úvěrů
@@ -492,7 +492,7 @@ I have over 10 years of experience, mainly across fintech, banking and wealth ma
 
 Products I've worked on.
 
-### Project 1: Across Wealth Mobile Investment App
+### Project 1: Mobile Investment App
 
 **Period**
 
@@ -512,7 +512,7 @@ I led product discovery and delivery for the mobile application and related enha
 
 **Outcome**
 
-We shipped the application on schedule and received approval from both Apple and Google. We turned a complex investment, custody and compliance setup into a mobile experience consistent with the existing web product. The result also became a foundation for the new Across Crowd investment pillar.
+We shipped the application on schedule and received approval from both Apple and Google. We turned a complex investment, custody and compliance setup into a mobile experience consistent with the existing web product.
 
 **Tags**
 
@@ -673,7 +673,7 @@ Internally, I worked on practical uses of AI for product and delivery teams.
 
 Related projects:
 
-- Across Wealth Mobile Investment App
+- Mobile Investment App
 - Wealth Management Product Discovery
 - Credit card for a UK credit union
 - B2B lending portal
