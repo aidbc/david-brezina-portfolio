@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import { experience, projects, ui, type Locale } from "./content";
 
 const Arrow = ({ down = false }: { down?: boolean }) => (
@@ -38,7 +37,13 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
         </nav>
         <div className="header-actions">
           <span className="language-switch" aria-label={isCs ? "Jazyk" : "Language"}>
-            {isCs ? <strong aria-current="page">CZ</strong> : <Link href="/">CZ</Link>}
+            {isCs ? (
+              <strong aria-current="page">CZ</strong>
+            ) : (
+              // Static export: avoid loading Next/Vinext route-prefetch code for this switch.
+              // eslint-disable-next-line @next/next/no-html-link-for-pages
+              <a href="/">CZ</a>
+            )}
             <span aria-hidden="true">/</span>
             {isCs ? <a href="/en">EN</a> : <strong aria-current="page">EN</strong>}
           </span>
