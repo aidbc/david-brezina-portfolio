@@ -324,7 +324,7 @@ Vedl jsem delivery plně online cestovního pojištění v George Marketplace.
 **Product Owner / Senior Business Analyst**  
 říjen 2016 – prosinec 2018 · HPP · Praha
 
-Business analýza v rámci digitální transformace banky. Odpovědnost za delivery a rozvoj nových funkcí digitální identity George klíč, migraci 1,8 milionu klientů na George a spuštění online cestovního pojištění.
+Business analýza v rámci digitální transformace banky včetně migrace 1,8 milionu klientů na George. Odpovědnost za delivery a rozvoj nových funkcí digitální identity George klíč a spuštění online cestovního pojištění.
 
 ### Dřívější zkušenosti
 
@@ -713,7 +713,7 @@ I led the delivery of fully online travel insurance in George Marketplace.
 **Product Owner / Senior Business Analyst**  
 October 2016 – December 2018 · permanent employment · Prague
 
-Business analysis supporting the bank's digital transformation. Responsibility for delivery and development of new George Key digital identity features, the migration of 1.8 million clients to George, and the launch of online travel insurance.
+Business analysis supporting the bank's digital transformation, including the migration of 1.8 million clients to George. Responsibility for delivery and development of new George Key digital identity features and the launch of online travel insurance.
 
 ### Earlier experience
 

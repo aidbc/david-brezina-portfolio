@@ -109,7 +109,7 @@ At Fairo, I led a team focused on invoicing, bookkeeping and taxation for freela
 
 **October 2016–September 2019 · permanent employment · Prague**
 
-Business analysis supporting the bank's digital transformation. Responsibility for delivery and development of new George Key digital identity features, the migration of 1.8 million clients to George, and the launch of online travel insurance.
+Business analysis supporting the bank's digital transformation, including the migration of 1.8 million clients to George. Responsibility for delivery and development of new George Key digital identity features and the launch of online travel insurance.
 
 ### Earlier experience
 
