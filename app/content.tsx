@@ -409,7 +409,7 @@ export const experience = {
       role: "Product & CX Specialist / Product Owner / Senior BA",
       period: "říjen 2016 – září 2019",
       meta: "HPP · Praha",
-      text: "Digitální transformace banky, migrace 1,8 milionu klientů na George, rozvoj digitální identity George klíč a spuštění online cestovního pojištění.",
+      text: "Business analýza v rámci digitální transformace banky. Odpovědnost za delivery a rozvoj nových funkcí digitální identity George klíč, migraci 1,8 milionu klientů na George a spuštění online cestovního pojištění.",
     },
   ],
   en: [
@@ -453,7 +453,7 @@ export const experience = {
       role: "Product & CX Specialist / Product Owner / Senior BA",
       period: "October 2016 – September 2019",
       meta: "permanent employment · Prague",
-      text: "The bank's digital transformation, migration of 1.8 million clients to George, development of the George Key digital identity app, and launch of online travel insurance.",
+      text: "Business analysis supporting the bank's digital transformation. Responsibility for delivery and development of new George Key digital identity features, the migration of 1.8 million clients to George, and the launch of online travel insurance.",
     },
   ],
 };

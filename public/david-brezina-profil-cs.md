@@ -109,7 +109,7 @@ Ve Fairo jsem vedl tým pro fakturaci, účetnictví a daně živnostníků. Poz
 
 **říjen 2016–září 2019 · HPP · Praha**
 
-Digitální transformace banky, migrace 1,8 milionu klientů na George, rozvoj aplikace George klíč a spuštění online cestovního pojištění.
+Business analýza v rámci digitální transformace banky. Odpovědnost za delivery a rozvoj nových funkcí digitální identity George klíč, migraci 1,8 milionu klientů na George a spuštění online cestovního pojištění.
 
 ### Dřívější zkušenosti
 
