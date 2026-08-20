@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   authors: [{ name: "David Březina" }],
   creator: "David Březina",
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
+    icon: "/favicon-db.svg",
+    shortcut: "/favicon-db.svg",
   },
 };
 
