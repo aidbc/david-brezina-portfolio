@@ -412,7 +412,7 @@ Rodina, sport, investování, knihy, cestování a historie.
 
 ### Nadpis
 
-Pojďme se spojit
+Máte nápad, který chcete rozjet?
 
 ### Text
 
@@ -790,7 +790,7 @@ Family, sport, investing, books, travel and history.
 
 ### Heading
 
-Let's talk
+Have an idea you want to bring to life?
 
 ### Text
 
