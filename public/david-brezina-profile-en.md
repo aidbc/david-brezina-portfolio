@@ -25,7 +25,7 @@ I lead discovery, help teams find the right MVP, and bring business, design and 
 - **Period:** February–July 2026
 - **Brief:** Extend a web-only investment platform into native iOS and Android applications.
 - **My work:** Discovery, MVP and flow definition, user stories, backlog, alignment across business, design and engineering, and related enhancements to the web platform.
-- **Outcome:** The app shipped on schedule and received approval from Apple and Google.
+- **Outcome:** We launched the app on schedule. After launch, the number of clients grew and we continued improving the product based on their feedback.
 
 ### Wealth Management Product Discovery
 

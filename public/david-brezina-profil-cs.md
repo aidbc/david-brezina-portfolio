@@ -25,7 +25,7 @@ Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a v�
 - **Období:** únor–červenec 2026
 - **Zadání:** Rozšířit původně webovou investiční platformu o nativní aplikaci pro iOS a Android.
 - **Moje práce:** Discovery, definice MVP a flows, user stories, backlog, sladění byznysu, designu a vývoje a související rozšíření webové platformy.
-- **Výsledek:** Aplikace byla v plánovaném termínu schválena Applem i Googlem.
+- **Výsledek:** Aplikaci jsme spustili v plánovaném termínu. Po spuštění rostl počet zákazníků a produkt jsme dál zlepšovali podle jejich zpětné vazby.
 
 ### Wealth Management Product Discovery
 

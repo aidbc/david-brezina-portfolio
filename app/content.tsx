@@ -32,7 +32,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "Pomáhal jsem definovat a průběžně zpřesňovat produktovou strategii. Vedl jsem discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem MVP, klíčové flows a user stories, vlastnil backlog a slaďoval byznys, design a vývoj.",
       outcome:
-        "Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play.",
+        "Aplikaci jsme spustili v plánovaném termínu. Po spuštění rostl počet zákazníků a produkt jsme dál zlepšovali podle jejich zpětné vazby.",
       tags: ["MVP", "Mobile", "Launch"],
       context:
         "Across měl fungující webovou investiční platformu a chtěl ji rozšířit o plnohodnotný mobilní produkt pro začínající a mass-affluent investory.",
@@ -205,7 +205,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "I helped define and continuously refine the product strategy. I led discovery and delivery for the mobile app and related enhancements to the web platform. I defined the MVP, key flows and user stories, owned the backlog, and aligned business, design and engineering.",
       outcome:
-        "We shipped on schedule and received approval from both Apple and Google.",
+        "We launched the app on schedule. After launch, the number of clients grew and we continued improving the product based on their feedback.",
       tags: ["MVP", "Mobile", "Launch"],
       context:
         "Across had an established web investment platform and wanted to extend it into a full mobile product for first-time and mass-affluent investors.",

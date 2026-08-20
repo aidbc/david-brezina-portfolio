@@ -94,7 +94,7 @@ Pomáhal jsem definovat a průběžně zpřesňovat produktovou strategii. Vedl 
 
 **Výsledek**
 
-Aplikaci jsme v plánovaném termínu dostali do App Storu a Google Play. Složitou oblast investic, custody a compliance jsme převedli do mobilního prostředí navazujícího na existující web.
+Aplikaci jsme spustili v plánovaném termínu. Po spuštění rostl počet zákazníků a produkt jsme dál zlepšovali podle jejich zpětné vazby.
 
 **Štítky**
 
@@ -505,7 +505,7 @@ I helped define and continuously refine the product strategy. I led product disc
 
 **Outcome**
 
-We shipped the application on schedule and received approval from both Apple and Google. We turned a complex investment, custody and compliance setup into a mobile experience consistent with the existing web product.
+We launched the app on schedule. After launch, the number of clients grew and we continued improving the product based on their feedback.
 
 **Tags**
 
