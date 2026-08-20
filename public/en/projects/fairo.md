@@ -34,7 +34,7 @@ I worked as Product Owner for one of three development teams and owned accountin
 
 ## Outcome
 
-We stabilised the new development team's work and advanced key parts of the product, including biometric authentication and tax reporting.
+Stabilising the product helped reduce client churn. At the same time, the number of clients who prepared their tax return through Fairo increased.
 
 ## Reflection
 

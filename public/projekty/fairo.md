@@ -34,7 +34,7 @@ Působil jsem jako Product Owner jednoho ze tří vývojových týmů a odpovíd
 
 ## Výsledek
 
-Stabilizovali jsme práci nového vývojového týmu a posunuli klíčové části produktu, mimo jiné biometrické ověření a daňový reporting.
+Stabilizace produktu pomohla snížit odchodovost klientů. Zároveň vzrostl počet klientů, kteří přes Fairo připravili daňové přiznání.
 
 ## Reflexe
 

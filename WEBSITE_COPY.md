@@ -223,7 +223,7 @@ Vedl jsem jeden ze tří vývojových týmů a odpovídal za oblast accounting, 
 
 **Výsledek**
 
-Stabilizovali jsme práci nového vývojového týmu a posunuli klíčové části produktu, mimo jiné biometrické ověření a daňový reporting.
+Stabilizace produktu pomohla snížit odchodovost klientů. Zároveň vzrostl počet klientů, kteří přes Fairo připravili daňové přiznání.
 
 **Štítky**
 
@@ -620,7 +620,7 @@ I led one of three development teams and owned accounting, bookkeeping and tax r
 
 **Outcome**
 
-We stabilised the new development team's work and advanced key parts of the product, including biometric authentication and tax reporting.
+Stabilising the product helped reduce client churn. At the same time, the number of clients who prepared their tax return through Fairo increased.
 
 **Tags**
 

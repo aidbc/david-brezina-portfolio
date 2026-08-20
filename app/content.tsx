@@ -146,7 +146,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "Do Fairo jsem nastoupil jako Product Owner jednoho ze tří vývojových týmů v období krátce po spuštění produktu. Odpovídal jsem za tým zaměřený na accounting, bookkeeping a tax reporting. Mým úkolem bylo stabilizovat vývoj po příchodu nového týmu, zlepšit spolehlivost aplikace a dodat důležité funkce pro další rozvoj produktu.",
       outcome:
-        "Stabilizovali jsme práci nového vývojového týmu a posunuli klíčové části produktu, mimo jiné biometrické ověření a daňový reporting.",
+        "Stabilizace produktu pomohla snížit odchodovost klientů. Zároveň vzrostl počet klientů, kteří přes Fairo připravili daňové přiznání.",
       tags: ["Fintech", "Stabilisation", "Delivery"],
       context:
         "Fairo byl ambiciózní fintech startup vzniklý ve spolupráci Creative Dock a Raiffeisen Bank International. Mobilní aplikace pomáhala živnostníkům s každodenními financemi, fakturací, účetnictvím a daňovými povinnostmi. Prvním trhem byla Ukrajina a následovala expanze do Rumunska.",
@@ -319,7 +319,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "I joined Fairo as Product Owner for one of three development teams shortly after the product launched. I owned the team focused on accounting, bookkeeping and tax reporting. My role was to stabilise delivery after a new engineering team joined, improve the application's reliability and deliver the capabilities needed for further product development.",
       outcome:
-        "We stabilised the new development team's work and advanced key parts of the product, including biometric authentication and tax reporting.",
+        "Stabilising the product helped reduce client churn. At the same time, the number of clients who prepared their tax return through Fairo increased.",
       tags: ["Fintech", "Stabilisation", "Delivery"],
       context:
         "Fairo was an ambitious fintech startup created by Creative Dock in partnership with Raiffeisen Bank International. Its mobile app helped freelancers manage everyday finances, invoicing, bookkeeping and tax obligations. Ukraine was the first market, followed by expansion into Romania.",
