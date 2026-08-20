@@ -122,7 +122,7 @@ The bank's digital transformation, migration of 1.8 million clients to George, d
 1. **Understand the problem:** Understand the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions.
 2. **Validate the direction:** Explore possible approaches, prototype them quickly and test which solution creates the most value.
 3. **Find the right MVP:** Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users.
-4. **Bring it to life:** Translate the validated direction into user flows, priorities and a backlog. Manage scope during delivery and continuously validate the outcomes.
+4. **Bring it to launch:** Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch.
 
 ## Areas
 

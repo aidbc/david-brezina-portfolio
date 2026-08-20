@@ -354,9 +354,9 @@ Rozpracovat možné přístupy, rychle je prototypovat a testováním zjistit, k
 
 Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu.
 
-### 4. Dovést k realizaci
+### 4. Dovést ke spuštění
 
-Převést ověřený směr do user flows, priorit a backlogu. Během realizace hlídat rozsah a průběžně ověřovat výsledky.
+Převést ověřený směr do user flows, priorit a backlogu. Během vývoje hlídat rozsah, průběžně ověřovat řešení a dovést produkt až ke spuštění.
 
 ## O mně
 
@@ -739,9 +739,9 @@ Explore possible approaches, prototype them quickly and test which solution crea
 
 Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users.
 
-### 4. Bring it to life
+### 4. Bring it to launch
 
-Translate the validated direction into user flows, priorities and a backlog. Manage scope during delivery and continuously validate the outcomes.
+Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch.
 
 ## About
 
