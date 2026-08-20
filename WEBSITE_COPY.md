@@ -14,10 +14,10 @@ Pracovní verze 1. Texty v hranatých závorkách jsou poznámky nebo informace 
 ## Zjednodušená struktura
 
 1. Úvod
-2. Vybrané projekty
-3. Zkušenosti
-4. Jak pracuji
-5. O mně
+2. Zkušenosti
+3. O mně
+4. Vybrané projekty
+5. Jak pracuji
 6. Kontakt
 
 Samostatná sekce „Co přináším“ není potřeba. Stejné věci mají být vidět z projektů. AI také nepotřebuje vlastní sekci; objeví se tam, kde je součástí skutečné práce.
@@ -28,10 +28,10 @@ Samostatná sekce „Co přináším“ není potřeba. Stejné věci mají být
 
 ## Navigace
 
-- Projekty
 - Zkušenosti
-- Jak pracuji
 - O mně
+- Projekty
+- Jak pracuji
 - Kontakt
 - EN
 - Stáhnout profil (.md)
@@ -445,10 +445,10 @@ Obsah naposledy aktualizován 19. srpna 2026.
 
 ## Navigation
 
-- Projects
 - Experience
-- How I work
 - About
+- Projects
+- How I work
 - Contact
 - CZ
 - Download profile (.md)

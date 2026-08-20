@@ -460,7 +460,7 @@ export const experience = {
 
 export const ui = {
   cs: {
-    nav: ["Projekty", "Zkušenosti", "Jak pracuji", "O mně"],
+    nav: ["Zkušenosti", "O mně", "Projekty", "Jak pracuji"],
     heroLabel: "Product Lead · Praha",
     heroTitle: <>Nové produkty<br />od nápadu <em>ke spuštění.</em></>,
     heroText: "Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a vývoj tak, aby se produkt skutečně dostal na trh.",
@@ -507,7 +507,7 @@ export const ui = {
     backTop: "Zpět nahoru",
   },
   en: {
-    nav: ["Projects", "Experience", "How I work", "About"],
+    nav: ["Experience", "About", "Projects", "How I work"],
     heroLabel: "Product Lead · Prague",
     heroTitle: <>New products<br />from idea <em>to launch.</em></>,
     heroText: "I lead discovery, help teams find the right MVP, and bring business, design and engineering together to get products to market.",

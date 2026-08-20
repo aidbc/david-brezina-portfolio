@@ -16,8 +16,9 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
     ? "/david-brezina-profil-cs.md"
     : "/david-brezina-profile-en.md";
   const sectionIds = isCs
-    ? ["projekty", "zkusenosti", "jak-pracuji", "o-mne"]
-    : ["projects", "experience", "how-i-work", "about"];
+    ? { experience: "zkusenosti", about: "o-mne", projects: "projekty", process: "jak-pracuji" }
+    : { experience: "experience", about: "about", projects: "projects", process: "how-i-work" };
+  const navSectionIds = [sectionIds.experience, sectionIds.about, sectionIds.projects, sectionIds.process];
 
   return (
     <main id="top">
@@ -31,7 +32,7 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
         </a>
         <nav className="desktop-nav" aria-label={isCs ? "Hlavní navigace" : "Main navigation"}>
           {copy.nav.map((item, index) => (
-            <a href={`#${sectionIds[index]}`} key={item}>{item}</a>
+            <a href={`#${navSectionIds[index]}`} key={item}>{item}</a>
           ))}
         </nav>
         <div className="header-actions">
@@ -53,7 +54,7 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
           <p className="hero-lede">{copy.heroText}</p>
           <p className="hero-subtext">{copy.heroSubtext}</p>
           <div className="hero-actions">
-            <a className="button button-primary" href={`#${sectionIds[0]}`}>
+            <a className="button button-primary" href={`#${sectionIds.projects}`}>
               {copy.viewProjects} <Arrow down />
             </a>
             <a className="button button-secondary" href={profileFile} download>
@@ -84,39 +85,7 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
         </div>
       </section>
 
-      <section className="projects-section container" id={sectionIds[0]}>
-        <div className="section-heading">
-          <div>
-            <p className="section-kicker">{copy.projectsLabel}</p>
-            <h2>{copy.projectsTitle}</h2>
-          </div>
-        </div>
-        <div className="project-list">
-          {localizedProjects.map((project) => (
-            <article className="project-card" key={project.slug}>
-              <div className="project-topline">
-                <span>{project.number}</span>
-                <span>{project.type}</span>
-              </div>
-              <div className="project-body">
-                <p className="project-period">{project.period}</p>
-                <h3>{project.title}</h3>
-                <p>{project.summary}</p>
-              </div>
-              <div className="project-footer">
-                <div className="tags">
-                  {project.tags.map((tag) => <span key={tag}>{tag}</span>)}
-                </div>
-                <a className="project-link" href={`${projectBase}/${project.slug}`}>
-                  {copy.projectLink} <Arrow />
-                </a>
-              </div>
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <section className="experience-section" id={sectionIds[1]}>
+      <section className="experience-section" id={sectionIds.experience}>
         <div className="container experience-grid">
           <div className="experience-intro">
             <p className="section-kicker">{copy.experienceLabel}</p>
@@ -152,27 +121,7 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
         </div>
       </section>
 
-      <section className="process-section" id={sectionIds[2]}>
-        <div className="container process-grid">
-          <div className="process-intro">
-            <p className="section-kicker light">{copy.processLabel}</p>
-            <h2>{copy.processTitle}</h2>
-          </div>
-          <ol className="process-list">
-            {copy.process.map(([title, description], index) => (
-              <li key={title}>
-                <span>0{index + 1}</span>
-                <div>
-                  <h3>{title}</h3>
-                  <p>{description}</p>
-                </div>
-              </li>
-            ))}
-          </ol>
-        </div>
-      </section>
-
-      <section className="about-section container" id={sectionIds[3]}>
+      <section className="about-section container" id={sectionIds.about}>
         <div className="about-heading">
           <p className="section-kicker">{copy.aboutLabel}</p>
           <h2>{copy.aboutTitle}</h2>
@@ -189,6 +138,58 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
               </div>
             ))}
           </dl>
+        </div>
+      </section>
+
+      <section className="projects-section container" id={sectionIds.projects}>
+        <div className="section-heading">
+          <div>
+            <p className="section-kicker">{copy.projectsLabel}</p>
+            <h2>{copy.projectsTitle}</h2>
+          </div>
+        </div>
+        <div className="project-list">
+          {localizedProjects.map((project) => (
+            <article className="project-card" key={project.slug}>
+              <div className="project-topline">
+                <span>{project.number}</span>
+                <span>{project.type}</span>
+              </div>
+              <div className="project-body">
+                <p className="project-period">{project.period}</p>
+                <h3>{project.title}</h3>
+                <p>{project.summary}</p>
+              </div>
+              <div className="project-footer">
+                <div className="tags">
+                  {project.tags.map((tag) => <span key={tag}>{tag}</span>)}
+                </div>
+                <a className="project-link" href={`${projectBase}/${project.slug}`}>
+                  {copy.projectLink} <Arrow />
+                </a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="process-section" id={sectionIds.process}>
+        <div className="container process-grid">
+          <div className="process-intro">
+            <p className="section-kicker light">{copy.processLabel}</p>
+            <h2>{copy.processTitle}</h2>
+          </div>
+          <ol className="process-list">
+            {copy.process.map(([title, description], index) => (
+              <li key={title}>
+                <span>0{index + 1}</span>
+                <div>
+                  <h3>{title}</h3>
+                  <p>{description}</p>
+                </div>
+              </li>
+            ))}
+          </ol>
         </div>
       </section>
 
