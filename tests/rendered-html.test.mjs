@@ -32,6 +32,17 @@ test("exports every Czech and English route", async () => {
   }
 });
 
+test("includes Google Analytics on every route", async () => {
+  for (const route of routeFiles) {
+    const html = await read(route);
+    assert.match(
+      html,
+      /https:\/\/www\.googletagmanager\.com\/gtag\/js\?id=G-MENP963ZJS/,
+    );
+    assert.match(html, /gtag\('config', 'G-MENP963ZJS'\)/);
+  }
+});
+
 test("keeps the profile download only in the home-page hero", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
   assert.match(cs, /href="\/david-brezina-profil-cs\.md"[^>]*download/);
