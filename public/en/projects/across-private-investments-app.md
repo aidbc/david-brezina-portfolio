@@ -20,7 +20,7 @@ Across had an established web investment platform and wanted to extend it into a
 
 ## My role
 
-I led discovery and delivery for the mobile app and related enhancements to the web platform. I defined the MVP and key flows, translated the direction into user stories, managed the backlog, and aligned decisions across business, design and engineering.
+I helped define and continuously refine the product strategy. I led discovery and delivery for the mobile app and related enhancements to the web platform. I defined the MVP and key flows, translated the direction into user stories, managed the backlog, and aligned decisions across business, design and engineering.
 
 ## Outcome
 

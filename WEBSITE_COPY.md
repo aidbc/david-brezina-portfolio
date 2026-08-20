@@ -91,7 +91,7 @@ Product Owner
 
 **Co jsem dělal**
 
-Vedl jsem product discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem MVP, klíčové user flows a user stories, vlastnil backlog a průběžně slaďoval byznys, design a vývoj.
+Pomáhal jsem definovat a průběžně zpřesňovat produktovou strategii. Vedl jsem product discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem MVP, klíčové user flows a user stories, vlastnil backlog a průběžně slaďoval byznys, design a vývoj.
 
 **Výsledek**
 
@@ -504,7 +504,7 @@ Product Owner
 
 **What I did**
 
-I led product discovery and delivery for the mobile application and related enhancements to the web platform. I defined the MVP, key user flows and user stories, owned the backlog, and aligned business, design and engineering throughout delivery.
+I helped define and continuously refine the product strategy. I led product discovery and delivery for the mobile application and related enhancements to the web platform. I defined the MVP, key user flows and user stories, owned the backlog, and aligned business, design and engineering throughout delivery.
 
 **Outcome**
 

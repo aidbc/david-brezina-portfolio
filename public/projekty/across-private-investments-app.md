@@ -24,7 +24,7 @@ Mobilní zkušenost musela zpřístupnit složitou oblast investic, custody a co
 
 ## Moje role
 
-Vedl jsem discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem rozsah MVP a hlavní flows, převáděl produktový směr do user stories, spravoval backlog a slaďoval rozhodnutí mezi byznysem, designem a engineeringem.
+Pomáhal jsem definovat a průběžně zpřesňovat produktovou strategii. Vedl jsem discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem rozsah MVP a hlavní flows, převáděl produktový směr do user stories, spravoval backlog a slaďoval rozhodnutí mezi byznysem, designem a engineeringem.
 
 ## Výsledek
 
