@@ -41,10 +41,10 @@ Detail: `/en/projects/wealth-management-product-discovery.md`
 
 ### AI-Powered Investment App
 
-- **Role:** Product Lead / Product Owner
+- **Role:** Product Lead
 - **Period:** July 2024–January 2025
 - **Brief:** Create an AI-powered mobile investment app for the Middle Eastern market, focused on stocks, ETFs and social trading.
-- **My work:** Four-week discovery, definition of the value proposition and MVP, followed by leading development of the first version as Product Lead and Product Owner.
+- **My work:** Four-week discovery, definition of the value proposition and MVP, followed by leading development of the first version as Product Lead.
 - **Outcome:** Validated product concepts and a first version developed over the following four months.
 
 Detail: `/en/projects/stealth-trading-app.md`

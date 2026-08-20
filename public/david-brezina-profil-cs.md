@@ -41,10 +41,10 @@ Detail: `/projekty/wealth-management-product-discovery.md`
 
 ### AI-Powered Investment App
 
-- **Role:** Product Lead / Product Owner
+- **Role:** Product Lead
 - **Období:** červenec 2024–leden 2025
 - **Zadání:** Vytvořit pro trh na Blízkém východě AI-powered mobilní investiční aplikaci zaměřenou na akcie, ETF a social trading.
-- **Moje práce:** Čtyřtýdenní discovery, definice value proposition a MVP a následné vedení vývoje první verze jako Product Lead a Product Owner.
+- **Moje práce:** Čtyřtýdenní discovery, definice value proposition a MVP a následné vedení vývoje první verze jako Product Lead.
 - **Výsledek:** Ověřené produktové koncepty a první verze aplikace vytvořená během navazujícího čtyřměsíčního vývoje.
 
 Detail: `/projekty/stealth-trading-app.md`

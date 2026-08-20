@@ -82,11 +82,11 @@ export const projects: Record<Locale, Project[]> = {
       title: "AI-Powered Investment App",
       period: "červenec 2024 – leden 2025",
       type: "Investments · Applied AI · Middle East",
-      role: "Product Lead / Product Owner",
+      role: "Product Lead",
       summary:
         "Discovery a vývoj AI-powered mobilní investiční aplikace pro trh na Blízkém východě, zaměřené na akcie, ETF a social trading.",
       contribution:
-        "Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovaly čtyři měsíce vývoje první verze aplikace, během nichž jsem působil jako Product Lead a Product Owner.",
+        "Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovaly čtyři měsíce vývoje první verze aplikace, během nichž jsem působil jako Product Lead.",
       outcome:
         "Za čtyři týdny jsme ověřili hlavní produktové koncepty a připravili konkrétní plán. Během navazujícího čtyřměsíčního vývoje jsme vytvořili první verzi aplikace.",
       tags: ["0→1", "Discovery", "AI"],
@@ -99,7 +99,7 @@ export const projects: Record<Locale, Project[]> = {
         "Společně s týmem jsem definoval value proposition celé aplikace a její AI-driven přístup.",
         "Pomocí story mappingu jsem převedl zjištění do návrhu MVP.",
         "Navrhoval jsem AI investiční doporučení a kontextové insighty, včetně integrace ChatGPT API.",
-        "Jako Product Lead a Product Owner jsem prioritizoval rozsah první verze a koordinoval její vývoj s designéry a vývojovým týmem.",
+        "Jako Product Lead jsem prioritizoval rozsah první verze a koordinoval její vývoj s designéry a vývojovým týmem.",
       ],
       reflection:
         "Čtyřtýdenní limit pomohl držet discovery praktické. Jasná value proposition a rozsah MVP pak daly týmu pevný základ pro navazující vývoj první verze.",
@@ -255,11 +255,11 @@ export const projects: Record<Locale, Project[]> = {
       title: "AI-Powered Investment App",
       period: "July 2024 – January 2025",
       type: "Investments · Applied AI · Middle East",
-      role: "Product Lead / Product Owner",
+      role: "Product Lead",
       summary:
         "Discovery and development of an AI-powered mobile investment app for the Middle Eastern market, focused on stocks, ETFs and social trading.",
       contribution:
-        "The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by four months of development of the first version, where I worked as Product Lead and Product Owner.",
+        "The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by four months of development of the first version, where I worked as Product Lead.",
       outcome:
         "In four weeks, we validated the core product concepts and created an actionable plan. Over the following four months, we developed the first version of the application.",
       tags: ["0→1", "Discovery", "AI"],
@@ -272,7 +272,7 @@ export const projects: Record<Locale, Project[]> = {
         "Together with the team, I defined the value proposition for the whole application and its AI-driven approach.",
         "I used story mapping to turn the findings into an MVP proposal.",
         "I designed AI investment recommendations and contextual insights, including a ChatGPT API integration.",
-        "As Product Lead and Product Owner, I prioritised the scope of the first version and coordinated its development with design and engineering.",
+        "As Product Lead, I prioritised the scope of the first version and coordinated its development with design and engineering.",
       ],
       reflection:
         "The four-week limit kept the discovery practical. A clear value proposition and MVP scope then gave the team a solid foundation for developing the first version.",

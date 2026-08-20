@@ -151,11 +151,11 @@ Discovery a vývoj AI-powered mobilní investiční aplikace pro trh na Blízké
 
 **Moje role**
 
-Product Lead, později Product Owner
+Product Lead
 
 **Co jsem dělal**
 
-Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovaly čtyři měsíce vývoje první verze aplikace, během nichž jsem působil jako Product Lead a Product Owner.
+Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition AI-powered investiční aplikace pro akcie a ETF, její cílové uživatele a rozsah MVP. Následovaly čtyři měsíce vývoje první verze aplikace, během nichž jsem působil jako Product Lead.
 
 **Výsledek**
 
@@ -556,11 +556,11 @@ Discovery and development of an AI-powered mobile investment app for the Middle 
 
 **My role**
 
-Product Lead, later Product Owner
+Product Lead
 
 **What I did**
 
-The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by four months of development of the first version, where I worked as Product Lead and Product Owner.
+The project began with a four-week discovery, during which I led market research, user interviews and competitor analysis. Together with the team, we defined the value proposition, target users and MVP scope for an AI-powered investment app for stocks and ETFs. This was followed by four months of development of the first version, where I worked as Product Lead.
 
 **Outcome**
 

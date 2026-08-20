@@ -1,6 +1,6 @@
 ---
 title: AI-Powered Investment App
-role: Product Lead / Product Owner
+role: Product Lead
 period: 2024-07/2025-01
 language: cs
 confidential: true
@@ -11,7 +11,7 @@ confidential: true
 ## Stručně
 
 - **Zadání:** Vytvořit pro trh na Blízkém východě AI-powered mobilní investiční aplikaci zaměřenou na akcie, ETF a social trading.
-- **Role:** Product Lead / Product Owner
+- **Role:** Product Lead
 - **Ownership:** Discovery, value proposition, MVP, AI funkce a vedení vývoje první verze.
 - **Výsledek:** Čtyřtýdenní discovery a první verze vytvořená během navazujícího čtyřměsíčního vývoje.
 
@@ -21,7 +21,7 @@ Projekt začínal širokou vizí bez jasného MVP. Cílem bylo pro trh na Blízk
 
 ## Moje role
 
-Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition aplikace, její cílové uživatele a rozsah MVP. Pomocí story mappingu jsem převedl zjištění do návrhu první verze a navrhoval AI investiční doporučení a kontextové insighty, včetně integrace ChatGPT API. Během navazujícího čtyřměsíčního vývoje jsem jako Product Lead a Product Owner prioritizoval rozsah a koordinoval práci designérů a vývojového týmu.
+Projekt začal čtyřtýdenní discovery, během které jsem vedl průzkum trhu, rozhovory s uživateli a analýzu konkurence. Společně s týmem jsme definovali value proposition aplikace, její cílové uživatele a rozsah MVP. Pomocí story mappingu jsem převedl zjištění do návrhu první verze a navrhoval AI investiční doporučení a kontextové insighty, včetně integrace ChatGPT API. Během navazujícího čtyřměsíčního vývoje jsem jako Product Lead prioritizoval rozsah a koordinoval práci designérů a vývojového týmu.
 
 ## Výsledek
 
