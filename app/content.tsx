@@ -533,7 +533,7 @@ export const ui = {
       ["Bring it to launch", "Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch."],
     ],
     aboutLabel: "About",
-    aboutTitle: <>I do my best work<br />when the answer <em>isn't obvious yet.</em></>,
+    aboutTitle: <>I do my best work<br />when the answer <em>isn&apos;t obvious yet.</em></>,
     aboutText: [
       "I am a Product Lead with more than 10 years of experience in product management. I have worked in startups, technology companies and large banks. I am at my best when a product is still at the beginning and needs a clear shape. I also enjoy shaping product strategy, scaling established products and connecting them with business goals.",
       "In recent years, I have focused mainly on fintech and wealth management. I am also interested in products from other areas, such as longevity, sport and AI-driven innovation. Alongside client work, I explore how AI can support discovery and delivery.",

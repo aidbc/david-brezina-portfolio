@@ -3,7 +3,7 @@ name: David Březina
 role: Product Lead
 location: Prague, Czech Republic
 language: en
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 linkedin: https://www.linkedin.com/in/davidbrezina/
 email: brezina.david@gmail.com
 phone: "+420 603 424 391"
@@ -57,7 +57,7 @@ I lead discovery, help teams find the right MVP, and bring business, design and 
 - **Period:** 2020–2021, approximately one year
 - **Brief:** Stabilise an early-stage mobile finance app for freelancers while continuing to develop its core capabilities.
 - **My work:** Product ownership for accounting, bookkeeping and tax reporting, delivery stabilisation, prioritisation of fixes, biometric authentication and tax-reporting development.
-- **Outcome:** A stabilised new development team and progress in key parts of the product, including biometric authentication and tax reporting.
+- **Outcome:** Stabilising the product helped reduce client churn. At the same time, the number of clients who prepared their tax return through Fairo increased.
 
 ### Digitální dílna
 

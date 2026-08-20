@@ -431,7 +431,7 @@ Textovou verzi profilu si můžete stáhnout a vložit například do ChatGPT ne
 
 David Březina · Praha · 2026
 
-Obsah naposledy aktualizován 19. srpna 2026.
+Obsah naposledy aktualizován 20. srpna 2026.
 
 ---
 
@@ -807,4 +807,4 @@ You can download a text version of this profile and add it to ChatGPT or Claude 
 
 David Březina · Prague · 2026
 
-Content last updated 19 August 2026.
+Content last updated 20 August 2026.

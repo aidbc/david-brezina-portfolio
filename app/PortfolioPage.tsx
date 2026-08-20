@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { experience, projects, ui, type Locale } from "./content";
 
 const Arrow = ({ down = false }: { down?: boolean }) => (
@@ -27,7 +28,7 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
       </a>
 
       <header className="site-header container">
-        <a className="brand" href={`${base}/#top`} aria-label="David Březina">
+        <a className="brand" href={`${base}#top`} aria-label="David Březina">
           David Březina
         </a>
         <nav className="desktop-nav" aria-label={isCs ? "Hlavní navigace" : "Main navigation"}>
@@ -37,9 +38,9 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
         </nav>
         <div className="header-actions">
           <span className="language-switch" aria-label={isCs ? "Jazyk" : "Language"}>
-            {isCs ? <strong aria-current="page">CZ</strong> : <a href="/">CZ</a>}
+            {isCs ? <strong aria-current="page">CZ</strong> : <Link href="/">CZ</Link>}
             <span aria-hidden="true">/</span>
-            {isCs ? <a href="/en/">EN</a> : <strong aria-current="page">EN</strong>}
+            {isCs ? <a href="/en">EN</a> : <strong aria-current="page">EN</strong>}
           </span>
           <a className="header-cta" href="#contact">
             {isCs ? "Kontakt" : "Contact"} <Arrow />

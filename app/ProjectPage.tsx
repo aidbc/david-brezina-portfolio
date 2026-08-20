@@ -4,7 +4,7 @@ const Arrow = () => <span aria-hidden="true">↗</span>;
 
 export function ProjectPage({ project, locale }: { project: Project; locale: Locale }) {
   const isCs = locale === "cs";
-  const home = isCs ? "/" : "/en/";
+  const home = isCs ? "/" : "/en";
   const otherLocale = isCs ? "en" : "cs";
   const otherProject = projects[otherLocale].find((entry) => entry.slug === project.slug);
   const otherUrl = isCs ? `/en/projects/${project.slug}` : `/projekty/${project.slug}`;
@@ -31,7 +31,7 @@ export function ProjectPage({ project, locale }: { project: Project; locale: Loc
           <span className="language-switch" aria-label={isCs ? "Jazyk" : "Language"}>
             {isCs ? <strong aria-current="page">CZ</strong> : <a href={otherUrl}>CZ</a>}
             <span aria-hidden="true">/</span>
-            {isCs ? <a href={otherProject ? otherUrl : "/en/"}>EN</a> : <strong aria-current="page">EN</strong>}
+            {isCs ? <a href={otherProject ? otherUrl : "/en"}>EN</a> : <strong aria-current="page">EN</strong>}
           </span>
         </div>
       </header>
