@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { SITE_NAME, SITE_URL } from "./seo";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,14 +14,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: "David Březina — Product Lead",
+    default: `${SITE_NAME} — Product Lead`,
     template: "%s",
   },
   description:
     "Nové digitální produkty od discovery a definice MVP po delivery a spuštění.",
-  authors: [{ name: "David Březina" }],
-  creator: "David Březina",
+  applicationName: SITE_NAME,
+  authors: [{ name: SITE_NAME, url: SITE_URL }],
+  creator: SITE_NAME,
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large" },
+  },
   icons: {
     icon: "/favicon-db.svg",
     shortcut: "/favicon-db.svg",

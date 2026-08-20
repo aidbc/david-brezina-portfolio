@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ProjectPage } from "../../ProjectPage";
 import { projects } from "../../content";
+import { SITE_NAME } from "../../seo";
 
 export function generateStaticParams() {
   return projects.cs.map(({ slug }) => ({ slug }));
@@ -11,15 +12,17 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const project = projects.cs.find((entry) => entry.slug === slug);
   if (!project) return {};
+  const title = `${project.title} — David Březina`;
+  const canonical = `/projekty/${slug}`;
   return {
-    title: `${project.title} — David Březina`,
+    title,
     description: project.summary,
     alternates: {
-      canonical: `/projekty/${slug}`,
-      languages: { "cs-CZ": `/projekty/${slug}`, en: `/en/projects/${slug}` },
+      canonical,
+      languages: { "cs-CZ": canonical, en: `/en/projects/${slug}`, "x-default": canonical },
     },
-    openGraph: { title: `${project.title} — David Březina`, description: project.summary, images: [] },
-    twitter: { card: "summary", title: `${project.title} — David Březina`, description: project.summary, images: [] },
+    openGraph: { type: "article", url: canonical, siteName: SITE_NAME, locale: "cs_CZ", alternateLocale: ["en_GB"], title, description: project.summary, images: [] },
+    twitter: { card: "summary", title, description: project.summary, images: [] },
   };
 }
 

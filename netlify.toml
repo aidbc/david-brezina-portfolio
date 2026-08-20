@@ -4,7 +4,13 @@
 
 [build.environment]
   NODE_VERSION = "22.13.0"
-  NEXT_PUBLIC_SITE_URL = "https://david-brezina-portfolio.netlify.app"
+  NEXT_PUBLIC_SITE_URL = "https://davidbrezina.com"
+
+[[redirects]]
+  from = "https://david-brezina-portfolio.netlify.app/*"
+  to = "https://davidbrezina.com/:splat"
+  status = 301
+  force = true
 
 [[headers]]
   for = "/*"
