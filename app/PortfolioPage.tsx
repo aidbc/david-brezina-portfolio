@@ -18,7 +18,7 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
   const sectionIds = isCs
     ? { experience: "zkusenosti", about: "o-mne", projects: "projekty", process: "jak-pracuji" }
     : { experience: "experience", about: "about", projects: "projects", process: "how-i-work" };
-  const navSectionIds = [sectionIds.experience, sectionIds.about, sectionIds.projects, sectionIds.process];
+  const navSectionIds = [sectionIds.experience, sectionIds.about, sectionIds.process, sectionIds.projects];
 
   return (
     <main id="top">
@@ -141,6 +141,26 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
         </div>
       </section>
 
+      <section className="process-section" id={sectionIds.process}>
+        <div className="container process-grid">
+          <div className="process-intro">
+            <p className="section-kicker light">{copy.processLabel}</p>
+            <h2>{copy.processTitle}</h2>
+          </div>
+          <ol className="process-list">
+            {copy.process.map(([title, description], index) => (
+              <li key={title}>
+                <span>0{index + 1}</span>
+                <div>
+                  <h3>{title}</h3>
+                  <p>{description}</p>
+                </div>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </section>
+
       <section className="projects-section container" id={sectionIds.projects}>
         <div className="section-heading">
           <div>
@@ -170,26 +190,6 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
               </div>
             </article>
           ))}
-        </div>
-      </section>
-
-      <section className="process-section" id={sectionIds.process}>
-        <div className="container process-grid">
-          <div className="process-intro">
-            <p className="section-kicker light">{copy.processLabel}</p>
-            <h2>{copy.processTitle}</h2>
-          </div>
-          <ol className="process-list">
-            {copy.process.map(([title, description], index) => (
-              <li key={title}>
-                <span>0{index + 1}</span>
-                <div>
-                  <h3>{title}</h3>
-                  <p>{description}</p>
-                </div>
-              </li>
-            ))}
-          </ol>
         </div>
       </section>
 
