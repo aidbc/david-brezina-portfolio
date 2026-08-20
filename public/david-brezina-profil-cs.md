@@ -154,7 +154,7 @@ Claude Code, Codex, Lovable, GitHub, Linear a n8n.
 
 ## Certifikace
 
-- PRINCE2 Practitioner
+- PRINCE2 Practitioner (2015)
 - Professional Scrum Product Owner I, Scrum.org (2022)
 
 ## Kontakt
