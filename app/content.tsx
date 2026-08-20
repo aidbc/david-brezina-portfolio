@@ -478,7 +478,7 @@ export const ui = {
     experienceLabel: "Zkušenosti",
     experienceTitle: <>Kde jsem pracoval<br />a za co odpovídal.</>,
     processLabel: "Jak pracuji",
-    processTitle: <>Čemu se nejčastěji<br />věnuji.</>,
+    processTitle: <>Od prvního nápadu<br />k fungujícímu produktu.</>,
     process: [
       ["Pochopit problém", "Pochopit a definovat obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady."],
       ["Ověřit správný směr", "Rozpracovat možné přístupy, rychle je prototypovat a testováním zjistit, které řešení přináší největší hodnotu."],
@@ -525,7 +525,7 @@ export const ui = {
     experienceLabel: "Experience",
     experienceTitle: <>Where I&apos;ve worked<br />and what I owned.</>,
     processLabel: "How I work",
-    processTitle: <>What I work on<br />most often.</>,
+    processTitle: <>From the first idea<br />to a working product.</>,
     process: [
       ["Understand the problem", "Understand and define the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions."],
       ["Validate the direction", "Explore possible approaches, prototype them quickly and test which solution creates the most value."],

@@ -336,7 +336,7 @@ Business analýza v rámci digitální transformace banky včetně migrace 1,8 m
 
 ### Nadpis
 
-Čemu se nejčastěji věnuji
+Od prvního nápadu k fungujícímu produktu
 
 ### Úvod
 
@@ -725,7 +725,7 @@ Business analysis supporting the bank's digital transformation, including the mi
 
 ### Heading
 
-What I work on most often
+From the first idea to a working product
 
 ### 1. Understand the problem
 
