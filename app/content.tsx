@@ -488,8 +488,8 @@ export const ui = {
     aboutLabel: "O mně",
     aboutTitle: <>Nejvíc mě baví projekty,<br />kde odpověď ještě <em>není jasná.</em></>,
     aboutText: [
-      "Jsem Product Lead s více než 10 lety zkušeností. Pracoval jsem ve startupech, technologických firmách i velké bance. Nejlépe se cítím v situacích, kdy produkt potřebuje dostat jasný tvar.",
-      "V posledních letech se zaměřuji hlavně na fintech a wealth management. Zajímají mě ale i produkty v oblastech longevity, sportu a AI-driven inovací. Vedle klientských projektů zkoumám, kde může AI produktovým týmům skutečně ušetřit práci a kde naopak přidává jen další složitost.",
+      "Jsem Product Lead s více než 10 lety zkušeností v produktovém managementu. Pracoval jsem ve startupech, technologických firmách i velkých bankách. Nejlépe se cítím v situacích, kdy je produkt teprve na začátku a potřebuje dostat jasný tvar.",
+      "V posledních letech se zaměřuji hlavně na fintech a wealth management. Zajímají mě ale i produkty z jiných oblastí, například longevity, sport nebo AI-driven inovace. Vedle klientských projektů také hledám cesty, jak může AI pomoci v discovery a delivery.",
     ],
     groups: [
       ["Oblasti", "Product discovery · New product development · MVP definition · Product delivery · Wealth management · Open banking · Payments · Digital identity"],
@@ -535,8 +535,8 @@ export const ui = {
     aboutLabel: "About",
     aboutTitle: <>I do my best work<br />when the answer <em>isn't obvious yet.</em></>,
     aboutText: [
-      "I am a Product Lead with more than 10 years of experience. I have worked in startups, technology companies and a large bank. I am at my best when a product still needs a clear shape.",
-      "In recent years, I have focused mainly on fintech and wealth management. I am also interested in products across longevity, sport and AI-driven innovation. Alongside client work, I explore where AI genuinely saves product teams time and where it simply adds complexity.",
+      "I am a Product Lead with more than 10 years of experience in product management. I have worked in startups, technology companies and large banks. I am at my best when a product is still at the beginning and needs a clear shape.",
+      "In recent years, I have focused mainly on fintech and wealth management. I am also interested in products from other areas, such as longevity, sport and AI-driven innovation. Alongside client work, I explore how AI can support discovery and delivery.",
     ],
     groups: [
       ["Areas", "Product discovery · New product development · MVP definition · Product delivery · Wealth management · Open banking · Payments · Digital identity"],
