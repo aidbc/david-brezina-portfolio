@@ -61,7 +61,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "Vedl jsem produktovou část discovery. Definoval jsem MVP, user flows, požadavky a backlog a slaďoval práci byznysu, designu a vývoje.",
       outcome:
-        "Výstupem byla user story mapa, roadmapa a klikací high-fidelity prototyp připravený pro další rozhodování a delivery.",
+        "Discovery sjednotila tým na tom, jak má nová wealth-management část produktu fungovat a co patří do první verze. Klient tak mohl rozhodnout o dalším vývoji na základě konkrétního MVP, prototypu a roadmapy.",
       tags: ["Discovery", "MVP", "Prototype"],
       context:
         "Klient chtěl rozšířit původní investiční nabídku o další typy produktů uvnitř již používané fintech aplikace.",
@@ -234,7 +234,7 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "I led the product side of the discovery. I defined the MVP, user flows, requirements and backlog, and aligned business, design and engineering.",
       outcome:
-        "The work produced a user story map, roadmap and clickable high-fidelity prototype ready to support further decisions and delivery.",
+        "The discovery aligned the team on how the new wealth management proposition should work and what belonged in the first release. The client could then decide on further development based on a concrete MVP, prototype and roadmap.",
       tags: ["Discovery", "MVP", "Prototype"],
       context:
         "The client wanted to broaden its original investment proposition with additional product types inside an existing fintech application.",
@@ -488,7 +488,7 @@ export const ui = {
     aboutLabel: "O mně",
     aboutTitle: <>Nejvíc mě baví projekty,<br />kde odpověď ještě <em>není jasná.</em></>,
     aboutText: [
-      "Jsem Product Lead s více než 10 lety zkušeností v produktovém managementu. Pracoval jsem ve startupech, technologických firmách i velkých bankách. Nejlépe se cítím v situacích, kdy je produkt teprve na začátku a potřebuje dostat jasný tvar.",
+      "Jsem Product Lead s více než 10 lety zkušeností v produktovém managementu. Pracoval jsem ve startupech, technologických firmách i velkých bankách. Nejlépe se cítím v situacích, kdy je produkt teprve na začátku a potřebuje dostat jasný tvar. Stejně tak mě baví nastavování produktové strategie, škálování fungujících produktů a jejich propojování s obchodními cíli.",
       "V posledních letech se zaměřuji hlavně na fintech a wealth management. Zajímají mě ale i produkty z jiných oblastí, například longevity, sport nebo AI-driven inovace. Vedle klientských projektů také hledám cesty, jak může AI pomoci v discovery a delivery.",
     ],
     groups: [
@@ -535,7 +535,7 @@ export const ui = {
     aboutLabel: "About",
     aboutTitle: <>I do my best work<br />when the answer <em>isn't obvious yet.</em></>,
     aboutText: [
-      "I am a Product Lead with more than 10 years of experience in product management. I have worked in startups, technology companies and large banks. I am at my best when a product is still at the beginning and needs a clear shape.",
+      "I am a Product Lead with more than 10 years of experience in product management. I have worked in startups, technology companies and large banks. I am at my best when a product is still at the beginning and needs a clear shape. I also enjoy shaping product strategy, scaling established products and connecting them with business goals.",
       "In recent years, I have focused mainly on fintech and wealth management. I am also interested in products from other areas, such as longevity, sport and AI-driven innovation. Alongside client work, I explore how AI can support discovery and delivery.",
     ],
     groups: [

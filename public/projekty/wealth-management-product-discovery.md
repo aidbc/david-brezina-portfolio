@@ -29,7 +29,7 @@ Vedl jsem produktovou část discovery. Upřesnil jsem produktovou příležitos
 
 ## Výsledek
 
-Výstupy vytvořily společný základ pro další rozhodování a delivery. Klient ani veřejný odkaz nejsou z důvodu důvěrnosti uvedeny.
+Discovery sjednotila tým na tom, jak má nová wealth-management část produktu fungovat a co patří do první verze. Klient tak mohl rozhodnout o dalším vývoji na základě konkrétního MVP, prototypu a roadmapy. Klient ani veřejný odkaz nejsou z důvodu důvěrnosti uvedeny.
 
 ## Reflexe
 

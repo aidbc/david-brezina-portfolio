@@ -15,7 +15,7 @@ phone: "+420 603 424 391"
 
 Pomáhám dostat nové digitální produkty od nápadu ke spuštění.
 
-Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a vývoj tak, aby se produkt skutečně dostal na trh. Mám přes 10 let zkušeností, především z fintechu, bankovnictví a wealth managementu.
+Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a vývoj tak, aby se produkt skutečně dostal na trh. Mám přes 10 let zkušeností, především z fintechu, bankovnictví a wealth managementu. Baví mě také nastavování produktové strategie, škálování fungujících produktů a jejich propojování s obchodními cíli.
 
 ## Vybrané projekty
 
@@ -35,7 +35,7 @@ Detail: `/projekty/across-private-investments-app.md`
 - **Období:** září 2025–leden 2026
 - **Zadání:** Navrhnout novou wealth-management část existující fintech aplikace bez zbytečného zvýšení složitosti.
 - **Moje práce:** Definice MVP, user flows, požadavky, backlog a sladění byznysu, designu a vývoje.
-- **Výsledek:** User story mapa, roadmapa a klikací high-fidelity prototyp připravený pro další rozhodování a delivery.
+- **Výsledek:** Discovery sjednotila tým na podobě produktu a rozsahu první verze. Klient tak mohl rozhodnout o dalším vývoji na základě konkrétního MVP, prototypu a roadmapy.
 
 Detail: `/projekty/wealth-management-product-discovery.md`
 

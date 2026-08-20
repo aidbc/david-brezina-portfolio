@@ -15,7 +15,7 @@ phone: "+420 603 424 391"
 
 I help turn new product ideas into launched digital products.
 
-I lead discovery, help teams find the right MVP, and bring business, design and engineering together to get products to market. I have over 10 years of experience, mainly across fintech, banking and wealth management.
+I lead discovery, help teams find the right MVP, and bring business, design and engineering together to get products to market. I have over 10 years of experience, mainly across fintech, banking and wealth management. I also enjoy shaping product strategy, scaling established products and connecting them with business goals.
 
 ## Selected projects
 
@@ -35,7 +35,7 @@ Detail: `/en/projects/across-private-investments-app.md`
 - **Period:** September 2025–January 2026
 - **Brief:** Define a new wealth-management section within an existing fintech app without creating unnecessary complexity.
 - **My work:** MVP definition, flows, requirements, backlog, and alignment across business, design and engineering.
-- **Outcome:** User story map, roadmap and clickable high-fidelity prototype ready to support further decisions and delivery.
+- **Outcome:** The discovery aligned the team on the product direction and first-release scope. The client could then decide on further development based on a concrete MVP, prototype and roadmap.
 
 Detail: `/en/projects/wealth-management-product-discovery.md`
 

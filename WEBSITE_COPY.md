@@ -129,7 +129,7 @@ Vedl jsem produktovou část discovery. Definoval jsem MVP, user flows, produkto
 
 **Výsledek**
 
-Výstupem byla user story mapa, roadmapa a klikací high-fidelity prototyp. Navrhli jsme strukturu, která dokáže spojit různé typy investičních produktů bez toho, aby aplikace pro uživatele zbytečně zesložitěla.
+Discovery sjednotila tým na tom, jak má nová wealth-management část produktu fungovat a co patří do první verze. Klient tak mohl rozhodnout o dalším vývoji na základě konkrétního MVP, prototypu a roadmapy.
 
 **Štítky**
 
@@ -366,7 +366,7 @@ O mně
 
 ### Text
 
-Jsem Product Lead s více než 10 lety zkušeností v produktovém managementu. Pracoval jsem ve startupech, technologických firmách i velkých bankách. Nejlépe se cítím v situacích, kdy je produkt teprve na začátku a potřebuje dostat jasný tvar.
+Jsem Product Lead s více než 10 lety zkušeností v produktovém managementu. Pracoval jsem ve startupech, technologických firmách i velkých bankách. Nejlépe se cítím v situacích, kdy je produkt teprve na začátku a potřebuje dostat jasný tvar. Stejně tak mě baví nastavování produktové strategie, škálování fungujících produktů a jejich propojování s obchodními cíli.
 
 V posledních letech se zaměřuji hlavně na fintech a wealth management. Zajímají mě ale i produkty z jiných oblastí, například longevity, sport nebo AI-driven inovace. Vedle klientských projektů také hledám cesty, jak může AI pomoci v discovery a delivery.
 
@@ -538,7 +538,7 @@ I led the product side of the discovery. I defined the MVP, user flows, product 
 
 **Outcome**
 
-The work produced a user story map, roadmap and clickable high-fidelity prototype. We designed a structure that could bring different types of investment products together without making the application unnecessarily complex for users.
+The discovery aligned the team on how the new wealth management proposition should work and what belonged in the first release. The client could then decide on further development based on a concrete MVP, prototype and roadmap.
 
 **Tags**
 
@@ -745,7 +745,7 @@ Translate the validated direction into user flows, priorities and a backlog. Man
 
 ## About
 
-I am a Product Lead with more than 10 years of experience in product management. I have worked in startups, technology companies and large banks. I am at my best when a product is still at the beginning and needs a clear shape.
+I am a Product Lead with more than 10 years of experience in product management. I have worked in startups, technology companies and large banks. I am at my best when a product is still at the beginning and needs a clear shape. I also enjoy shaping product strategy, scaling established products and connecting them with business goals.
 
 In recent years, I have focused mainly on fintech and wealth management. I am also interested in products from other areas, such as longevity, sport and AI-driven innovation. Alongside client work, I explore how AI can support discovery and delivery.
 

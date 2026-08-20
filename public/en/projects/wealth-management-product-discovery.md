@@ -25,7 +25,7 @@ I led the product side of the discovery. I clarified the opportunity and first-v
 
 ## Outcome
 
-The outputs created a shared foundation for further decisions and delivery. The client and public URL are omitted for confidentiality.
+The discovery aligned the team on how the new wealth management proposition should work and what belonged in the first release. The client could then decide on further development based on a concrete MVP, prototype and roadmap. The client and public URL are omitted for confidentiality.
 
 ## Reflection
 
