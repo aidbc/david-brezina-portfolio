@@ -119,10 +119,10 @@ The bank's digital transformation, migration of 1.8 million clients to George, d
 
 ## How I work
 
-1. **Understand the problem:** Who the product is for, what should change, and which assumptions remain untested.
-2. **Find the right MVP:** Separate what matters for the first version from what can wait.
-3. **Align the people:** Bring business, design, engineering and other stakeholders around the same goal.
-4. **Turn it into delivery:** Translate direction into flows, priorities and a backlog, and manage scope during delivery.
+1. **Understand the problem:** Understand the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions.
+2. **Validate the direction:** Explore possible approaches, prototype them quickly and test which solution creates the most value.
+3. **Find the right MVP:** Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users.
+4. **Bring it to life:** Translate the validated direction into user flows, priorities and a backlog. Manage scope during delivery and continuously validate the outcomes.
 
 ## Areas
 

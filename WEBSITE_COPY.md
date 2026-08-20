@@ -344,23 +344,19 @@ Každý projekt je jiný, ale většinou procházím těmito kroky:
 
 ### 1. Pochopit problém
 
-Nejdřív potřebuji vědět, pro koho produkt vzniká, co má změnit a které předpoklady zatím nejsou ověřené.
+Pochopit obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady.
 
-### 2. Najít správné MVP
+### 2. Ověřit správný směr
 
-Společně s týmem oddělíme to, co je pro první verzi podstatné, od věcí, které mohou počkat.
+Rozpracovat možné přístupy, rychle je prototypovat a testováním zjistit, které řešení přináší největší hodnotu.
 
-### 3. Sladit lidi kolem produktu
+### 3. Najít správné MVP
 
-Hlídám, aby byznys, design, vývoj a další stakeholdeři rozuměli cíli stejně a rozhodovali se nad stejnými informacemi.
+Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu.
 
-### 4. Dovést produkt k realizaci
+### 4. Dovést k realizaci
 
-Převádím směr produktu do konkrétních flows, priorit a backlogu. Během delivery řeším změny scope a pomáhám odstraňovat blokace.
-
-### 5. Spustit a poučit se
-
-Launch není konec projektu. Zpětná vazba a data ukážou, co má smysl rozvíjet dál.
+Převést ověřený směr do user flows, priorit a backlogu. Během realizace hlídat rozsah a průběžně ověřovat výsledky.
 
 ## O mně
 
@@ -733,23 +729,19 @@ From the first idea to a working product
 
 ### 1. Understand the problem
 
-I start by finding out who the product is for, what should change, and which assumptions are still untested.
+Understand the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions.
 
-### 2. Find the right MVP
+### 2. Validate the direction
 
-Together with the team, I separate what matters for the first version from what can wait.
+Explore possible approaches, prototype them quickly and test which solution creates the most value.
 
-### 3. Align the people around the product
+### 3. Find the right MVP
 
-I make sure business, design, engineering and other stakeholders understand the goal in the same way and make decisions using the same information.
+Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users.
 
-### 4. Turn the direction into delivery
+### 4. Bring it to life
 
-I translate the product direction into flows, priorities and a backlog. During delivery, I manage scope changes and help remove blockers.
-
-### 5. Launch and learn
-
-Launch is not the end of the project. Feedback and data show what is worth developing next.
+Translate the validated direction into user flows, priorities and a backlog. Manage scope during delivery and continuously validate the outcomes.
 
 ## About
 

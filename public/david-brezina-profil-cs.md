@@ -119,10 +119,10 @@ Digitální transformace banky, migrace 1,8 milionu klientů na George, rozvoj a
 
 ## Jak pracuji
 
-1. **Pochopit problém:** Pro koho produkt vzniká, co má změnit a které předpoklady nejsou ověřené.
-2. **Najít správné MVP:** Oddělit to, co je pro první verzi podstatné, od věcí, které mohou počkat.
-3. **Sladit lidi:** Dostat byznys, design, vývoj a další stakeholdery ke stejnému cíli.
-4. **Dovést k realizaci:** Převést směr do flows, priorit a backlogu a během delivery hlídat scope.
+1. **Pochopit problém:** Pochopit obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady.
+2. **Ověřit správný směr:** Rozpracovat možné přístupy, rychle je prototypovat a testováním zjistit, které řešení přináší největší hodnotu.
+3. **Najít správné MVP:** Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu.
+4. **Dovést k realizaci:** Převést ověřený směr do user flows, priorit a backlogu. Během realizace hlídat rozsah a průběžně ověřovat výsledky.
 
 ## Oblasti
 
