@@ -119,7 +119,7 @@ Business analýza v rámci digitální transformace banky. Odpovědnost za deliv
 
 ## Jak pracuji
 
-1. **Pochopit problém:** Pochopit obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady.
+1. **Pochopit problém:** Pochopit a definovat obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady.
 2. **Ověřit správný směr:** Rozpracovat možné přístupy, rychle je prototypovat a testováním zjistit, které řešení přináší největší hodnotu.
 3. **Najít správné MVP:** Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu.
 4. **Dovést ke spuštění:** Převést ověřený směr do user flows, priorit a backlogu. Během vývoje hlídat rozsah, průběžně ověřovat řešení a dovést produkt až ke spuštění.

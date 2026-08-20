@@ -336,7 +336,7 @@ Business analýza v rámci digitální transformace banky. Odpovědnost za deliv
 
 ### Nadpis
 
-Od prvního nápadu k fungujícímu produktu
+Čemu se nejčastěji věnuji
 
 ### Úvod
 
@@ -344,7 +344,7 @@ Každý projekt je jiný, ale většinou procházím těmito kroky:
 
 ### 1. Pochopit problém
 
-Pochopit obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady.
+Pochopit a definovat obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady.
 
 ### 2. Ověřit správný směr
 
@@ -725,11 +725,11 @@ Business analysis supporting the bank's digital transformation. Responsibility f
 
 ### Heading
 
-From the first idea to a working product
+What I work on most often
 
 ### 1. Understand the problem
 
-Understand the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions.
+Understand and define the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions.
 
 ### 2. Validate the direction
 

@@ -478,9 +478,9 @@ export const ui = {
     experienceLabel: "Zkušenosti",
     experienceTitle: <>Kde jsem pracoval<br />a za co odpovídal.</>,
     processLabel: "Jak pracuji",
-    processTitle: <>Od prvního nápadu<br />k fungujícímu produktu.</>,
+    processTitle: <>Čemu se nejčastěji<br />věnuji.</>,
     process: [
-      ["Pochopit problém", "Pochopit obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady."],
+      ["Pochopit problém", "Pochopit a definovat obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady."],
       ["Ověřit správný směr", "Rozpracovat možné přístupy, rychle je prototypovat a testováním zjistit, které řešení přináší největší hodnotu."],
       ["Najít správné MVP", "Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu."],
       ["Dovést ke spuštění", "Převést ověřený směr do user flows, priorit a backlogu. Během vývoje hlídat rozsah, průběžně ověřovat řešení a dovést produkt až ke spuštění."],
@@ -525,9 +525,9 @@ export const ui = {
     experienceLabel: "Experience",
     experienceTitle: <>Where I&apos;ve worked<br />and what I owned.</>,
     processLabel: "How I work",
-    processTitle: <>From the first idea<br />to a working product.</>,
+    processTitle: <>What I work on<br />most often.</>,
     process: [
-      ["Understand the problem", "Understand the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions."],
+      ["Understand the problem", "Understand and define the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions."],
       ["Validate the direction", "Explore possible approaches, prototype them quickly and test which solution creates the most value."],
       ["Find the right MVP", "Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users."],
       ["Bring it to launch", "Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch."],
