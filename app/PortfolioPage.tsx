@@ -15,6 +15,9 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
   const profileFile = isCs
     ? "/david-brezina-profil-cs.md"
     : "/david-brezina-profile-en.md";
+  const profileDownloadName = isCs
+    ? "David_Brezina_Profile_CZ.md"
+    : "David_Brezina_Profile_EN.md";
   const sectionIds = isCs
     ? { experience: "zkusenosti", about: "o-mne", skills: "skills", projects: "projekty", process: "jak-pracuji" }
     : { experience: "experience", about: "about", skills: "skills", projects: "projects", process: "how-i-work" };
@@ -63,7 +66,7 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
             <a className="button button-primary" href={`#${sectionIds.projects}`}>
               {copy.viewProjects} <Arrow down />
             </a>
-            <a className="button button-secondary" href={profileFile} download>
+            <a className="button button-secondary" href={profileFile} download={profileDownloadName}>
               {copy.download} <span aria-hidden="true">↓</span>
             </a>
           </div>

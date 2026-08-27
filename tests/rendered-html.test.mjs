@@ -45,8 +45,8 @@ test("includes Google Analytics on every route", async () => {
 
 test("keeps the profile download only in the home-page hero", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
-  assert.match(cs, /href="\/david-brezina-profil-cs\.md"[^>]*download/);
-  assert.match(en, /href="\/david-brezina-profile-en\.md"[^>]*download/);
+  assert.match(cs, /href="\/david-brezina-profil-cs\.md"[^>]*download="David_Brezina_Profile_CZ\.md"/);
+  assert.match(en, /href="\/david-brezina-profile-en\.md"[^>]*download="David_Brezina_Profile_EN\.md"/);
 
   for (const route of routeFiles.slice(2)) {
     const html = await read(route);
@@ -77,10 +77,16 @@ test("keeps the downloadable profiles current and self-contained", async () => {
     read("david-brezina-profil-cs.md"),
     read("david-brezina-profile-en.md"),
   ]);
-  assert.match(cs, /last_updated: 2026-08-20/);
-  assert.match(en, /last_updated: 2026-08-20/);
-  assert.match(cs, /Stabilizace produktu pomohla snížit odchodovost klientů/);
-  assert.match(en, /Stabilising the product helped reduce client churn/);
+  assert.match(cs, /language: cs/);
+  assert.match(en, /language: en/);
+  assert.match(cs, /last_updated: 2026-08-27/);
+  assert.match(en, /last_updated: 2026-08-27/);
+  assert.match(cs, /Mobilní investiční aplikace Across \(2026\)/);
+  assert.match(en, /Across mobile investment application \(2026\)/);
+  assert.match(cs, /OpenClaw\/Hermes/);
+  assert.match(en, /OpenClaw\/Hermes/);
+  assert.match(cs, /Rodina, sport, investování, tech inovace/);
+  assert.match(en, /Family, sport, investing, tech innovation/);
   assert.doesNotMatch(cs, /Detail: .*\.md/);
   assert.doesNotMatch(en, /Detail: .*\.md/);
 });

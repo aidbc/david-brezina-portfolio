@@ -1,153 +1,105 @@
 ---
 name: David Březina
-role: Product Lead
+role: Product Lead · Senior Product Manager
 location: Praha, Česká republika
 language: cs
-last_updated: 2026-08-20
+last_updated: 2026-08-27
 linkedin: https://www.linkedin.com/in/davidbrezina/
+website: https://davidbrezina.com
 email: brezina.david@gmail.com
 phone: "+420 603 424 391"
 ---
 
 # David Březina
 
-## Product Lead
+**Product Lead · Senior Product Manager**
 
-Pomáhám dostat nové digitální produkty od nápadu ke spuštění.
+Praha, Česká republika  
+[brezina.david@gmail.com](mailto:brezina.david@gmail.com) · [+420 603 424 391](tel:+420603424391)  
+[linkedin.com/in/davidbrezina](https://www.linkedin.com/in/davidbrezina/) · [davidbrezina.com](https://davidbrezina.com)
 
-Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a vývoj tak, aby se produkt skutečně dostal na trh. Mám přes 10 let zkušeností, především z fintechu, bankovnictví a wealth managementu. Baví mě také nastavování produktové strategie, škálování fungujících produktů a jejich propojování s obchodními cíli.
+## Profil
 
-## Vybrané projekty
+Product Lead a Senior Product Manager s více než 10 lety zkušeností s tvorbou digitálních produktů primárně ve fintechu, bankovnictví a wealth managementu. Největší hodnotu přináším v raných fázích produktu, od discovery přes definici MVP. Současně dokáži sladit byznys, design a vývoj a dovést produkt od discovery, delivery až ke spuštění.
 
-### Mobilní investiční aplikace
+Mám zkušenost s novými produkty od nuly, ale i s již běžícími produkty a jejich dalším rozvojem, produktovou strategií, výzkumem, definicí user flows a backlogu, delivery i koordinací týmů včetně stakeholder managementu. V posledních letech se zaměřuji také na praktické využití AI v produktové práci — od AI funkcí v investičních produktech po automatizaci product developmentu např. v rámci user stories, testování, kontrolu vyvinutého řešení vůči akceptačním kritériím a dokumentace.
 
-- **Role:** Product Owner
-- **Období:** únor–červenec 2026
-- **Zadání:** Rozšířit původně webovou investiční platformu o nativní aplikaci pro iOS a Android.
-- **Moje práce:** Discovery, definice MVP a flows, user stories, backlog, sladění byznysu, designu a vývoje a související rozšíření webové platformy.
-- **Výsledek:** Aplikaci jsme spustili v plánovaném termínu. Po spuštění rostl počet zákazníků a produkt jsme dál zlepšovali podle jejich zpětné vazby.
+## Klíčové kompetence
 
-### Wealth Management Product Discovery
+- 0→1 Product Development · Product Discovery · Definice MVP · Produktová strategie
+- Uživatelský výzkum · Prototypování · User Flows · Produktová roadmapa
+- Product Leadership · Stakeholder management · Práce s klienty včetně C-level
+- Product Delivery · Prioritizace · Backlog Ownership
+- Fintech · Wealth Management · Platby · Open Banking · Digitální identita
+- Praktické využití AI · LLM Use Cases · AI-agentic workflows · Prompt engineering
 
-- **Role:** Product Lead / Product Manager
-- **Období:** září 2025–leden 2026
-- **Zadání:** Navrhnout novou wealth-management část existující fintech aplikace bez zbytečného zvýšení složitosti.
-- **Moje práce:** Definice MVP, user flows, požadavky, backlog a sladění byznysu, designu a vývoje.
-- **Výsledek:** Discovery sjednotila tým na podobě produktu a rozsahu první verze. Klient tak mohl rozhodnout o dalším vývoji na základě konkrétního MVP, prototypu a roadmapy.
-
-### AI-Powered Investment App
-
-- **Role:** Product Lead
-- **Období:** červenec 2024–leden 2025
-- **Zadání:** Vytvořit pro trh na Blízkém východě AI-powered mobilní investiční aplikaci zaměřenou na akcie, ETF a social trading.
-- **Moje práce:** Čtyřtýdenní discovery, definice value proposition a MVP a následné vedení vývoje první verze jako Product Lead.
-- **Výsledek:** Ověřené produktové koncepty a první verze aplikace vytvořená během navazujícího čtyřměsíčního vývoje.
-
-### Shoptet Pay
-
-- **Role:** Product Manager / Product Owner
-- **Období:** listopad 2021–prosinec 2022
-- **Zadání:** Spustit a rozvíjet platební služby integrované přímo do administrace Shoptetu.
-- **Moje práce:** Discovery, user research, backlog, open banking a spolupráce s designem a vývojem.
-- **Výsledek:** Spuštění online platební brány a rozšíření Shoptet Pay o služby pro jednodušší správu plateb a párování objednávek.
-
-### Fairo
-
-- **Role:** Product Owner
-- **Období:** 2020–2021, přibližně jeden rok
-- **Zadání:** Stabilizovat early-stage mobilní finanční aplikaci pro živnostníky a pokračovat v rozvoji klíčových funkcí.
-- **Moje práce:** Produktové vedení týmu pro accounting, bookkeeping a tax reporting, stabilizace vývoje, prioritizace oprav, biometrické ověření a rozvoj daňového reportingu.
-- **Výsledek:** Stabilizace produktu pomohla snížit odchodovost klientů. Zároveň vzrostl počet klientů, kteří přes Fairo připravili daňové přiznání.
-
-### Digitální dílna
-
-- **Role:** Project CEO
-- **Období:** 2019, přibližně čtyři měsíce
-- **Zadání:** Vybudovat digitální agenturu pro živnostníky a malé firmy od prvního návrhu po spuštění.
-- **Moje práce:** P&L, sestavení týmu, produktová strategie, rozsah MVP, právní entita, marketing, web a aplikace pro objednávání služeb.
-- **Výsledek:** Agentura, nabídka služeb a objednávková aplikace spuštěné během přibližně čtyř měsíců; po spuštění jsme získali první zakázky.
-
-## Zkušenosti
+## Pracovní zkušenosti
 
 ### Vacuumlabs — Senior Product Manager / Product Lead
 
-**listopad 2023–31. srpna 2026 · freelance · Praha**
+Vedl jsem product discovery a delivery na klientských projektech. Jako Wealth Management Lead jsem se podílel také na strategii, pre-sales a práci s klienty. Interně jsem rozvíjel praktické využití AI v product delivery a podporoval rozvoj Product Ownerů v týmu.
 
-Klientské projekty ve fintechu a wealth managementu od discovery po delivery. Jako Product Lead pro Wealth Management jsem se podílel také na strategii, pre-sales a práci s klienty.
+**Vybrané projekty:**
+
+- **Mobilní investiční aplikace Across (2026):** převzal jsem produkt od definice MVP přes klíčové user flows, backlog a delivery až ke spuštění nativní aplikace pro iOS a Android. Koordinoval jsem byznys, design a engineering a aplikaci jsme uvedli na trh v plánovaném termínu. Současně jsem připravoval nově vznikající interní tým pro převzetí, product coaching a pomoc s vyberem nove design agentury. Pomoc s přípravou produktové roadmapy, revize stávajících user flows na webove platforme.
+- **AI-powered investiční aplikace (2024–2025):** vedl jsem čtyřtýdenní 0→1 discovery pro investiční aplikaci na Blízkém východě — market research, uživatelské rozhovory, konkurence, persony, value proposition, story mapping a MVP. Následoval čtyřměsíční vývoj první verze. Součástí návrhu byly personalizované AI insighty z investičních dat, interaktivní feed a sumarizace earning calls. Produkční launch byl následně zastaven kvůli compliance rozhodnutí.
+- **Wealth Management Product Discovery (2025–2026):** Vedl jsem produktovou část návrhu nové investiční části existující fintech aplikace v úzké spolupráci s vedením firmy. S product designerem jsme rychle iterovali nad konceptem, user flows a prototypem. Výstupem byl definovaný MVP scope, user flows, produktová roadmapa a high-fidelity prototyp, který sjednotil byznys, design a vývoj kolem dalšího směru produktu.
+- **AI SDLC / Project Intelligence Layer:** navrhl jsem a na vlastním projektu zavedl workflow, které propojuje projektový kontext, requirements a delivery data a využívá Claude Routines a další LLM tooling pro semi-automatickou tvorbu user stories, testing, kontrolu implementace vůči akceptačním kritériím a dokumentaci. Zkušenosti jsem následně předal dvěma dalším týmům a koncept byl použit také v pre-sales.
 
 ### Finbricks — Product Owner
 
-**leden–listopad 2023 · freelance · Praha**
+Ve spolupráci s CPO jsem převzal každodenní product ownership platformy a zaměřil se na zlepšení fungování a výkonu vývojového týmu. Současně jsme doručili novou klientskou administraci a podpořili expanzi na Slovensko, do Maďarska a Rumunska.
 
-Produktový vývoj open-banking platformy. Dodali jsme novou klientskou administraci včetně migrace a podpořili expanzi do Maďarska a Rumunska.
+### Shoptet — Product Manager / Product Owner, Shoptet Pay
 
-### Shoptet — Product Manager, Shoptet Pay
+Podílel jsem se na vzniku nového produktu Shoptet Pay — platebního řešení od společnosti Adyen integrovaného přímo do administrace jedné z největších e-commerce platforem v CEE.
 
-**listopad 2021–prosinec 2022 · Praha**
-
-Rozvoj Shoptet Pay pro e-shopy v CZ, SK a HU. Odpovědnost za product discovery, backlog a vývoj open-banking funkcí včetně automatického párování plateb s objednávkami.
+- Vedl jsem product discovery a delivery v oblasti open bankingu a automatického párování plateb s objednávkami.
+- Společně s Project Leadem jsem se podílel jsem na výběru poskytovatele open-banking služeb a na nastavení vývojového a Scrum procesu.
+- S týmem jsme spustili online platební bránu a rozšířili produkt o další služby pro správu a párování plateb.
 
 ### Creative Dock — Product Owner / Project CEO
 
-**září 2019–listopad 2021 · freelance · Praha**
+Pracoval jsem na early-stage digitálních produktech a nových venture projektech.
 
-Ve Fairo jsem vedl tým pro fakturaci, účetnictví a daně živnostníků. Později jsem od nuly vedl projekt digitální agentury pro malé firmy.
+**Vybrané projekty:**
 
-### Česká spořitelna — Product & CX Specialist / Product Owner / Senior Business Analyst
+- **Digitální dílna — Project CEO (2019):** Vybudování digitální agentury pro živnostníky a malé firmy v partnerství s KB a VISA. Odpovídal jsem za P&L, produktovou strategii, sestavení týmu, MVP, operating model, právní entitu, marketing, web a objednávkovou aplikaci. Během přibližně čtyř měsíců jsme přešli od prvního konceptu ke spuštění služby a získali první zákaznické zakázky.
+- **Fairo — Product Owner (2020–2021):** Early-stage mobilní finanční aplikace pro živnostníky. Vedl jsem jeden ze tří produktových týmů se zodpovědností za accounting, bookkeeping a tax reporting. Po příchodu nového vývojového týmu jsem stabilizoval delivery, prioritizoval klíčové opravy a vedl dodání biometrického ověření a zlepšení daňového reportingu. Změny přispěly ke stabilizaci produktu a vyššímu využívání funkcí souvisejících s daňovým přiznáním.
 
-**říjen 2016–září 2019 · HPP · Praha**
+### Česká spořitelna — Product Owner / Senior Business Analyst
 
-Business analýza v rámci digitální transformace banky včetně migrace 1,8 milionu klientů na George. Odpovědnost za delivery a rozvoj nových funkcí digitální identity George klíč a spuštění online cestovního pojištění.
+Podílel jsem se na jedné z největších transformací digitálního bankovnictví na českém trhu.
+
+- **George Marketplace:** Product Owner digitálních produktů v internetovém bankovnictví; spoluodpovědnost za delivery a launch plně online cestovního pojištění.
+- **George klíč:** Product Owner mobilní aplikace pro digitální identitu; koordinace IT architektury, UX, bezpečnosti, risku, compliance, legal, provozu a byznysu. Doručená vylepšení zahrnovala biometrii a online aktivaci.
+- **Migrace na George:** Senior Business Analyst při rolloutu nového internetového a mobilního bankovnictví s dopadem na 1,8 milionu klientů.
 
 ### Dřívější zkušenosti
 
-- T-Mobile Czech Republic — Process Manager, 2015–2016
-- KPMG Česká republika — Business Analyst → Consultant, 2012–2015
-- Deloitte Česká republika — Audit Assistant, 2010–2011
+- T-Mobile Czech Republic — Process Manager (2015–2016)
+- KPMG Česká republika — Business Analyst → Consultant (2012–2015)
+- Deloitte Česká republika — Audit Assistant (2010–2011)
 
-## Jak pracuji
+## Vzdělání a certifikace
 
-1. **Pochopit problém:** Pochopit a definovat obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady.
-2. **Ověřit správný směr:** Rozpracovat možné přístupy, rychle je prototypovat a testováním zjistit, které řešení přináší největší hodnotu.
-3. **Najít správné MVP:** Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu.
-4. **Dovést ke spuštění:** Převést ověřený směr do user flows, priorit a backlogu. Během vývoje hlídat rozsah, průběžně ověřovat řešení a dovést produkt až ke spuštění.
-
-## Oblasti
-
-Product discovery, new product development, MVP definition, product delivery, wealth management, open banking, platby, digitální identita a AI workflow pro produktové týmy.
-
-Vedle fintechu a wealth managementu mě zajímají také produkty v oblastech longevity, sportu a AI-driven inovací.
-
-## Jazyky
-
-- Čeština — rodilý mluvčí
-- Angličtina — B2/C1
-
-## Mimo práci
-
-Rodina, sport, investování, knihy, cestování a historie.
+- Univerzita Hradec Králové — Ing. / Informační management (2004–2010)
+- Universidad Politécnica de Madrid — Erasmus, Informační management (2009–2010)
+- Professional Scrum Product Owner I — Scrum.org (2022)
+- PRINCE2 Practitioner (2015)
 
 ## Nástroje
 
-Jira, Miro, Slack, Figma, Confluence, Mixpanel a Hotjar.
+Jira · Confluence · Figma · Miro · Slack · Mixpanel · Hotjar · GitHub · Linear · n8n
 
-## AI stack
+Claude / Claude Routines · Codex · Lovable · OpenClaw/Hermes · LLM tooling
 
-Claude Code, Codex, Lovable, GitHub, Linear a n8n.
+## Jazyky
 
-## Vzdělání
+Čeština — rodilý mluvčí
 
-- Univerzita Hradec Králové — magisterské studium, Informační management (2004–2010)
-- Universidad Politécnica de Madrid — Erasmus, Informační management (2009)
+Angličtina — pokročilá pracovní úroveň (B2/C1)
 
-## Certifikace
+## Volný čas
 
-- PRINCE2 Practitioner (2015)
-- Professional Scrum Product Owner I, Scrum.org (2022)
-
-## Kontakt
-
-- E-mail: brezina.david@gmail.com
-- Telefon: +420 603 424 391
-- LinkedIn: https://www.linkedin.com/in/davidbrezina/
-- Preferovaná spolupráce: IČO nebo HPP dle dohody
+Rodina, sport, investování, tech inovace, cestování, historie, knihy

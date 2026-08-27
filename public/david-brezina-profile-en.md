@@ -1,153 +1,105 @@
 ---
 name: David Březina
-role: Product Lead
+role: Product Lead · Senior Product Manager
 location: Prague, Czech Republic
 language: en
-last_updated: 2026-08-20
+last_updated: 2026-08-27
 linkedin: https://www.linkedin.com/in/davidbrezina/
+website: https://davidbrezina.com
 email: brezina.david@gmail.com
 phone: "+420 603 424 391"
 ---
 
 # David Březina
 
-## Product Lead
+**Product Lead · Senior Product Manager**
 
-I help turn new product ideas into launched digital products.
+Prague, Czech Republic  
+[brezina.david@gmail.com](mailto:brezina.david@gmail.com) · [+420 603 424 391](tel:+420603424391)  
+[linkedin.com/in/davidbrezina](https://www.linkedin.com/in/davidbrezina/) · [davidbrezina.com](https://davidbrezina.com)
 
-I lead discovery, help teams find the right MVP, and bring business, design and engineering together to get products to market. I have over 10 years of experience, mainly across fintech, banking and wealth management. I also enjoy shaping product strategy, scaling established products and connecting them with business goals.
+## Profile
 
-## Selected projects
+Product Lead and Senior Product Manager with more than 10 years of experience building digital products, primarily in fintech, banking and wealth management. I bring the greatest value in the early stages of a product, from discovery through MVP definition. At the same time, I can align business, design and engineering and take a product from discovery and delivery through to launch.
 
-### Mobile Investment App
+I have experience with new products built from scratch, as well as with existing products and their further development, product strategy, research, defining user flows and backlogs, delivery and team coordination, including stakeholder management. In recent years, I have also focused on the practical use of AI in product work — from AI features in investment products to automating product development, for example in user stories, testing, checking the developed solution against acceptance criteria and documentation.
 
-- **Role:** Product Owner
-- **Period:** February–July 2026
-- **Brief:** Extend a web-only investment platform into native iOS and Android applications.
-- **My work:** Discovery, MVP and flow definition, user stories, backlog, alignment across business, design and engineering, and related enhancements to the web platform.
-- **Outcome:** We launched the app on schedule. After launch, the number of clients grew and we continued improving the product based on their feedback.
+## Core competencies
 
-### Wealth Management Product Discovery
+- 0→1 Product Development · Product Discovery · MVP Definition · Product Strategy
+- User Research · Prototyping · User Flows · Product Roadmap
+- Product Leadership · Stakeholder Management · Client Work Including C-level
+- Product Delivery · Prioritisation · Backlog Ownership
+- Fintech · Wealth Management · Payments · Open Banking · Digital Identity
+- Practical Use of AI · LLM Use Cases · AI-agentic Workflows · Prompt Engineering
 
-- **Role:** Product Lead / Product Manager
-- **Period:** September 2025–January 2026
-- **Brief:** Define a new wealth-management section within an existing fintech app without creating unnecessary complexity.
-- **My work:** MVP definition, flows, requirements, backlog, and alignment across business, design and engineering.
-- **Outcome:** The discovery aligned the team on the product direction and first-release scope. The client could then decide on further development based on a concrete MVP, prototype and roadmap.
-
-### AI-Powered Investment App
-
-- **Role:** Product Lead
-- **Period:** July 2024–January 2025
-- **Brief:** Create an AI-powered mobile investment app for the Middle Eastern market, focused on stocks, ETFs and social trading.
-- **My work:** Four-week discovery, definition of the value proposition and MVP, followed by leading development of the first version as Product Lead.
-- **Outcome:** Validated product concepts and a first version developed over the following four months.
-
-### Shoptet Pay
-
-- **Role:** Product Manager / Product Owner
-- **Period:** November 2021–December 2022
-- **Brief:** Launch and develop payment services built directly into Shoptet's merchant administration.
-- **My work:** Discovery, user research, backlog, open banking, and collaboration with design and engineering.
-- **Outcome:** Launch of the online payment gateway and expansion of Shoptet Pay with services that simplified payment management and order matching.
-
-### Fairo
-
-- **Role:** Product Owner
-- **Period:** 2020–2021, approximately one year
-- **Brief:** Stabilise an early-stage mobile finance app for freelancers while continuing to develop its core capabilities.
-- **My work:** Product ownership for accounting, bookkeeping and tax reporting, delivery stabilisation, prioritisation of fixes, biometric authentication and tax-reporting development.
-- **Outcome:** Stabilising the product helped reduce client churn. At the same time, the number of clients who prepared their tax return through Fairo increased.
-
-### Digitální dílna
-
-- **Role:** Project CEO
-- **Period:** 2019, approximately four months
-- **Brief:** Build a digital agency for freelancers and small businesses from initial concept to launch.
-- **My work:** P&L, team setup, product strategy, MVP scope, legal entity, marketing, website and service-ordering application.
-- **Outcome:** The agency, service offering and ordering application launched in approximately four months; we then secured our first client projects.
-
-## Experience
+## Professional experience
 
 ### Vacuumlabs — Senior Product Manager / Product Lead
 
-**November 2023–31 August 2026 · freelance · Prague**
+I led product discovery and delivery on client projects. As Wealth Management Lead, I also contributed to strategy, pre-sales and client work. Internally, I developed the practical use of AI in product delivery and supported the development of Product Owners in the team.
 
-Client projects across fintech and wealth management, from discovery through delivery. As Wealth Management Product Lead, I also supported strategy, pre-sales and client work.
+**Selected projects:**
+
+- **Across mobile investment application (2026):** I took over the product from MVP definition through key user flows, backlog and delivery to the launch of a native iOS and Android application. I coordinated business, design and engineering, and we brought the application to market on schedule. At the same time, I prepared the newly forming internal team for the handover, provided product coaching and helped with selecting a new design agency. I helped prepare the product roadmap and reviewed the existing user flows on the web platform.
+- **AI-powered investment application (2024–2025):** I led a four-week 0→1 discovery for an investment application in the Middle East — market research, user interviews, competitor analysis, personas, value proposition, story mapping and MVP. This was followed by four months of development of the first version. The design included personalised AI insights from investment data, an interactive feed and earnings-call summaries. The production launch was subsequently stopped due to a compliance decision.
+- **Wealth Management Product Discovery (2025–2026):** I led the product part of designing a new investment section for an existing fintech application in close cooperation with the company’s management. Together with a product designer, we rapidly iterated on the concept, user flows and prototype. The output was a defined MVP scope, user flows, product roadmap and high-fidelity prototype that aligned business, design and engineering around the next direction of the product.
+- **AI SDLC / Project Intelligence Layer:** I designed and implemented on my own project a workflow that connects project context, requirements and delivery data and uses Claude Routines and other LLM tooling for semi-automated creation of user stories, testing, checking the implementation against acceptance criteria and documentation. I subsequently shared the experience with two other teams, and the concept was also used in pre-sales.
 
 ### Finbricks — Product Owner
 
-**January–November 2023 · freelance · Prague**
+In cooperation with the CPO, I took over the platform’s day-to-day product ownership and focused on improving how the development team operated and performed. At the same time, we delivered a new client administration portal and supported expansion into Slovakia, Hungary and Romania.
 
-Product development for an open-banking platform. We delivered a new client administration portal, including migration, and supported expansion into Hungary and Romania.
+### Shoptet — Product Manager / Product Owner, Shoptet Pay
 
-### Shoptet — Product Manager, Shoptet Pay
+I contributed to the creation of the new Shoptet Pay product — an Adyen payment solution integrated directly into the administration of one of the largest e-commerce platforms in CEE.
 
-**November 2021–December 2022 · Prague**
-
-Development of Shoptet Pay for online stores in CZ, SK and HU. Responsible for product discovery, the backlog and open-banking features, including automated payment-to-order matching.
+- I led product discovery and delivery in open banking and the automatic matching of payments with orders.
+- Together with the Project Lead, I contributed to selecting an open-banking service provider and setting up the development and Scrum process.
+- Together with the team, we launched an online payment gateway and expanded the product with additional services for payment management and matching.
 
 ### Creative Dock — Product Owner / Project CEO
 
-**September 2019–November 2021 · freelance · Prague**
+I worked on early-stage digital products and new venture projects.
 
-At Fairo, I led a team focused on invoicing, bookkeeping and taxation for freelancers. I later led a digital-agency project for small businesses from scratch.
+**Selected projects:**
 
-### Česká spořitelna — Product & CX Specialist / Product Owner / Senior Business Analyst
+- **Digitální dílna — Project CEO (2019):** Building a digital agency for sole traders and small businesses in partnership with KB and VISA. I was responsible for P&L, product strategy, team setup, MVP, operating model, legal entity, marketing, website and ordering application. In approximately four months, we moved from the first concept to launching the service and won the first client engagements.
+- **Fairo — Product Owner (2020–2021):** An early-stage mobile financial application for sole traders. I led one of three product teams with responsibility for accounting, bookkeeping and tax reporting. After a new development team joined, I stabilised delivery, prioritised key fixes and led the delivery of biometric authentication and improvements to tax reporting. The changes contributed to stabilising the product and increasing the use of features related to tax returns.
 
-**October 2016–September 2019 · permanent employment · Prague**
+### Česká spořitelna — Product Owner / Senior Business Analyst
 
-Business analysis supporting the bank's digital transformation, including the migration of 1.8 million clients to George. Responsibility for delivery and development of new George Key digital identity features and the launch of online travel insurance.
+I contributed to one of the largest digital banking transformations in the Czech market.
+
+- **George Marketplace:** Product Owner for digital products in online banking; shared responsibility for the delivery and launch of fully online travel insurance.
+- **George Key:** Product Owner for a mobile digital identity application; coordination of IT architecture, UX, security, risk, compliance, legal, operations and business. Delivered improvements included biometrics and online activation.
+- **Migration to George:** Senior Business Analyst during the rollout of new online and mobile banking affecting 1.8 million clients.
 
 ### Earlier experience
 
-- T-Mobile Czech Republic — Process Manager, 2015–2016
-- KPMG Czech Republic — Business Analyst → Consultant, 2012–2015
-- Deloitte Czech Republic — Audit Assistant, 2010–2011
+- T-Mobile Czech Republic — Process Manager (2015–2016)
+- KPMG Czech Republic — Business Analyst → Consultant (2012–2015)
+- Deloitte Czech Republic — Audit Assistant (2010–2011)
 
-## How I work
+## Education and certifications
 
-1. **Understand the problem:** Understand and define the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions.
-2. **Validate the direction:** Explore possible approaches, prototype them quickly and test which solution creates the most value.
-3. **Find the right MVP:** Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users.
-4. **Bring it to launch:** Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch.
-
-## Areas
-
-Product discovery, new product development, MVP definition, product delivery, wealth management, open banking, payments, digital identity and AI workflows for product teams.
-
-Beyond fintech and wealth management, I am also interested in products across longevity, sport and AI-driven innovation.
-
-## Languages
-
-- Czech — native
-- English — B2/C1
-
-## Outside work
-
-Family, sport, investing, books, travel and history.
+- University of Hradec Králové — Master’s degree / Information Management (2004–2010)
+- Universidad Politécnica de Madrid — Erasmus, Information Management (2009–2010)
+- Professional Scrum Product Owner I — Scrum.org (2022)
+- PRINCE2 Practitioner (2015)
 
 ## Tools
 
-Jira, Miro, Slack, Figma, Confluence, Mixpanel and Hotjar.
+Jira · Confluence · Figma · Miro · Slack · Mixpanel · Hotjar · GitHub · Linear · n8n
 
-## AI stack
+Claude / Claude Routines · Codex · Lovable · OpenClaw/Hermes · LLM tooling
 
-Claude Code, Codex, Lovable, GitHub, Linear and n8n.
+## Languages
 
-## Education
+Czech — native speaker
 
-- University of Hradec Králové — Master’s degree, Information Management (2004–2010)
-- Universidad Politécnica de Madrid — Erasmus, Information Management (2009)
+English — advanced professional proficiency (B2/C1)
 
-## Certifications
+## Leisure
 
-- PRINCE2 Practitioner (2015)
-- Professional Scrum Product Owner I, Scrum.org (2022)
-
-## Contact
-
-- Email: brezina.david@gmail.com
-- Phone: +420 603 424 391
-- LinkedIn: https://www.linkedin.com/in/davidbrezina/
-- Preferred engagement: freelance or permanent employment, depending on agreement
+Family, sport, investing, tech innovation, travel, history, books
