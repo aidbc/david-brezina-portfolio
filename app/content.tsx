@@ -460,7 +460,7 @@ export const experience = {
 
 export const ui = {
   cs: {
-    nav: ["Zkušenosti", "O mně", "Jak pracuji", "Projekty"],
+    nav: ["Zkušenosti", "O mně", "Skills", "Jak pracuji", "Projekty"],
     heroLabel: "Product Lead · Praha",
     heroTitle: <>Nové produkty<br />od nápadu <em>ke spuštění.</em></>,
     heroText: "Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a vývoj tak, aby se produkt skutečně dostal na trh.",
@@ -485,6 +485,15 @@ export const ui = {
       ["Najít správné MVP", "Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu."],
       ["Dovést ke spuštění", "Převést ověřený směr do user flows, priorit a backlogu. Během vývoje hlídat rozsah, průběžně ověřovat řešení a dovést produkt až ke spuštění."],
     ],
+    skillsLabel: "Skills",
+    skillsTitle: <>Co přináším<br /><em>do týmu.</em></>,
+    skillsIntro: "Kombinuji produktové myšlení, znalost regulovaných digitálních služeb a praktické využití AI. Nejde mi jen o návrh směru, ale o jeho převedení do výsledku.",
+    skills: [
+      ["Product leadership", "Od nejasné příležitosti k rozhodnutím, kterým tým rozumí a dokáže je doručit.", ["Product strategy", "Discovery", "0→1 development", "MVP definition", "Roadmaps & backlog", "Delivery & launch"]],
+      ["Fintech expertise", "Zkušenost s produkty, kde UX, důvěra, bezpečnost a regulace musí fungovat společně.", ["Wealth management", "Investments", "Open banking", "Payments", "Digital identity", "Regulatory constraints"]],
+      ["AI for products", "Prakticky hledám, kde může AI zlepšit produkt, rozhodování i každodenní práci týmu.", ["Prompt engineering", "LLM product features", "ChatGPT API", "AI workflows", "Automations with n8n", "AI-assisted delivery"]],
+      ["People & alignment", "Propojuji business, design a engineering a pomáhám týmům převzít větší ownership.", ["Stakeholder alignment", "User research", "Story mapping", "Agile coaching", "Product ownership", "C-level communication"]],
+    ],
     aboutLabel: "O mně",
     aboutTitle: <>Nejvíc mě baví projekty,<br />kde odpověď ještě <em>není jasná.</em></>,
     aboutText: [
@@ -507,7 +516,7 @@ export const ui = {
     backTop: "Zpět nahoru",
   },
   en: {
-    nav: ["Experience", "About", "How I work", "Projects"],
+    nav: ["Experience", "About", "Skills", "How I work", "Projects"],
     heroLabel: "Product Lead · Prague",
     heroTitle: <>New products<br />from idea <em>to launch.</em></>,
     heroText: "I lead discovery, help teams find the right MVP, and bring business, design and engineering together to get products to market.",
@@ -531,6 +540,15 @@ export const ui = {
       ["Validate the direction", "Explore possible approaches, prototype them quickly and test which solution creates the most value."],
       ["Find the right MVP", "Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users."],
       ["Bring it to launch", "Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch."],
+    ],
+    skillsLabel: "Skills",
+    skillsTitle: <>What I bring<br /><em>to a team.</em></>,
+    skillsIntro: "I combine product thinking, experience with regulated digital services and practical use of AI. I care not only about defining direction, but about turning it into outcomes.",
+    skills: [
+      ["Product leadership", "From an unclear opportunity to decisions the team understands and can deliver.", ["Product strategy", "Discovery", "0→1 development", "MVP definition", "Roadmaps & backlog", "Delivery & launch"]],
+      ["Fintech expertise", "Experience with products where UX, trust, security and regulation have to work together.", ["Wealth management", "Investments", "Open banking", "Payments", "Digital identity", "Regulatory constraints"]],
+      ["AI for products", "I look for practical ways AI can improve the product, decision-making and everyday team workflows.", ["Prompt engineering", "LLM product features", "ChatGPT API", "AI workflows", "Automations with n8n", "AI-assisted delivery"]],
+      ["People & alignment", "I connect business, design and engineering and help teams build stronger ownership.", ["Stakeholder alignment", "User research", "Story mapping", "Agile coaching", "Product ownership", "C-level communication"]],
     ],
     aboutLabel: "About",
     aboutTitle: <>I do my best work<br />when the answer <em>isn&apos;t obvious yet.</em></>,
