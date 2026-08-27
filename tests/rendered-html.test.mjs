@@ -91,6 +91,20 @@ test("keeps the downloadable profiles current and self-contained", async () => {
   assert.doesNotMatch(en, /Detail: .*\.md/);
 });
 
+test("keeps the About facts aligned with the current bilingual CV", async () => {
+  const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
+  assert.match(cs, /Angličtina — pokročilá pracovní úroveň \(B2\/C1\)/);
+  assert.match(en, /English — advanced professional proficiency \(B2\/C1\)/);
+  assert.match(cs, /Universidad Politécnica de Madrid — Erasmus, Informační management \(2009–2010\)/);
+  assert.match(en, /Universidad Politécnica de Madrid — Erasmus, Information Management \(2009–2010\)/);
+  assert.match(cs, /Professional Scrum Product Owner I — Scrum\.org \(2022\)/);
+  assert.match(en, /Professional Scrum Product Owner I — Scrum\.org \(2022\)/);
+  assert.match(cs, /Claude \/ Claude Routines · Codex · Lovable · OpenClaw\/Hermes · LLM tooling/);
+  assert.match(en, /Claude \/ Claude Routines · Codex · Lovable · OpenClaw\/Hermes · LLM tooling/);
+  assert.match(cs, /Rodina · sport · investování · tech inovace · cestování · historie · knihy/);
+  assert.match(en, /Family · sport · investing · tech innovation · travel · history · books/);
+});
+
 test("marks the English experience and corrects the document language in the browser", async () => {
   const en = await read("en.html");
   assert.match(en, /<div lang="en">/);
