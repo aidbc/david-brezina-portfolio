@@ -121,7 +121,7 @@ test("does not render the Skills section or navigation item", async () => {
 
 test("renders the bilingual company references with all fifteen logos", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
-  assert.match(cs, /Spolupracoval jsem s/);
+  assert.match(cs, /S kým jsem spolupracoval/);
   assert.match(en, /Companies I’ve worked with/);
 
   const companyNames = [

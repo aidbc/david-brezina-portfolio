@@ -491,7 +491,7 @@ export const ui = {
       ["FINTECH", "banking, payments a investing"],
     ],
     companiesLabel: "Reference",
-    companiesTitle: "Spolupracoval jsem s",
+    companiesTitle: "S kým jsem spolupracoval",
     projectsLabel: "Vybrané projekty",
     projectsTitle: <>Produkty, na kterých jsem pracoval.</>,
     projectLink: "Detail projektu",
