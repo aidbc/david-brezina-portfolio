@@ -113,6 +113,10 @@ test("keeps the About facts aligned with the current bilingual CV", async () => 
 
 test("keeps the experience section aligned with the current bilingual CV", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
+  assert.match(cs, />Kde jsem pracoval</);
+  assert.match(en, />Where I&#x27;ve worked</);
+  assert.doesNotMatch(cs, /a za co odpovídal/);
+  assert.doesNotMatch(en, /and what I owned/);
   assert.match(cs, /Interně jsem rozvíjel praktické využití AI v product delivery/);
   assert.match(en, /Internally, I developed the practical use of AI in product delivery/);
   assert.match(cs, /Product Manager \/ Product Owner, Shoptet Pay/);
