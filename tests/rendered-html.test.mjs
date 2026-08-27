@@ -45,8 +45,8 @@ test("includes Google Analytics on every route", async () => {
 
 test("keeps the bilingual hero message concise and aligned", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
-  assert.match(cs, /od discovery přes MVP a delivery až po launch/);
-  assert.match(en, /from discovery through MVP and delivery to launch/);
+  assert.match(cs, /od discovery, MVP, vývoj až po spuštění/);
+  assert.match(en, /from discovery and MVP through development to launch/);
 });
 
 test("keeps the profile download only in the home-page hero", async () => {
