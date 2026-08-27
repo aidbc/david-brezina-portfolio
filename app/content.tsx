@@ -26,27 +26,29 @@ export const projects: Record<Locale, Project[]> = {
       title: "Mobilní investiční aplikace",
       period: "únor – červenec 2026",
       type: "Wealth management · Mobile",
-      role: "Product Owner",
+      role: "Product Lead",
       summary:
-        "Rozšíření původně webové investiční platformy o nativní aplikaci pro iOS a Android.",
+        "Rozšíření webové investiční platformy Across o mobilní aplikaci pro iOS a Android — od definice MVP až po spuštění.",
       contribution:
-        "Pomáhal jsem definovat a průběžně zpřesňovat produktovou strategii. Vedl jsem discovery a delivery mobilní aplikace i související rozšíření webové platformy. Definoval jsem MVP, klíčové flows a user stories, vlastnil backlog a slaďoval byznys, design a vývoj.",
+        "Pomáhal jsem průběžně zpřesňovat produktovou strategii a připravovat produktovou roadmapu. U mobilní aplikace jsem odpovídal za definici MVP a hlavních user flows, přípravu backlogu a koordinaci delivery. Současně jsem slaďoval očekávání byznysu s designem a engineeringem a komunikoval postup prací.",
       outcome:
-        "Aplikaci jsme spustili v plánovaném termínu. Po spuštění rostl počet zákazníků a produkt jsme dál zlepšovali podle jejich zpětné vazby.",
+        "Mobilní aplikaci jsme spustili v plánovaném termínu. Po spuštění rostl počet zákazníků a produkt jsme dále zlepšovali podle zpětné vazby z reálného provozu. Současně jsem pomohl připravit nově vznikající interní tým na převzetí product ownershipu a podílel se na výběru nové designové agentury.",
       tags: ["MVP", "Mobile", "Launch"],
       context:
-        "Across měl fungující webovou investiční platformu a chtěl ji rozšířit o plnohodnotný mobilní produkt pro začínající a mass-affluent investory.",
+        "Do projektu jsem se zapojil těsně před veřejným spuštěním webové investiční platformy. Mým prvním úkolem bylo rychle se zorientovat v investiční oblasti i samotném produktu a pomoci s přípravou a delivery prvních kampaní. Následně jsem zrevidoval stav aplikace, zapojil se do přípravy produktové roadmapy a pomáhal s prioritizací a definováním MVP větších strategických iniciativ.",
       challenge:
-        "Mobilní zkušenost musela zpřístupnit složitou oblast investic, custody a compliance, zůstat konzistentní s webem a zároveň projít schválením Applu a Googlu v pevně daném termínu.",
+        "Jednou z hlavních iniciativ byla mobilní aplikace, kterou bylo potřeba doručit ve velmi ambiciózním termínu. Museli jsme rychle definovat MVP a klíčové user flows, ověřit technickou proveditelnost, sladit očekávání byznysu s designem a engineeringem a zachovat konzistenci s webovou platformou. Návrh jsme prototypovali a testovali s interními uživateli; ověření se skutečnými zákazníky jsme se rozhodli provést až po spuštění v reálném provozu.",
       actions: [
+        "Zrevidoval jsem stav webové platformy a zapojil se do přípravy produktové roadmapy.",
+        "Pomáhal jsem s prioritizací a definováním scope MVP větších strategických iniciativ.",
         "Definoval jsem rozsah MVP a hlavní mobilní user flows.",
         "Převedl jsem produktový směr do user stories a průběžně spravoval backlog.",
-        "Koordinoval jsem také navazující rozšíření funkcionality webové platformy.",
-        "Slaďoval jsem rozhodnutí mezi byznysem, designem a engineeringem.",
-        "Hlídal jsem scope a návaznosti na regulatorní a technické požadavky.",
+        "Spolupracoval jsem na ověření technické proveditelnosti, prototypování a návrhu aplikace.",
+        "Koordinoval jsem rozhodnutí mezi byznysem, designem a engineeringem a komunikoval postup prací.",
+        "Hlídal jsem konzistenci mezi mobilní a webovou platformou i návaznosti na regulatorní a technické požadavky.",
       ],
       reflection:
-        "Nejtěžší bylo zjednodušit regulovaný investiční produkt pro mobil bez ztráty důležitých informací a bez odtržení od existující webové platformy.",
+        "Nejtěžší bylo udržet tým soustředěný na doručení ve velmi ambiciózním termínu. Hlavní user flows jsme rychle prototypovali a testovali s interními uživateli, přičemž jsme jejich návrh několikrát změnili.",
       publicUrl: "https://across.sk",
     },
     {
@@ -199,27 +201,29 @@ export const projects: Record<Locale, Project[]> = {
       title: "Mobile Investment App",
       period: "February – July 2026",
       type: "Wealth management · Mobile",
-      role: "Product Owner",
+      role: "Product Lead",
       summary:
-        "Extending a web-only investment platform into native iOS and Android applications.",
+        "Extending Across’s web investment platform into iOS and Android mobile apps — from MVP definition through launch.",
       contribution:
-        "I helped define and continuously refine the product strategy. I led discovery and delivery for the mobile app and related enhancements to the web platform. I defined the MVP, key flows and user stories, owned the backlog, and aligned business, design and engineering.",
+        "I helped continuously refine the product strategy and shape the product roadmap. For the mobile app, I owned the definition of the MVP and core user flows, backlog preparation and delivery coordination. I also aligned business expectations with design and engineering and communicated progress.",
       outcome:
-        "We launched the app on schedule. After launch, the number of clients grew and we continued improving the product based on their feedback.",
+        "We launched the mobile app on schedule. After launch, the number of clients grew and we continued improving the product based on feedback from real-world use. At the same time, I helped prepare the newly forming internal team to take over product ownership and contributed to selecting a new design agency.",
       tags: ["MVP", "Mobile", "Launch"],
       context:
-        "Across had an established web investment platform and wanted to extend it into a full mobile product for first-time and mass-affluent investors.",
+        "I joined the project shortly before the public launch of the web investment platform. My first task was to quickly understand the investment domain and the product and help prepare and deliver the first campaigns. I then reviewed the state of the application, contributed to the product roadmap and helped prioritise and define the MVP scope of larger strategic initiatives.",
       challenge:
-        "The app had to make a complex investment, custody and compliance setup work on mobile, stay consistent with the web platform and pass Apple and Google review within a fixed timeline.",
+        "One of the main initiatives was a mobile app that had to be delivered within a highly ambitious timeline. We needed to define the MVP and core user flows quickly, validate technical feasibility, align business expectations with design and engineering and maintain consistency with the web platform. We prototyped and tested the design with internal users, while validation with real customers was deliberately deferred until after launch in a live environment.",
       actions: [
+        "I reviewed the state of the web platform and contributed to the product roadmap.",
+        "I helped prioritise and define the MVP scope of larger strategic initiatives.",
         "I defined the MVP and the core mobile user flows.",
         "I translated the product direction into user stories and managed the backlog.",
-        "I also coordinated related enhancements to the web platform.",
-        "I aligned decisions across business, design and engineering.",
-        "I managed scope and dependencies related to regulatory and technical requirements.",
+        "I contributed to technical feasibility assessment, prototyping and application design.",
+        "I coordinated decisions across business, design and engineering and communicated progress.",
+        "I maintained consistency between the mobile and web platforms and managed regulatory and technical dependencies.",
       ],
       reflection:
-        "The hardest part was simplifying a regulated investment product for mobile without losing essential information or breaking continuity with the web platform.",
+        "The hardest part was keeping the team focused on delivery within a highly ambitious timeline. We rapidly prototyped and tested the core user flows with internal users, changing the design several times along the way.",
       publicUrl: "https://across.sk",
     },
     {

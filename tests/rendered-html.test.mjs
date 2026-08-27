@@ -78,6 +78,20 @@ test("keeps Czech and English project navigation aligned", async () => {
   }
 });
 
+test("publishes the approved Across reference in both languages", async () => {
+  const [cs, en] = await Promise.all([
+    read("projekty/across-private-investments-app.html"),
+    read("en/projects/across-private-investments-app.html"),
+  ]);
+  assert.match(cs, /<dd>Product Lead<\/dd>/);
+  assert.match(en, /<dd>Product Lead<\/dd>/);
+  assert.match(cs, /Do projektu jsem se zapojil těsně před veřejným spuštěním webové investiční platformy/);
+  assert.match(en, /I joined the project shortly before the public launch of the web investment platform/);
+  assert.match(cs, /Hlavní user flows jsme rychle prototypovali a testovali s interními uživateli/);
+  assert.match(en, /rapidly prototyped and tested the core user flows with internal users/);
+  assert.doesNotMatch(cs, /Pomohl jsem s přípravou a delivery prvních kampaní při spuštění webové aplikace/);
+});
+
 test("keeps the downloadable profiles current and self-contained", async () => {
   const [cs, en] = await Promise.all([
     read("david-brezina-profil-cs.md"),
