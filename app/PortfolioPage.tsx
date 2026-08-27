@@ -227,24 +227,6 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
         </div>
       </section>
 
-      <section className="contact-section" id="contact">
-        <div className="container">
-          <p className="section-kicker light">{copy.contactLabel}</p>
-          <h2>{copy.contactTitle}</h2>
-          <div className="contact-bottom">
-            <p>{copy.contactText}</p>
-            <div className="contact-actions">
-              <a className="contact-email" href="mailto:brezina.david@gmail.com">
-                brezina.david@gmail.com
-              </a>
-              <a className="contact-link" href="tel:+420603424391">
-                {copy.call}: +420 603 424 391
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-
       <section className="companies-section" aria-labelledby="companies-title">
         <div className="container">
           <div className="companies-heading">
@@ -273,6 +255,24 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
               </li>
             ))}
           </ul>
+        </div>
+      </section>
+
+      <section className="contact-section" id="contact">
+        <div className="container">
+          <p className="section-kicker light">{copy.contactLabel}</p>
+          <h2>{copy.contactTitle}</h2>
+          <div className="contact-bottom">
+            <p>{copy.contactText}</p>
+            <div className="contact-actions">
+              <a className="contact-email" href="mailto:brezina.david@gmail.com">
+                brezina.david@gmail.com
+              </a>
+              <a className="contact-link" href="tel:+420603424391">
+                {copy.call}: +420 603 424 391
+              </a>
+            </div>
+          </div>
         </div>
       </section>
 

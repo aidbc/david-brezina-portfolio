@@ -190,10 +190,10 @@ test("renders the bilingual company references with all fifteen logos", async ()
   assert.equal((en.match(/class="company-logo(?:-image)?"/g) ?? []).length, 15);
   assert.match(cs, /alt="Raiffeisen Bank International"/);
   assert.match(cs, /alt="Komerční banka"/);
-  assert.ok(cs.indexOf('class="contact-section"') < cs.indexOf('class="companies-section"'));
-  assert.ok(cs.indexOf('class="companies-section"') < cs.indexOf('class="site-footer'));
-  assert.ok(en.indexOf('class="contact-section"') < en.indexOf('class="companies-section"'));
-  assert.ok(en.indexOf('class="companies-section"') < en.indexOf('class="site-footer'));
+  assert.ok(cs.indexOf('class="companies-section"') < cs.indexOf('class="contact-section"'));
+  assert.ok(cs.indexOf('class="contact-section"') < cs.indexOf('class="site-footer'));
+  assert.ok(en.indexOf('class="companies-section"') < en.indexOf('class="contact-section"'));
+  assert.ok(en.indexOf('class="contact-section"') < en.indexOf('class="site-footer'));
 });
 
 test("keeps the experience section aligned with the current bilingual CV", async () => {
