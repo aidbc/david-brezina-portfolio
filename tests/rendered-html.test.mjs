@@ -47,6 +47,8 @@ test("keeps the bilingual hero message concise and aligned", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
   assert.match(cs, /od discovery, MVP, vývoj až po spuštění/);
   assert.match(en, /from discovery and MVP through development to launch/);
+  assert.match(cs, /Po spuštění sbírat zpětnou vazbu a produkt dál rozvíjet/);
+  assert.match(en, /After launch, collect feedback and continue developing the product/);
 });
 
 test("keeps the profile download only in the home-page hero", async () => {
