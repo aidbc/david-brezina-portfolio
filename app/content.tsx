@@ -471,7 +471,7 @@ export const companies = [
   { name: "Shoptet", logo: "/logos/shoptet.svg" },
   { name: "Kooperativa", logo: "/logos/kooperativa.svg" },
   { name: "Visa", logo: "/logos/visa.svg" },
-  { name: "Asklepion", logo: "/logos/asklepion.png" },
+  { name: "Asklepion", logo: "/logos/asklepion.svg" },
   { name: "Deloitte", logo: "/logos/deloitte.svg" },
   { name: "KPMG", logo: "/logos/kpmg.svg" },
 ] as const;

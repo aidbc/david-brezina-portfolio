@@ -160,7 +160,7 @@ test("renders the bilingual company references with all fifteen logos", async ()
     "logos/shoptet.svg",
     "logos/kooperativa.svg",
     "logos/visa.svg",
-    "logos/asklepion.png",
+    "logos/asklepion.svg",
     "logos/deloitte.svg",
     "logos/kpmg.svg",
   ];
