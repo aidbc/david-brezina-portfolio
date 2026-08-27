@@ -95,27 +95,6 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
         </div>
       </section>
 
-      <section className="companies-section" aria-labelledby="companies-title">
-        <div className="container">
-          <div className="companies-heading">
-            <p className="section-kicker">{copy.companiesLabel}</p>
-            <h2 id="companies-title">{copy.companiesTitle}</h2>
-          </div>
-          <ul className="company-grid">
-            {companies.map((company) => (
-              <li key={company.name}>
-                <span
-                  className="company-logo"
-                  role="img"
-                  aria-label={company.name}
-                  style={{ "--company-logo": `url(${company.logo})` } as CSSProperties}
-                />
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
-
       <section className="experience-section" id={sectionIds.experience}>
         <div className="container experience-grid">
           <div className="experience-intro">
@@ -263,6 +242,27 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
               </a>
             </div>
           </div>
+        </div>
+      </section>
+
+      <section className="companies-section" aria-labelledby="companies-title">
+        <div className="container">
+          <div className="companies-heading">
+            <p className="section-kicker">{copy.companiesLabel}</p>
+            <h2 id="companies-title">{copy.companiesTitle}</h2>
+          </div>
+          <ul className="company-grid">
+            {companies.map((company) => (
+              <li key={company.name}>
+                <span
+                  className="company-logo"
+                  role="img"
+                  aria-label={company.name}
+                  style={{ "--company-logo": `url(${company.logo})` } as CSSProperties}
+                />
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 

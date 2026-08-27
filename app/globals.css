@@ -130,14 +130,14 @@ h1, h2, h3 { text-wrap: balance; }
 .tldr-item strong { font-family: var(--font-display); font-size: 2rem; font-weight: 400; letter-spacing: -.03em; }
 .tldr-item span { max-width: 10rem; color: var(--color-text-secondary); font-size: .75rem; line-height: 1.4; }
 
-.companies-section { padding-block: clamp(3.5rem, 7vw, 6rem); background: var(--color-ivory); }
-.companies-heading { margin-bottom: 2rem; display: flex; justify-content: space-between; align-items: baseline; gap: 2rem; }
-.companies-heading .section-kicker { margin: 0; }
-.companies-heading h2 { margin: 0; font-family: var(--font-display); font-size: clamp(2.25rem, 4vw, 3.5rem); font-weight: 400; letter-spacing: -.04em; line-height: 1; }
-.company-grid { margin: 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(5, 1fr); border-top: 1px solid var(--color-border); border-left: 1px solid var(--color-border); }
-.company-grid li { min-height: 6.5rem; padding: 1.4rem; display: grid; place-items: center; border-right: 1px solid var(--color-border); border-bottom: 1px solid var(--color-border); background: rgba(255, 255, 255, .28); }
-.company-logo { width: min(100%, 9.5rem); height: 2.3rem; display: block; background: var(--color-navy); opacity: .76; -webkit-mask: var(--company-logo) center / contain no-repeat; mask: var(--company-logo) center / contain no-repeat; transition: opacity 160ms ease, background 160ms ease; }
-.company-grid li:hover .company-logo { background: var(--color-burgundy); opacity: 1; }
+.companies-section { padding-block: clamp(3.5rem, 6vw, 5rem); background: var(--color-ivory); }
+.companies-heading { max-width: 38rem; margin-bottom: 2.5rem; }
+.companies-heading .section-kicker { margin-bottom: 1.1rem; }
+.companies-heading h2 { margin: 0; font-family: var(--font-display); font-size: clamp(2.1rem, 3.5vw, 3rem); font-weight: 400; letter-spacing: -.04em; line-height: 1; }
+.company-grid { margin: 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(5, 1fr); border-top: 1px solid rgba(18, 32, 51, .09); border-left: 1px solid rgba(18, 32, 51, .09); }
+.company-grid li { min-height: 5.25rem; padding: 1.1rem; display: grid; place-items: center; border-right: 1px solid rgba(18, 32, 51, .09); border-bottom: 1px solid rgba(18, 32, 51, .09); }
+.company-logo { width: min(100%, 7.75rem); height: 1.7rem; display: block; background: var(--color-navy); opacity: .58; -webkit-mask: var(--company-logo) center / contain no-repeat; mask: var(--company-logo) center / contain no-repeat; transition: opacity 160ms ease; }
+.company-grid li:hover .company-logo { opacity: .78; }
 
 .projects-section, .about-section { padding-block: var(--section-space); }
 .section-heading { margin-bottom: 4.5rem; }
@@ -289,11 +289,9 @@ h1, h2, h3 { text-wrap: balance; }
   .hero-actions { align-items: stretch; flex-direction: column; }
   .button { width: 100%; }
   .portrait-wrap { width: 82%; }
-  .companies-heading { display: block; }
-  .companies-heading h2 { margin-top: .8rem; }
   .company-grid { grid-template-columns: repeat(2, 1fr); }
-  .company-grid li { min-height: 5.5rem; padding: 1rem; }
-  .company-logo { height: 1.9rem; }
+  .company-grid li { min-height: 4.75rem; padding: .9rem; }
+  .company-logo { width: min(100%, 6.75rem); height: 1.5rem; }
   .section-heading { margin-bottom: 3.2rem; }
   .section-heading h2, .experience-intro h2, .process-intro h2, .about-heading h2 { font-size: 3rem; }
   .project-card { min-height: 25rem; padding: 1.35rem; }

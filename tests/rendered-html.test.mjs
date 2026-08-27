@@ -188,6 +188,10 @@ test("renders the bilingual company references with all fifteen logos", async ()
   }
   assert.equal((cs.match(/class="company-logo"/g) ?? []).length, 15);
   assert.equal((en.match(/class="company-logo"/g) ?? []).length, 15);
+  assert.ok(cs.indexOf('class="contact-section"') < cs.indexOf('class="companies-section"'));
+  assert.ok(cs.indexOf('class="companies-section"') < cs.indexOf('class="site-footer'));
+  assert.ok(en.indexOf('class="contact-section"') < en.indexOf('class="companies-section"'));
+  assert.ok(en.indexOf('class="companies-section"') < en.indexOf('class="site-footer'));
 });
 
 test("keeps the experience section aligned with the current bilingual CV", async () => {
