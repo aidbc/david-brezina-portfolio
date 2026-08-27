@@ -32,12 +32,12 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "Pomáhal jsem průběžně zpřesňovat produktovou strategii a připravovat produktovou roadmapu. U mobilní aplikace jsem odpovídal za definici MVP a hlavních user flows, přípravu backlogu a koordinaci delivery. Současně jsem slaďoval očekávání byznysu s designem a engineeringem a komunikoval postup prací.",
       outcome:
-        "Mobilní aplikaci jsme spustili v plánovaném termínu. Po spuštění rostl počet zákazníků a produkt jsme dále zlepšovali podle zpětné vazby z reálného provozu. Současně jsem pomohl připravit nově vznikající interní tým na převzetí product ownershipu a podílel se na výběru nové designové agentury.",
+        "Mobilní aplikaci jsme spustili v plánovaném termínu. Po spuštění rostl počet zákazníků a produkt jsme dále zlepšovali podle zpětné vazby z reálného provozu.",
       tags: ["MVP", "Mobile", "Launch"],
       context:
-        "Do projektu jsem se zapojil těsně před veřejným spuštěním webové investiční platformy. Mým prvním úkolem bylo rychle se zorientovat v investiční oblasti i samotném produktu a pomoci s přípravou a delivery prvních kampaní. Následně jsem zrevidoval stav aplikace, zapojil se do přípravy produktové roadmapy a pomáhal s prioritizací a definováním MVP větších strategických iniciativ.",
+        "Do projektu jsem se zapojil těsně před spuštěním webové investiční platformy. Rychle jsem se zorientoval v produktu, pomohl s prvními kampaněmi a následně se zapojil do revize platformy, přípravy produktové roadmapy a prioritizace strategických iniciativ.",
       challenge:
-        "Jednou z hlavních iniciativ byla mobilní aplikace, kterou bylo potřeba doručit ve velmi ambiciózním termínu. Museli jsme rychle definovat MVP a klíčové user flows, ověřit technickou proveditelnost, sladit očekávání byznysu s designem a engineeringem a zachovat konzistenci s webovou platformou. Návrh jsme prototypovali a testovali s interními uživateli; ověření se skutečnými zákazníky jsme se rozhodli provést až po spuštění v reálném provozu.",
+        "Jednou z nich byla mobilní aplikace s velmi ambiciózním termínem. Potřebovali jsme rychle definovat MVP a klíčové user flows, ověřit proveditelnost a sladit byznys, design a engineering. Návrh jsme prototypovali a testovali interně; zpětnou vazbu od zákazníků jsme sbírali až po spuštění.",
       actions: [
         "Zrevidoval jsem stav webové platformy a zapojil se do přípravy produktové roadmapy.",
         "Pomáhal jsem s prioritizací a definováním scope MVP větších strategických iniciativ.",
@@ -46,6 +46,7 @@ export const projects: Record<Locale, Project[]> = {
         "Spolupracoval jsem na ověření technické proveditelnosti, prototypování a návrhu aplikace.",
         "Koordinoval jsem rozhodnutí mezi byznysem, designem a engineeringem a komunikoval postup prací.",
         "Hlídal jsem konzistenci mezi mobilní a webovou platformou i návaznosti na regulatorní a technické požadavky.",
+        "Pomohl jsem připravit interní tým na převzetí produktu a podílel se na výběru nové designové agentury.",
       ],
       reflection:
         "Nejtěžší bylo udržet tým soustředěný na doručení ve velmi ambiciózním termínu. Hlavní user flows jsme rychle prototypovali a testovali s interními uživateli, přičemž jsme jejich návrh několikrát změnili.",
@@ -207,12 +208,12 @@ export const projects: Record<Locale, Project[]> = {
       contribution:
         "I helped continuously refine the product strategy and shape the product roadmap. For the mobile app, I owned the definition of the MVP and core user flows, backlog preparation and delivery coordination. I also aligned business expectations with design and engineering and communicated progress.",
       outcome:
-        "We launched the mobile app on schedule. After launch, the number of clients grew and we continued improving the product based on feedback from real-world use. At the same time, I helped prepare the newly forming internal team to take over product ownership and contributed to selecting a new design agency.",
+        "We launched the mobile app on schedule. After launch, the number of clients grew and we continued improving the product based on feedback from real-world use.",
       tags: ["MVP", "Mobile", "Launch"],
       context:
-        "I joined the project shortly before the public launch of the web investment platform. My first task was to quickly understand the investment domain and the product and help prepare and deliver the first campaigns. I then reviewed the state of the application, contributed to the product roadmap and helped prioritise and define the MVP scope of larger strategic initiatives.",
+        "I joined the project shortly before the launch of the web investment platform. I quickly got up to speed with the product, helped with the first campaigns and then contributed to reviewing the platform, shaping the product roadmap and prioritising strategic initiatives.",
       challenge:
-        "One of the main initiatives was a mobile app that had to be delivered within a highly ambitious timeline. We needed to define the MVP and core user flows quickly, validate technical feasibility, align business expectations with design and engineering and maintain consistency with the web platform. We prototyped and tested the design with internal users, while validation with real customers was deliberately deferred until after launch in a live environment.",
+        "One of them was a mobile app with a highly ambitious timeline. We needed to define the MVP and core user flows quickly, validate feasibility and align business, design and engineering. We prototyped and tested internally, while customer feedback was collected after launch.",
       actions: [
         "I reviewed the state of the web platform and contributed to the product roadmap.",
         "I helped prioritise and define the MVP scope of larger strategic initiatives.",
@@ -221,6 +222,7 @@ export const projects: Record<Locale, Project[]> = {
         "I contributed to technical feasibility assessment, prototyping and application design.",
         "I coordinated decisions across business, design and engineering and communicated progress.",
         "I maintained consistency between the mobile and web platforms and managed regulatory and technical dependencies.",
+        "I helped prepare the internal team to take over the product and contributed to selecting a new design agency.",
       ],
       reflection:
         "The hardest part was keeping the team focused on delivery within a highly ambitious timeline. We rapidly prototyped and tested the core user flows with internal users, changing the design several times along the way.",

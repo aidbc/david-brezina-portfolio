@@ -85,10 +85,14 @@ test("publishes the approved Across reference in both languages", async () => {
   ]);
   assert.match(cs, /<dd>Product Lead<\/dd>/);
   assert.match(en, /<dd>Product Lead<\/dd>/);
-  assert.match(cs, /Do projektu jsem se zapojil těsně před veřejným spuštěním webové investiční platformy/);
-  assert.match(en, /I joined the project shortly before the public launch of the web investment platform/);
+  assert.match(cs, /Do projektu jsem se zapojil těsně před spuštěním webové investiční platformy/);
+  assert.match(en, /I joined the project shortly before the launch of the web investment platform/);
   assert.match(cs, /Hlavní user flows jsme rychle prototypovali a testovali s interními uživateli/);
   assert.match(en, /rapidly prototyped and tested the core user flows with internal users/);
+  assert.match(cs, /Pomohl jsem připravit interní tým na převzetí produktu/);
+  assert.match(en, /I helped prepare the internal team to take over the product/);
+  assert.doesNotMatch(cs, /nově vznikající interní tým na převzetí product ownershipu/);
+  assert.doesNotMatch(en, /newly forming internal team to take over product ownership/);
   assert.doesNotMatch(cs, /Pomohl jsem s přípravou a delivery prvních kampaní při spuštění webové aplikace/);
 });
 
