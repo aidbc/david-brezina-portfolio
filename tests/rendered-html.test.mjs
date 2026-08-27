@@ -105,6 +105,18 @@ test("keeps the About facts aligned with the current bilingual CV", async () => 
   assert.match(en, /Family · sport · investing · tech innovation · travel · history · books/);
 });
 
+test("keeps the experience section aligned with the current bilingual CV", async () => {
+  const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
+  assert.match(cs, /Interně jsem rozvíjel praktické využití AI v product delivery/);
+  assert.match(en, /Internally, I developed the practical use of AI in product delivery/);
+  assert.match(cs, /Product Manager \/ Product Owner, Shoptet Pay/);
+  assert.match(en, /Product Manager \/ Product Owner, Shoptet Pay/);
+  assert.match(cs, /Product Owner \/ Senior Business Analyst/);
+  assert.match(en, /Product Owner \/ Senior Business Analyst/);
+  assert.match(cs, /KPMG Česká republika — Business Analyst → Consultant \(2012–2015\)/);
+  assert.match(en, /KPMG Czech Republic — Business Analyst → Consultant \(2012–2015\)/);
+});
+
 test("marks the English experience and corrects the document language in the browser", async () => {
   const en = await read("en.html");
   assert.match(en, /<div lang="en">/);

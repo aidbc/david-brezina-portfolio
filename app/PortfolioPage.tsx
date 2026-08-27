@@ -124,7 +124,11 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
             ))}
             <div className="earlier-experience">
               <p>{isCs ? "Dřívější zkušenosti" : "Earlier experience"}</p>
-              <span>T-Mobile · KPMG · Deloitte</span>
+              <span>
+                {isCs
+                  ? "T-Mobile Czech Republic — Process Manager (2015–2016) · KPMG Česká republika — Business Analyst → Consultant (2012–2015) · Deloitte Česká republika — Audit Assistant (2010–2011)"
+                  : "T-Mobile Czech Republic — Process Manager (2015–2016) · KPMG Czech Republic — Business Analyst → Consultant (2012–2015) · Deloitte Czech Republic — Audit Assistant (2010–2011)"}
+              </span>
             </div>
           </div>
         </div>
