@@ -125,6 +125,57 @@ test("renders the Skills section as simple CV-aligned competency tags", async ()
   assert.doesNotMatch(en, /From an unclear opportunity to decisions/);
 });
 
+test("renders the bilingual company references with all fifteen logos", async () => {
+  const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
+  assert.match(cs, /Spolupracoval jsem s/);
+  assert.match(en, /Companies I’ve worked with/);
+
+  const companyNames = [
+    "Vacuumlabs",
+    "Creative Dock",
+    "Investown",
+    "Across",
+    "Česká spořitelna",
+    "Slovenská sporiteľňa",
+    "Raiffeisen Bank International",
+    "Komerční banka",
+    "Finbricks",
+    "Shoptet",
+    "Kooperativa",
+    "Visa",
+    "Asklepion",
+    "Deloitte",
+    "KPMG",
+  ];
+  const logoPaths = [
+    "logos/vacuumlabs.svg",
+    "logos/creative-dock.webp",
+    "logos/investown.svg",
+    "logos/across.svg",
+    "logos/ceska-sporitelna.svg",
+    "logos/slovenska-sporitelna.svg",
+    "logos/raiffeisen-bank-international.svg",
+    "logos/komercni-banka.svg",
+    "logos/finbricks.png",
+    "logos/shoptet.svg",
+    "logos/kooperativa.svg",
+    "logos/visa.svg",
+    "logos/asklepion.png",
+    "logos/deloitte.svg",
+    "logos/kpmg.svg",
+  ];
+
+  for (const name of companyNames) {
+    assert.match(cs, new RegExp(`aria-label="${name}"`));
+    assert.match(en, new RegExp(`aria-label="${name}"`));
+  }
+  for (const path of logoPaths) {
+    await access(new URL(path, root));
+  }
+  assert.equal((cs.match(/class="company-logo"/g) ?? []).length, 15);
+  assert.equal((en.match(/class="company-logo"/g) ?? []).length, 15);
+});
+
 test("keeps the experience section aligned with the current bilingual CV", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
   assert.match(cs, />Kde jsem pracoval</);

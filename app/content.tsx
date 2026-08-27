@@ -458,6 +458,24 @@ export const experience = {
   ],
 };
 
+export const companies = [
+  { name: "Vacuumlabs", logo: "/logos/vacuumlabs.svg" },
+  { name: "Creative Dock", logo: "/logos/creative-dock.webp" },
+  { name: "Investown", logo: "/logos/investown.svg" },
+  { name: "Across", logo: "/logos/across.svg" },
+  { name: "Česká spořitelna", logo: "/logos/ceska-sporitelna.svg" },
+  { name: "Slovenská sporiteľňa", logo: "/logos/slovenska-sporitelna.svg" },
+  { name: "Raiffeisen Bank International", logo: "/logos/raiffeisen-bank-international.svg" },
+  { name: "Komerční banka", logo: "/logos/komercni-banka.svg" },
+  { name: "Finbricks", logo: "/logos/finbricks.png" },
+  { name: "Shoptet", logo: "/logos/shoptet.svg" },
+  { name: "Kooperativa", logo: "/logos/kooperativa.svg" },
+  { name: "Visa", logo: "/logos/visa.svg" },
+  { name: "Asklepion", logo: "/logos/asklepion.png" },
+  { name: "Deloitte", logo: "/logos/deloitte.svg" },
+  { name: "KPMG", logo: "/logos/kpmg.svg" },
+] as const;
+
 export const ui = {
   cs: {
     nav: ["Zkušenosti", "O mně", "Skills", "Jak pracuji", "Projekty"],
@@ -472,6 +490,8 @@ export const ui = {
       ["0→1", "discovery, MVP, delivery a launch"],
       ["FINTECH", "banking, payments a investing"],
     ],
+    companiesLabel: "Reference",
+    companiesTitle: "Spolupracoval jsem s",
     projectsLabel: "Vybrané projekty",
     projectsTitle: <>Produkty, na kterých jsem pracoval.</>,
     projectLink: "Detail projektu",
@@ -529,6 +549,8 @@ export const ui = {
       ["0→1", "discovery, MVP, delivery and launch"],
       ["FINTECH", "banking, payments and investing"],
     ],
+    companiesLabel: "Selected companies",
+    companiesTitle: "Companies I’ve worked with",
     projectsLabel: "Selected projects",
     projectsTitle: <>Products I&apos;ve worked on.</>,
     projectLink: "View case study",

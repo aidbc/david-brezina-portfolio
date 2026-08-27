@@ -1,5 +1,6 @@
 import Image from "next/image";
-import { experience, projects, ui, type Locale } from "./content";
+import type { CSSProperties } from "react";
+import { companies, experience, projects, ui, type Locale } from "./content";
 
 const Arrow = ({ down = false }: { down?: boolean }) => (
   <span aria-hidden="true">{down ? "↓" : "↗"}</span>
@@ -91,6 +92,27 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
               <span>{label}</span>
             </div>
           ))}
+        </div>
+      </section>
+
+      <section className="companies-section" aria-labelledby="companies-title">
+        <div className="container">
+          <div className="companies-heading">
+            <p className="section-kicker">{copy.companiesLabel}</p>
+            <h2 id="companies-title">{copy.companiesTitle}</h2>
+          </div>
+          <ul className="company-grid">
+            {companies.map((company) => (
+              <li key={company.name}>
+                <span
+                  className="company-logo"
+                  role="img"
+                  aria-label={company.name}
+                  style={{ "--company-logo": `url(${company.logo})` } as CSSProperties}
+                />
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 
