@@ -137,7 +137,8 @@ h1, h2, h3 { text-wrap: balance; }
 .company-grid { margin: 0; padding: 0; list-style: none; display: grid; grid-template-columns: repeat(5, 1fr); border-top: 1px solid rgba(18, 32, 51, .09); border-left: 1px solid rgba(18, 32, 51, .09); }
 .company-grid li { min-height: 5.25rem; padding: 1.1rem; display: grid; place-items: center; border-right: 1px solid rgba(18, 32, 51, .09); border-bottom: 1px solid rgba(18, 32, 51, .09); }
 .company-logo { width: min(100%, 7.75rem); height: 1.7rem; display: block; background: var(--color-navy); opacity: .58; -webkit-mask: var(--company-logo) center / contain no-repeat; mask: var(--company-logo) center / contain no-repeat; transition: opacity 160ms ease; }
-.company-grid li:hover .company-logo { opacity: .78; }
+.company-logo-image { max-width: 7.75rem; max-height: 1.7rem; width: auto; height: auto; object-fit: contain; filter: grayscale(1); mix-blend-mode: multiply; opacity: .58; transition: opacity 160ms ease; }
+.company-grid li:hover .company-logo, .company-grid li:hover .company-logo-image { opacity: .78; }
 
 .projects-section, .about-section { padding-block: var(--section-space); }
 .section-heading { margin-bottom: 4.5rem; }
@@ -292,6 +293,7 @@ h1, h2, h3 { text-wrap: balance; }
   .company-grid { grid-template-columns: repeat(2, 1fr); }
   .company-grid li { min-height: 4.75rem; padding: .9rem; }
   .company-logo { width: min(100%, 6.75rem); height: 1.5rem; }
+  .company-logo-image { max-width: 6.75rem; max-height: 1.5rem; }
   .section-heading { margin-bottom: 3.2rem; }
   .section-heading h2, .experience-intro h2, .process-intro h2, .about-heading h2 { font-size: 3rem; }
   .project-card { min-height: 25rem; padding: 1.35rem; }

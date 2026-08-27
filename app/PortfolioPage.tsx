@@ -254,12 +254,22 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
           <ul className="company-grid">
             {companies.map((company) => (
               <li key={company.name}>
-                <span
-                  className="company-logo"
-                  role="img"
-                  aria-label={company.name}
-                  style={{ "--company-logo": `url(${company.logo})` } as CSSProperties}
-                />
+                {"mode" in company && company.mode === "image" ? (
+                  <Image
+                    className="company-logo-image"
+                    src={company.logo}
+                    alt={company.name}
+                    width={company.width}
+                    height={company.height}
+                  />
+                ) : (
+                  <span
+                    className="company-logo"
+                    role="img"
+                    aria-label={company.name}
+                    style={{ "--company-logo": `url(${company.logo})` } as CSSProperties}
+                  />
+                )}
               </li>
             ))}
           </ul>

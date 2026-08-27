@@ -168,8 +168,8 @@ test("renders the bilingual company references with all fifteen logos", async ()
     "logos/across.svg",
     "logos/ceska-sporitelna.svg",
     "logos/slovenska-sporitelna.svg",
-    "logos/raiffeisen-bank-international.svg",
-    "logos/komercni-banka.svg",
+    "logos/raiffeisen-bank-international-wordmark.png",
+    "logos/komercni-banka-wordmark.png",
     "logos/finbricks.png",
     "logos/shoptet.svg",
     "logos/kooperativa.svg",
@@ -186,8 +186,10 @@ test("renders the bilingual company references with all fifteen logos", async ()
   for (const path of logoPaths) {
     await access(new URL(path, root));
   }
-  assert.equal((cs.match(/class="company-logo"/g) ?? []).length, 15);
-  assert.equal((en.match(/class="company-logo"/g) ?? []).length, 15);
+  assert.equal((cs.match(/class="company-logo(?:-image)?"/g) ?? []).length, 15);
+  assert.equal((en.match(/class="company-logo(?:-image)?"/g) ?? []).length, 15);
+  assert.match(cs, /alt="Raiffeisen Bank International"/);
+  assert.match(cs, /alt="Komerční banka"/);
   assert.ok(cs.indexOf('class="contact-section"') < cs.indexOf('class="companies-section"'));
   assert.ok(cs.indexOf('class="companies-section"') < cs.indexOf('class="site-footer'));
   assert.ok(en.indexOf('class="contact-section"') < en.indexOf('class="companies-section"'));
