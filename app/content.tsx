@@ -478,7 +478,7 @@ export const companies = [
 
 export const ui = {
   cs: {
-    nav: ["Zkušenosti", "O mně", "Skills", "Jak pracuji", "Projekty"],
+    nav: ["Zkušenosti", "O mně", "Jak pracuji", "Projekty"],
     heroLabel: "Product Lead · Praha",
     heroTitle: <>Nové produkty<br />od nápadu <em>ke spuštění.</em></>,
     heroText: "Z nejasného nápadu pomáhám vytvořit produkt, který má smysl postavit — od discovery, MVP, vývoj až po spuštění.",
@@ -505,17 +505,6 @@ export const ui = {
       ["Najít správné MVP", "Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu."],
       ["Dovést ke spuštění", "Převést ověřený směr do user flows, priorit a backlogu. Během vývoje hlídat rozsah, průběžně ověřovat řešení a dovést produkt až ke spuštění."],
     ],
-    skillsLabel: "Skills",
-    skillsTitle: <>Co přináším<br /><em>do týmu.</em></>,
-    skillsIntro: "Kombinuji produktové myšlení, znalost regulovaných digitálních služeb a praktické využití AI. Nejde mi jen o návrh směru, ale o jeho převedení do výsledku.",
-    skills: [
-      ["Product Development", "Product Discovery", "Definice MVP", "Produktová strategie"],
-      ["Uživatelský výzkum", "Prototypování", "User Flows", "Produktová roadmapa"],
-      ["Product Leadership", "Stakeholder management", "Práce s klienty včetně C-level"],
-      ["Product Delivery", "Prioritizace", "Backlog Ownership"],
-      ["Fintech", "Wealth Management", "Platby", "Open Banking", "Digitální identita"],
-      ["Praktické využití AI", "LLM Use Cases", "AI-agentic workflows", "Prompt engineering"],
-    ],
     aboutLabel: "O mně",
     aboutTitle: <>Nejvíc mě baví projekty,<br />kde odpověď ještě <em>není jasná.</em></>,
     aboutText: [
@@ -538,7 +527,7 @@ export const ui = {
     backTop: "Zpět nahoru",
   },
   en: {
-    nav: ["Experience", "About", "Skills", "How I work", "Projects"],
+    nav: ["Experience", "About", "How I work", "Projects"],
     heroLabel: "Product Lead · Prague",
     heroTitle: <>New products<br />from idea <em>to launch.</em></>,
     heroText: "I turn unclear ideas into products worth building — from discovery and MVP through development to launch.",
@@ -564,17 +553,6 @@ export const ui = {
       ["Validate the direction", "Explore possible approaches, prototype them quickly and test which solution creates the most value."],
       ["Find the right MVP", "Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users."],
       ["Bring it to launch", "Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch."],
-    ],
-    skillsLabel: "Skills",
-    skillsTitle: <>What I bring<br /><em>to a team.</em></>,
-    skillsIntro: "I combine product thinking, experience with regulated digital services and practical use of AI. I care not only about defining direction, but about turning it into outcomes.",
-    skills: [
-      ["Product Development", "Product Discovery", "MVP Definition", "Product Strategy"],
-      ["User Research", "Prototyping", "User Flows", "Product Roadmap"],
-      ["Product Leadership", "Stakeholder Management", "Client Work Including C-level"],
-      ["Product Delivery", "Prioritisation", "Backlog Ownership"],
-      ["Fintech", "Wealth Management", "Payments", "Open Banking", "Digital Identity"],
-      ["Practical Use of AI", "LLM Use Cases", "AI-agentic Workflows", "Prompt Engineering"],
     ],
     aboutLabel: "About",
     aboutTitle: <>I do my best work<br />when the answer <em>isn&apos;t obvious yet.</em></>,

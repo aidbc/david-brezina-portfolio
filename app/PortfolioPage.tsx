@@ -20,9 +20,9 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
     ? "David_Brezina_Profile_CZ.md"
     : "David_Brezina_Profile_EN.md";
   const sectionIds = isCs
-    ? { experience: "zkusenosti", about: "o-mne", skills: "skills", projects: "projekty", process: "jak-pracuji" }
-    : { experience: "experience", about: "about", skills: "skills", projects: "projects", process: "how-i-work" };
-  const navSectionIds = [sectionIds.experience, sectionIds.about, sectionIds.skills, sectionIds.process, sectionIds.projects];
+    ? { experience: "zkusenosti", about: "o-mne", projects: "projekty", process: "jak-pracuji" }
+    : { experience: "experience", about: "about", projects: "projects", process: "how-i-work" };
+  const navSectionIds = [sectionIds.experience, sectionIds.about, sectionIds.process, sectionIds.projects];
 
   return (
     <main id="top">
@@ -172,26 +172,6 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
               </li>
             ))}
           </ol>
-        </div>
-      </section>
-
-      <section className="skills-section container" id={sectionIds.skills}>
-        <div className="section-heading skills-heading">
-          <div>
-            <p className="section-kicker">{copy.skillsLabel}</p>
-            <h2>{copy.skillsTitle}</h2>
-          </div>
-          <p className="skills-intro">{copy.skillsIntro}</p>
-        </div>
-        <div className="skills-grid">
-          {copy.skills.map(([title, ...items]) => (
-            <article className="skill-card" key={title}>
-              <h3>{title}</h3>
-              <div className="skill-items">
-                {items.map((item) => <span key={item}>{item}</span>)}
-              </div>
-            </article>
-          ))}
         </div>
       </section>
 
