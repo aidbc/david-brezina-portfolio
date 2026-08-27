@@ -409,7 +409,7 @@ export const experience = {
       role: "Product Owner / Senior Business Analyst",
       period: "říjen 2016 – září 2019",
       meta: "HPP · Praha",
-      text: "Podílel jsem se na jedné z největších transformací digitálního bankovnictví na českém trhu. Jako Product Owner jsem vedl rozvoj digitální identity George klíč a podílel se na spuštění online cestovního pojištění. Jako Senior Business Analyst jsem podporoval migraci 1,8 milionu klientů na George.",
+      text: "Jako Product Owner jsem pracoval na rozvoji digitální identity George klíč a podílel se na spuštění online cestovního pojištění. Jako Senior Business Analyst jsem podporoval migraci 1,8 milionu klientů na George.",
     },
   ],
   en: [
@@ -453,7 +453,7 @@ export const experience = {
       role: "Product Owner / Senior Business Analyst",
       period: "October 2016 – September 2019",
       meta: "permanent employment · Prague",
-      text: "I contributed to one of the largest digital banking transformations in the Czech market. As Product Owner, I led the development of the George Key digital identity application and contributed to launching fully online travel insurance. As Senior Business Analyst, I supported the migration of 1.8 million clients to George.",
+      text: "As Product Owner, I worked on the development of the George Key digital identity application and contributed to launching fully online travel insurance. As Senior Business Analyst, I supported the migration of 1.8 million clients to George.",
     },
   ],
 };

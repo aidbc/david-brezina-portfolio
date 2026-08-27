@@ -123,6 +123,10 @@ test("keeps the experience section aligned with the current bilingual CV", async
   assert.match(en, /Product Manager \/ Product Owner, Shoptet Pay/);
   assert.match(cs, /Product Owner \/ Senior Business Analyst/);
   assert.match(en, /Product Owner \/ Senior Business Analyst/);
+  assert.match(cs, /Jako Product Owner jsem pracoval na rozvoji digitální identity George klíč/);
+  assert.match(en, /As Product Owner, I worked on the development of the George Key digital identity application/);
+  assert.doesNotMatch(cs, /jedné z největších transformací digitálního bankovnictví/);
+  assert.doesNotMatch(en, /one of the largest digital banking transformations/);
   assert.match(cs, /KPMG Česká republika — Business Analyst → Consultant \(2012–2015\)/);
   assert.match(en, /KPMG Czech Republic — Business Analyst → Consultant \(2012–2015\)/);
 });
