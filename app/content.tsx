@@ -506,7 +506,8 @@ export const ui = {
       ["Dovést ke spuštění", "Převést ověřený směr do user flows, priorit a backlogu. Během vývoje hlídat rozsah, průběžně ověřovat řešení a dovést produkt až ke spuštění."],
     ],
     skillsLabel: "Skills",
-    skillsTitle: <>Klíčové kompetence</>,
+    skillsTitle: <>Co přináším<br /><em>do týmu.</em></>,
+    skillsIntro: "Kombinuji produktové myšlení, znalost regulovaných digitálních služeb a praktické využití AI. Nejde mi jen o návrh směru, ale o jeho převedení do výsledku.",
     skills: [
       ["Product Development", "Product Discovery", "Definice MVP", "Produktová strategie"],
       ["Uživatelský výzkum", "Prototypování", "User Flows", "Produktová roadmapa"],
@@ -565,7 +566,8 @@ export const ui = {
       ["Bring it to launch", "Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch."],
     ],
     skillsLabel: "Skills",
-    skillsTitle: <>Core competencies</>,
+    skillsTitle: <>What I bring<br /><em>to a team.</em></>,
+    skillsIntro: "I combine product thinking, experience with regulated digital services and practical use of AI. I care not only about defining direction, but about turning it into outcomes.",
     skills: [
       ["Product Development", "Product Discovery", "MVP Definition", "Product Strategy"],
       ["User Research", "Prototyping", "User Flows", "Product Roadmap"],

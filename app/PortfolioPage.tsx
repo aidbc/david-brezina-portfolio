@@ -198,19 +198,22 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
 
       <section className="skills-section container" id={sectionIds.skills}>
         <div className="section-heading skills-heading">
-          <p className="section-kicker">{copy.skillsLabel}</p>
-          <h2>{copy.skillsTitle}</h2>
+          <div>
+            <p className="section-kicker">{copy.skillsLabel}</p>
+            <h2>{copy.skillsTitle}</h2>
+          </div>
+          <p className="skills-intro">{copy.skillsIntro}</p>
         </div>
-        <ul className="competency-list">
-          {copy.skills.map((items) => (
-            <li key={items.join("-")}>
-              <span className="competency-bullet" aria-hidden="true">●</span>
-              <div className="competency-tags">
+        <div className="skills-grid">
+          {copy.skills.map(([title, ...items]) => (
+            <article className="skill-card" key={title}>
+              <h3>{title}</h3>
+              <div className="skill-items">
                 {items.map((item) => <span key={item}>{item}</span>)}
               </div>
-            </li>
+            </article>
           ))}
-        </ul>
+        </div>
       </section>
 
       <section className="projects-section container" id={sectionIds.projects}>

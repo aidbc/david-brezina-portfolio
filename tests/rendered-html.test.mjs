@@ -111,18 +111,32 @@ test("keeps the About facts aligned with the current bilingual CV", async () => 
   assert.match(en, /Family · sport · investing · tech innovation · travel · history · books/);
 });
 
-test("renders the Skills section as simple CV-aligned competency tags", async () => {
+test("renders the Skills section as introduced cards using only the CV competencies", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
-  assert.match(cs, /Klíčové kompetence/);
-  assert.match(en, /Core competencies/);
+  const csSkills = cs.match(/<section class="skills-section[\s\S]*?<\/section>/)?.[0] ?? "";
+  const enSkills = en.match(/<section class="skills-section[\s\S]*?<\/section>/)?.[0] ?? "";
+  assert.match(cs, /Co přináším/);
+  assert.match(en, /What I bring/);
+  assert.match(cs, /Kombinuji produktové myšlení/);
+  assert.match(en, /I combine product thinking/);
   assert.match(cs, /Práce s klienty včetně C-level/);
   assert.match(en, /Client Work Including C-level/);
   assert.match(cs, /Praktické využití AI/);
   assert.match(en, /Practical Use of AI/);
-  assert.doesNotMatch(cs, /Co přináším/);
-  assert.doesNotMatch(en, /What I bring/);
-  assert.doesNotMatch(cs, /Od nejasné příležitosti k rozhodnutím/);
-  assert.doesNotMatch(en, /From an unclear opportunity to decisions/);
+  assert.equal((cs.match(/class="skill-card"/g) ?? []).length, 6);
+  assert.equal((en.match(/class="skill-card"/g) ?? []).length, 6);
+
+  for (const skill of ["Product Development", "Product Discovery", "Definice MVP", "Produktová strategie", "Uživatelský výzkum", "Prototypování", "User Flows", "Produktová roadmapa", "Product Leadership", "Stakeholder management", "Práce s klienty včetně C-level", "Product Delivery", "Prioritizace", "Backlog Ownership", "Fintech", "Wealth Management", "Platby", "Open Banking", "Digitální identita", "Praktické využití AI", "LLM Use Cases", "AI-agentic workflows", "Prompt engineering"]) {
+    assert.match(csSkills, new RegExp(skill));
+  }
+  for (const skill of ["Product Development", "Product Discovery", "MVP Definition", "Product Strategy", "User Research", "Prototyping", "User Flows", "Product Roadmap", "Product Leadership", "Stakeholder Management", "Client Work Including C-level", "Product Delivery", "Prioritisation", "Backlog Ownership", "Fintech", "Wealth Management", "Payments", "Open Banking", "Digital Identity", "Practical Use of AI", "LLM Use Cases", "AI-agentic Workflows", "Prompt Engineering"]) {
+    assert.match(enSkills, new RegExp(skill));
+  }
+
+  for (const extra of ["0→1 development", "Investments", "Regulatory constraints", "ChatGPT API", "Automations with n8n", "Agile coaching"]) {
+    assert.doesNotMatch(csSkills, new RegExp(extra));
+    assert.doesNotMatch(enSkills, new RegExp(extra));
+  }
 });
 
 test("renders the bilingual company references with all fifteen logos", async () => {
