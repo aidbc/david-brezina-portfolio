@@ -463,7 +463,7 @@ export const ui = {
     nav: ["Zkušenosti", "O mně", "Skills", "Jak pracuji", "Projekty"],
     heroLabel: "Product Lead · Praha",
     heroTitle: <>Nové produkty<br />od nápadu <em>ke spuštění.</em></>,
-    heroText: "Vedu discovery, pomáhám najít smysluplné MVP a propojuji byznys, design a vývoj tak, aby se produkt skutečně dostal na trh.",
+    heroText: "Z nejasného nápadu pomáhám vytvořit produkt, který má smysl postavit — od discovery a MVP až po delivery a launch.",
     heroSubtext: "Přes 10 let zkušeností, především z fintechu, bankovnictví a wealth managementu.",
     viewProjects: "Prohlédnout projekty",
     download: "Stáhnout profil (.md)",
