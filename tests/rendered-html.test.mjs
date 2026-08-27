@@ -111,6 +111,20 @@ test("keeps the About facts aligned with the current bilingual CV", async () => 
   assert.match(en, /Family · sport · investing · tech innovation · travel · history · books/);
 });
 
+test("renders the Skills section as simple CV-aligned competency tags", async () => {
+  const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
+  assert.match(cs, /Klíčové kompetence/);
+  assert.match(en, /Core competencies/);
+  assert.match(cs, /Práce s klienty včetně C-level/);
+  assert.match(en, /Client Work Including C-level/);
+  assert.match(cs, /Praktické využití AI/);
+  assert.match(en, /Practical Use of AI/);
+  assert.doesNotMatch(cs, /Co přináším/);
+  assert.doesNotMatch(en, /What I bring/);
+  assert.doesNotMatch(cs, /Od nejasné příležitosti k rozhodnutím/);
+  assert.doesNotMatch(en, /From an unclear opportunity to decisions/);
+});
+
 test("keeps the experience section aligned with the current bilingual CV", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
   assert.match(cs, />Kde jsem pracoval</);
