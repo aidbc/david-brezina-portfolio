@@ -20,9 +20,9 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
     ? "David_Brezina_Profile_CZ.md"
     : "David_Brezina_Profile_EN.md";
   const sectionIds = isCs
-    ? { experience: "zkusenosti", about: "o-mne", projects: "projekty", process: "jak-pracuji" }
-    : { experience: "experience", about: "about", projects: "projects", process: "how-i-work" };
-  const navSectionIds = [sectionIds.experience, sectionIds.about, sectionIds.process, sectionIds.projects];
+    ? { experience: "zkusenosti", about: "o-mne", projects: "projekty" }
+    : { experience: "experience", about: "about", projects: "projects" };
+  const navSectionIds = [sectionIds.experience, sectionIds.about, sectionIds.projects];
 
   return (
     <main id="top">
@@ -152,26 +152,6 @@ export function PortfolioPage({ locale }: { locale: Locale }) {
               </div>
             ))}
           </dl>
-        </div>
-      </section>
-
-      <section className="process-section" id={sectionIds.process}>
-        <div className="container process-grid">
-          <div className="process-intro">
-            <p className="section-kicker light">{copy.processLabel}</p>
-            <h2>{copy.processTitle}</h2>
-          </div>
-          <ol className="process-list">
-            {copy.process.map(([title, description], index) => (
-              <li key={title}>
-                <span>0{index + 1}</span>
-                <div>
-                  <h3>{title}</h3>
-                  <p>{description}</p>
-                </div>
-              </li>
-            ))}
-          </ol>
         </div>
       </section>
 

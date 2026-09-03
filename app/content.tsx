@@ -484,7 +484,7 @@ export const companies = [
 
 export const ui = {
   cs: {
-    nav: ["Zkušenosti", "O mně", "Jak pracuji", "Projekty"],
+    nav: ["Zkušenosti", "O mně", "Projekty"],
     heroLabel: "Product Lead · Praha",
     heroTitle: <>Nové produkty<br />od nápadu <em>ke spuštění.</em></>,
     heroText: "Z nejasného nápadu pomáhám vytvořit produkt, který má smysl postavit — od discovery, MVP, vývoj až po spuštění.",
@@ -503,14 +503,6 @@ export const ui = {
     projectLink: "Detail projektu",
     experienceLabel: "Zkušenosti",
     experienceTitle: <>Kde jsem pracoval</>,
-    processLabel: "Jak pracuji",
-    processTitle: <>Od prvního nápadu<br />k fungujícímu produktu.</>,
-    process: [
-      ["Pochopit problém", "Pochopit a definovat obchodní cíle, poznat uživatele, jejich potřeby a kontext. Pomocí výzkumu odhalit skutečné problémy a neověřené předpoklady."],
-      ["Ověřit správný směr", "Rozpracovat možné přístupy, rychle je prototypovat a testováním zjistit, které řešení přináší největší hodnotu."],
-      ["Najít správné MVP", "Společně s byznysem, designem a vývojem vybrat nejmenší smysluplnou verzi produktu, která je proveditelná, ověří klíčové předpoklady a přinese uživatelům hodnotu."],
-      ["Dovést ke spuštění", "Převést ověřený směr do user flows, priorit a backlogu. Během vývoje hlídat rozsah, průběžně ověřovat řešení a dovést produkt až ke spuštění. Po spuštění sbírat zpětnou vazbu a produkt dál rozvíjet."],
-    ],
     aboutLabel: "O mně",
     aboutTitle: <>Nejvíc mě baví projekty,<br />kde odpověď ještě <em>není jasná.</em></>,
     aboutText: [
@@ -533,7 +525,7 @@ export const ui = {
     backTop: "Zpět nahoru",
   },
   en: {
-    nav: ["Experience", "About", "How I work", "Projects"],
+    nav: ["Experience", "About", "Projects"],
     heroLabel: "Product Lead · Prague",
     heroTitle: <>New products<br />from idea <em>to launch.</em></>,
     heroText: "I turn unclear ideas into products worth building — from discovery and MVP through development to launch.",
@@ -552,14 +544,6 @@ export const ui = {
     projectLink: "View case study",
     experienceLabel: "Experience",
     experienceTitle: <>Where I&apos;ve worked</>,
-    processLabel: "How I work",
-    processTitle: <>From the first idea<br />to a working product.</>,
-    process: [
-      ["Understand the problem", "Understand and define the business goals, get to know the users, their needs and context. Use research to uncover real problems and untested assumptions."],
-      ["Validate the direction", "Explore possible approaches, prototype them quickly and test which solution creates the most value."],
-      ["Find the right MVP", "Together with business, design and engineering, define the smallest meaningful version that is feasible, tests the key assumptions and delivers value to users."],
-      ["Bring it to launch", "Translate the validated direction into user flows, priorities and a backlog. Manage scope during development, continuously validate the solution and take the product all the way to launch. After launch, collect feedback and continue developing the product."],
-    ],
     aboutLabel: "About",
     aboutTitle: <>I do my best work<br />when the answer <em>isn&apos;t obvious yet.</em></>,
     aboutText: [

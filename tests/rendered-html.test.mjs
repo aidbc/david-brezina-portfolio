@@ -47,8 +47,14 @@ test("keeps the bilingual hero message concise and aligned", async () => {
   const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
   assert.match(cs, /od discovery, MVP, vývoj až po spuštění/);
   assert.match(en, /from discovery and MVP through development to launch/);
-  assert.match(cs, /Po spuštění sbírat zpětnou vazbu a produkt dál rozvíjet/);
-  assert.match(en, /After launch, collect feedback and continue developing the product/);
+});
+
+test("does not render the How I work section or navigation item", async () => {
+  const [cs, en] = await Promise.all([read("index.html"), read("en.html")]);
+  assert.doesNotMatch(cs, /class="process-section/);
+  assert.doesNotMatch(en, /class="process-section/);
+  assert.doesNotMatch(cs, /href="#jak-pracuji">Jak pracuji<\/a>/);
+  assert.doesNotMatch(en, /href="#how-i-work">How I work<\/a>/);
 });
 
 test("keeps the profile download only in the home-page hero", async () => {
